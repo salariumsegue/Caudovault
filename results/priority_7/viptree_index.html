@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='/viptree/bower_components/bootstrap/dist/css/bootstrap.css' rel='stylesheet'>
+    <link href='/viptree/src/bootstrap-select-1.11.2/dist/css/bootstrap-select.css' rel='stylesheet'>
+    <link href='/viptree/css/user_top.css' rel='stylesheet'>
+    <script src='/viptree/bower_components/jquery/dist/jquery.js'></script>
+    <script src='/viptree/bower_components/bootstrap/dist/js/bootstrap.js'></script>
+    <script src='/viptree/src/bootstrap-select-1.11.2/js/bootstrap-select.js'></script>
+    <script src='/viptree/js/user_top.js'></script>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <body>
+      <nav class='navbar navbar-inverse'>
+        <div class='container-fluid'>
+          <div class='navbar-header'>
+            <a class='navbar-brand highlight' href='/viptree/'>
+              <span style='vertical-align: top; font-family: Kaushan Script;'>ViPTree</span>
+            </a>
+          </div>
+          <ul class='nav navbar-nav'>
+            <li class='dropdown'>
+              <a aria-expanded='false' aria-haspopup='true' class='dropdown-toggle' data-toggle='dropdown' href='#' role='button'>
+                Reference trees
+                <span class='caret'></span>
+              </a>
+              <ul class='dropdown-menu'>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=dsDNA'>dsDNA viruses</a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=ssDNA'>ssDNA viruses</a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=dsRNA'>dsRNA viruses</a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=ssRNA'>ssRNA viruses</a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=ssRNA-RT'>ssRNA-RT viruses</a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='/viptree/ref?nuctype=dsDNA-RT'>dsDNA-RT viruses</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href='/viptree/upload'>Upload</a>
+            </li>
+            <li>
+              <a href='/viptree/document'>Document</a>
+            </li>
+            <li>
+              <a class='highlight' href='/viptree/u/u6lWCt_eU2Wt7KD86pfmNw'>Session main</a>
+            </li>
+          </ul>
+          <ul class='nav navbar-nav navbar-right'>
+            <li class='dropdown'>
+              <a aria-expanded='false' aria-haspopup='true' class='dropdown-toggle' data-toggle='dropdown' href='#' role='button'>
+                Links
+                <span class='caret'></span>
+              </a>
+              <ul class='dropdown-menu'>
+                <li class='nav-drop'>
+                  <a href='https://github.com/yosuken/ViPTreeGen'>
+                    <span style=''>Get standalone software (ViPTreeGen)</span>
+                  </a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='https://www.genome.jp/feedback/?category=GenomeNettools'>
+                    <span style=''>Send feedback</span>
+                  </a>
+                </li>
+                <li class='divider'></li>
+                <li class='nav-drop'>
+                  <a href='https://www.genome.jp'>
+                    <span style='vertical-align: top; font-family: Kaushan Script;'>Go to GenomeNet</span>
+                  </a>
+                </li>
+                <li class='nav-drop'>
+                  <a href='https://www.genome.jp/virushostdb'>
+                    <span style='vertical-align: top; font-family: Kaushan Script;'>Go to Virus-Host DB</span>
+                  </a>
+                </li>
+                <li class='divider'></li>
+                <li class='nav-drop'>
+                  <a href='/viptree/EVG2017'>
+                    <span style=''>Supplemental data for EVG2017 paper</span>
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </body>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-lg-8 col-md-8 col-sm-12'>
+          <div>
+            <h2>
+              <span style='font-family: Kaushan Script;'>Session main page</span>
+              <br>
+              <br>
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col-md-5'>
+          <!DOCTYPE html>
+          <body>
+            <div>
+              <h4>
+                <p class='subtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-info-sign'></span>
+                  <strong>Information</strong>
+                </p>
+              </h4>
+              <p>
+              </p>
+            </div>
+            <div id='session_info'>
+              <div>
+                <div>
+                  <h4>
+                    <a data-toggle='collapse' href='#user_seq_list' id='toggle'>
+                      <strong>Uploaded sequences (click here)</strong>
+                    </a>
+                  </h4>
+                </div>
+                <div class='panel-collapse collapse' id='user_seq_list'>
+                  <ol>
+                    <li>CTG_000058 (77643 nt)</li>
+                    <li>CTG_000137 (52985 nt)</li>
+                    <li>CTG_000145 (51844 nt)</li>
+                    <li>CTG_000169 (46864 nt)</li>
+                    <li>CTG_000273 (37077 nt)</li>
+                    <li>CTG_000296 (35483 nt)</li>
+                    <li>CTG_000311 (34177 nt)</li>
+                  </ol>
+                </div>
+              </div>
+              <div>
+                <h4>
+                  <strong>Selected dataset</strong>
+                </h4>
+                <ul>
+                  <li>Nucleotide type: dsDNA</li>
+                  <li>Host type: Prokaryote</li>
+                </ul>
+              </div>
+              <hr>
+              <div>
+                <h4>
+                  <strong>Gene information</strong>
+                </h4>
+                <ul>
+                  <li>Use prodigal</li>
+                </ul>
+              </div>
+              <div>
+                <h4>
+                  <strong>Genetic code</strong>
+                </h4>
+                <ul>
+                  <li>11. The Bacterial, Archaeal and Plant Plastid Code</li>
+                </ul>
+              </div>
+              <div>
+                <h4>
+                  <strong>Gene functional prediction performed?</strong>
+                </h4>
+                <ul>
+                  <li>No</li>
+                </ul>
+              </div>
+              <hr>
+              <div>
+                <h4>
+                  <strong>Data recieved at</strong>
+                </h4>
+                <ul>
+                  <li>2026-11-18 13:39:06 +0900</li>
+                </ul>
+              </div>
+              <div>
+                <h4>
+                  <strong>Calculatation finished at</strong>
+                </h4>
+                <ul>
+                  <li>2026-11-18 15:05:57 +0900</li>
+                </ul>
+              </div>
+              <hr>
+              <div>
+                <h4>
+                  <strong>Session ID</strong>
+                </h4>
+                <ul>
+                  <li>u6lWCt_eU2Wt7KD86pfmNw</li>
+                </ul>
+              </div>
+              <div>
+                <h4>
+                  <strong>ViPTree release version</strong>
+                </h4>
+                <ul>
+                  <li>4.2</li>
+                </ul>
+              </div>
+            </div>
+          </body>
+        </div>
+        <div class='col-md-1'></div>
+        <div class='col-md-5'>
+          <!DOCTYPE html>
+          <body>
+            <div>
+              <h4>
+                <p class='subtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-menu-hamburger'></span>
+                  <strong>Menu</strong>
+                </p>
+              </h4>
+            </div>
+            <div id='session_menu'>
+              <p>
+                <h4 class='subsubtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-tag'></span>
+                  Browse proteomic tree
+                </h4>
+                <ul>
+                  <li>related genomes &nbsp; <a href="#" title="Proteomic tree of related genomes" data-toggle="popover" data-trigger="focus" data-html="true" data-content="This tree containing only user genomes and genomes that are “related” to user genomes. <br>The related genomes are composed of two types of reference genomes:<br>(i) reference genomes that show sequence similarities (<i>S</i><sub>G</sub> > 0.02) to at least one of the user genome<br>(ii) reference genomes that show sequence similarities (<i>S</i><sub>G</sub> > 0.02) to at least one of the reference genome of type 1."><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a></li>
+                  (queries and related genomes to the queries)
+                  <ul>
+                    <li>
+                      <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/reltree?circular=on&amp;highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>Circular tree</a>
+                    </li>
+                    <li>
+                      <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/reltree?highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>Rectangular tree</a>
+                    </li>
+                  </ul>
+                  <li>all genomes</li>
+                  (queries and all genomes in the selected dataset)
+                  <ul>
+                    <li>
+                      <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/tree?circular=on&amp;highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>Circular tree</a>
+                    </li>
+                    <li>
+                      <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/tree?highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>Rectangular tree</a>
+                    </li>
+                  </ul>
+                </ul>
+              </p>
+              <hr>
+              <p>
+                <h4 class='subsubtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-scissors'></span>
+                  Regenerate proteomic tree (make subset)
+                </h4>
+                <ul>
+                  <li>
+                    <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/relselect?highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>regenerate tree from related genomes</a>
+                  </li>
+                  <li>
+                    <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/select?highlight=CTG_000058,CTG_000137,CTG_000145,CTG_000169,CTG_000273,CTG_000296,CTG_000311'>regenerate tree from all genomes</a>
+                  </li>
+                </ul>
+              </p>
+              <hr>
+              <p>
+                <h4 class='subsubtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-tags'></span>
+                  Browse regenerated tree
+                </h4>
+                <form action='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw' class='form-horizontal' enctype='multipart/form-data' method='post'>
+                  <fieldset>
+                    <select class='selectpicker' data-show-subtext='true' data-size='7' name='subname'>
+                      <option disabled>No regenerated tree</option>
+                    </select>
+                    <input class='btn btn-primary' type='submit' value='view'>
+                  </fieldset>
+                </form>
+              </p>
+              <hr>
+              <p>
+                <h4 class='subsubtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-th'></span>
+                  Browse table
+                </h4>
+                <ul>
+                  <li>
+                    <a href='https://www.genome.jp/viptree/u/u6lWCt_eU2Wt7KD86pfmNw/genome'>table of viruses with similarity scores</a>
+                  </li>
+                </ul>
+              </p>
+              <hr>
+              <p>
+                <h4 class='subsubtitle'>
+                  <span aria-hidden='true' class='glyphicon glyphicon-download'></span>
+                  Download files
+                </h4>
+                <ul style='list-style: none;'>
+                  <li>
+                    <a download='results_all.zip' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/../results_all.zip'>
+                      <b>All files</b>
+                    </a>
+                    (include all files below)
+                  </li>
+                </ul>
+                <ul style='margin-left: 30px;'>
+                  <li>Input fasta</li>
+                  <ul>
+                    <li>
+                      <a download='uploaded.checked.fasta' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/../uploaded.checked.fasta'>Input FASTA</a>
+                      (IDs are possibly modified)
+                    </li>
+                  </ul>
+                  <li>Genome table</li>
+                  <ul>
+                    <li>
+                      <a download='genomes.tsv' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/set.ordered.lst.w.sim'>table of viruses with the similarity scores <i>S<sub>G</sub></i></a>
+                    </li>
+                  </ul>
+                  <li>BLAST result</li>
+                  <ul>
+                    <li>
+                      <a download='tblastx.zip' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/../tblastx.zip'> output</a>
+                      (format 6)
+                    </li>
+                  </ul>
+                  <li>Gene information (predicted by prodigal or uploaded by user)</li>
+                  <ul>
+                    <li>
+                      <a download='genes.gff' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/uploaded.gff'>gene positions (GFF format)</a>
+                    </li>
+                    <li>
+                      <a download='genes.bed' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/uploaded.arranged.bed'>gene positions (BED-like format)</a>
+                    </li>
+                    <li>
+                      <a download='genes.faa' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/uploaded.faa'>protein FASTA</a>
+                    </li>
+                    <li>
+                      <a download='genes.fna' href='/viptree/data/u/u/u6lWCt_eU2Wt7KD86pfmNw/set/uploaded.fna'>nucleotide FASTA</a>
+                    </li>
+                  </ul>
+                </ul>
+              </p>
+            </div>
+          </body>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

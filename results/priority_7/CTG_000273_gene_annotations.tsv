@@ -1,0 +1,49 @@
+gene_id	contig_id	gene_index	start	end	strand	partial_5prime	partial_3prime	aa_length	best_phrog_id	predicted_function	functional_group	bit_score	domain_evalue	profile_coverage	secondary_conflicting_profiles
+CTG_000273_1	CTG_000273	1	2	127	1	True	False	41	NA	hypothetical protein	unknown				none
+CTG_000273_2	CTG_000273	2	261	485	1	False	False	74	NA	hypothetical protein	unknown				none
+CTG_000273_3	CTG_000273	3	513	617	1	False	False	34	NA	hypothetical protein	unknown				none
+CTG_000273_4	CTG_000273	4	640	843	1	False	False	67	NA	hypothetical protein	unknown				none
+CTG_000273_5	CTG_000273	5	845	1153	1	False	False	102	NA	hypothetical protein	unknown				none
+CTG_000273_6	CTG_000273	6	1322	2179	-1	False	False	285	phrog_2514	putative DNA, RNA and nucleotide metabolism | DnaD-like helicase loader	replication	83.3	8.76374271971073e-23	0.7704	phrog_27581
+CTG_000273_7	CTG_000273	7	2375	2743	-1	False	False	122	phrog_18669	putative unknown function | unknown	unknown	52.6	1.6150369517171762e-13	0.963	none
+CTG_000273_8	CTG_000273	8	3091	3411	-1	False	False	106	NA	hypothetical protein	unknown				none
+CTG_000273_9	CTG_000273	9	3408	3674	-1	False	False	88	NA	hypothetical protein	unknown				none
+CTG_000273_10	CTG_000273	10	3655	4119	-1	False	False	154	NA	hypothetical protein	unknown				none
+CTG_000273_11	CTG_000273	11	4116	4760	-1	False	False	214	phrog_10312	putative unknown function | unknown	unknown	32.67	3.673199730489219e-07	0.5282	none
+CTG_000273_12	CTG_000273	12	4757	4957	-1	False	False	66	NA	hypothetical protein	unknown				none
+CTG_000273_13	CTG_000273	13	4948	5535	-1	False	False	195	phrog_757	putative other | DNA methyltransferase	unknown	202.59	2.6925088690997274e-59	0.83	phrog_27471
+CTG_000273_14	CTG_000273	14	5520	6188	-1	False	False	222	phrog_392	putative other | metal-dependent hydrolase	unknown	185.08	1.2746445349286554e-53	0.7098	none
+CTG_000273_15	CTG_000273	15	6274	7176	-1	False	False	300	phrog_148	putative DNA, RNA and nucleotide metabolism | RecT-like ssDNA annealing protein	unknown	186.54	5.511550568022523e-54	0.6693	phrog_19737
+CTG_000273_16	CTG_000273	16	7205	7528	-1	False	False	107	phrog_1086	putative unknown function | unknown	unknown	62.85	1.185094002629227e-16	0.6788	phrog_2267
+CTG_000273_17	CTG_000273	17	7566	9452	-1	False	False	628	phrog_77	putative DNA, RNA and nucleotide metabolism | SbcC-like subunit of palindrome specific endonuclease	unknown	158.88	1.1252792458658788e-45	0.6319	phrog_1499;phrog_10445;phrog_20188;phrog_21084;phrog_25363
+CTG_000273_18	CTG_000273	18	9523	9708	-1	False	False	61	NA	hypothetical protein	unknown				none
+CTG_000273_19	CTG_000273	19	9728	9874	-1	False	False	48	NA	hypothetical protein	unknown				none
+CTG_000273_20	CTG_000273	20	9971	10183	-1	False	False	70	NA	hypothetical protein	unknown				none
+CTG_000273_21	CTG_000273	21	10310	10543	-1	False	False	77	NA	hypothetical protein	unknown				none
+CTG_000273_22	CTG_000273	22	10482	10694	-1	False	False	70	NA	hypothetical protein	unknown				none
+CTG_000273_23	CTG_000273	23	10691	11002	-1	False	False	103	NA	hypothetical protein	unknown				none
+CTG_000273_24	CTG_000273	24	11015	11521	-1	False	False	168	phrog_12853	putative unknown function | unknown	unknown	40.81	1.3728940593007996e-09	0.8626	none
+CTG_000273_25	CTG_000273	25	11521	11742	-1	False	False	73	NA	hypothetical protein	unknown				none
+CTG_000273_26	CTG_000273	26	11809	18873	-1	False	False	2354	NA	hypothetical protein	unknown				none
+CTG_000273_27	CTG_000273	27	18876	20084	-1	False	False	402	NA	hypothetical protein	unknown				none
+CTG_000273_28	CTG_000273	28	20103	21290	-1	False	False	395	phrog_4287	putative DNA, RNA and nucleotide metabolism | DNA ejection protein	unknown	45.94	2.2401427701180398e-11	0.8699	phrog_7477
+CTG_000273_29	CTG_000273	29	21283	21714	-1	False	False	143	NA	hypothetical protein	unknown				none
+CTG_000273_30	CTG_000273	30	21711	21977	-1	False	False	88	NA	hypothetical protein	unknown				none
+CTG_000273_31	CTG_000273	31	21974	23524	-1	False	False	516	phrog_3287	putative head and packaging | virion structural protein	packaging	367.9	4.818065535715074e-109	0.9847	none
+CTG_000273_32	CTG_000273	32	23710	23949	-1	False	False	79	NA	hypothetical protein	unknown				none
+CTG_000273_33	CTG_000273	33	23924	24913	-1	False	False	329	phrog_2825	putative DNA, RNA and nucleotide metabolism | polymerase	replication	55.84	2.0269115036161214e-14	0.6637	none
+CTG_000273_34	CTG_000273	34	24910	25542	-1	False	False	210	NA	hypothetical protein	unknown				none
+CTG_000273_35	CTG_000273	35	25603	27411	-1	False	False	602	phrog_11262	putative tail | tail protein	tail	345.16	2.7468104059400885e-102	0.8219	none
+CTG_000273_36	CTG_000273	36	27430	28041	-1	False	False	203	phrog_2941	putative head and packaging | virion structural protein	packaging	104.84	2.356522413697396e-29	0.8654	none
+CTG_000273_37	CTG_000273	37	28038	28331	-1	False	False	97	NA	hypothetical protein	unknown				none
+CTG_000273_38	CTG_000273	38	28361	29284	-1	False	False	307	phrog_1328	putative head and packaging | major head protein	head/capsid	275.02	9.501843105208036e-81	0.5214	none
+CTG_000273_39	CTG_000273	39	29306	30313	-1	False	False	335	phrog_3927	putative head and packaging | head scaffolding protein	head/capsid	183.69	3.431491033252984e-53	0.9035	phrog_9013
+CTG_000273_40	CTG_000273	40	30450	32666	1	False	False	738	phrog_1216	putative head and packaging | portal protein	packaging	360.49	1.0380453726527067e-106	0.9678	phrog_332
+CTG_000273_41	CTG_000273	41	32779	33033	1	False	False	84	NA	hypothetical protein	unknown				none
+CTG_000273_42	CTG_000273	42	33040	34587	-1	False	False	515	phrog_5902	putative unknown function | unknown	unknown	108.03	3.0485887360566603e-30	0.7298	none
+CTG_000273_43	CTG_000273	43	34590	34820	-1	False	False	76	NA	hypothetical protein	unknown				none
+CTG_000273_44	CTG_000273	44	34824	35102	-1	False	False	92	NA	hypothetical protein	unknown				none
+CTG_000273_45	CTG_000273	45	35331	35519	1	False	False	62	NA	hypothetical protein	unknown				none
+CTG_000273_46	CTG_000273	46	35808	36335	-1	False	False	175	phrog_23444	putative head and packaging | terminase small subunit	packaging	38.69	4.7252021107186105e-09	0.5079	none
+CTG_000273_47	CTG_000273	47	36507	36653	1	False	False	48	NA	hypothetical protein	unknown				none
+CTG_000273_48	CTG_000273	48	36682	37077	1	False	True	132	phrog_10276	putative DNA, RNA and nucleotide metabolism | DNA repair protein	unknown	117.81	2.1311486327800844e-33	0.7582	none

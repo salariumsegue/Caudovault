@@ -1,0 +1,53 @@
+##gff-version 3
+##sequence-region CTG_000311 1 34122
+CTG_000311	Prodigal_PHROGs	CDS	116	556	.	-	0	ID=CTG_000311_1;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	563	1180	.	-	0	ID=CTG_000311_2;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	1185	1367	.	-	0	ID=CTG_000311_3;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	1372	1680	.	-	0	ID=CTG_000311_4;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	2242	2457	.	-	0	ID=CTG_000311_5;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	2459	3337	.	-	0	ID=CTG_000311_6;product=endolysin
+CTG_000311	Prodigal_PHROGs	CDS	3451	4497	.	-	0	ID=CTG_000311_7;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	4502	4825	.	-	0	ID=CTG_000311_8;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	4864	6048	.	-	0	ID=CTG_000311_9;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	6052	6813	.	-	0	ID=CTG_000311_10;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	6819	8582	.	-	0	ID=CTG_000311_11;product=tail length tape measure protein
+CTG_000311	Prodigal_PHROGs	CDS	8787	9167	.	-	0	ID=CTG_000311_12;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	9230	10432	.	-	0	ID=CTG_000311_13;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	10445	10603	.	-	0	ID=CTG_000311_14;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	10622	11056	.	-	0	ID=CTG_000311_15;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	11053	11427	.	-	0	ID=CTG_000311_16;product=tail completion or Neck1 protein
+CTG_000311	Prodigal_PHROGs	CDS	11427	11732	.	-	0	ID=CTG_000311_17;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	11725	12333	.	-	0	ID=CTG_000311_18;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	12343	12660	.	-	0	ID=CTG_000311_19;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	12719	14086	.	-	0	ID=CTG_000311_20;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	14151	15275	.	-	0	ID=CTG_000311_21;product=major head protein
+CTG_000311	Prodigal_PHROGs	CDS	15286	16404	.	-	0	ID=CTG_000311_22;product=head maturation protease
+CTG_000311	Prodigal_PHROGs	CDS	16426	18573	.	-	0	ID=CTG_000311_23;product=portal protein
+CTG_000311	Prodigal_PHROGs	CDS	18666	20297	.	-	0	ID=CTG_000311_24;product=terminase large subunit
+CTG_000311	Prodigal_PHROGs	CDS	20257	21768	.	-	0	ID=CTG_000311_25;product=queuine tRNA-ribosyltransferase
+CTG_000311	Prodigal_PHROGs	CDS	21765	22337	.	-	0	ID=CTG_000311_26;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	22334	23323	.	-	0	ID=CTG_000311_27;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	23320	23697	.	-	0	ID=CTG_000311_28;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	23699	24406	.	-	0	ID=CTG_000311_29;product=GTP cyclohydrolase
+CTG_000311	Prodigal_PHROGs	CDS	24414	24560	.	-	0	ID=CTG_000311_30;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	24557	25198	.	-	0	ID=CTG_000311_31;product=QueE-like  radical SAM domain
+CTG_000311	Prodigal_PHROGs	CDS	25301	25672	.	-	0	ID=CTG_000311_32;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	25679	25798	.	-	0	ID=CTG_000311_33;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	25803	26129	.	-	0	ID=CTG_000311_34;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	26126	26434	.	-	0	ID=CTG_000311_35;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	26549	26929	.	-	0	ID=CTG_000311_36;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	26942	27328	.	-	0	ID=CTG_000311_37;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	27333	27701	.	-	0	ID=CTG_000311_38;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	27722	28105	.	-	0	ID=CTG_000311_39;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	28110	28901	.	-	0	ID=CTG_000311_40;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	29053	29514	.	-	0	ID=CTG_000311_41;product=NinB/ Orf homologous recombination mediator
+CTG_000311	Prodigal_PHROGs	CDS	29501	29725	.	-	0	ID=CTG_000311_42;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	29731	29994	.	-	0	ID=CTG_000311_43;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	29991	30296	.	-	0	ID=CTG_000311_44;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	30301	30534	.	-	0	ID=CTG_000311_45;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	30541	30984	.	-	0	ID=CTG_000311_46;product=single strand DNA binding protein
+CTG_000311	Prodigal_PHROGs	CDS	31004	31639	.	-	0	ID=CTG_000311_47;product=exonuclease
+CTG_000311	Prodigal_PHROGs	CDS	31694	32476	.	-	0	ID=CTG_000311_48;product=exonuclease
+CTG_000311	Prodigal_PHROGs	CDS	32478	33278	.	-	0	ID=CTG_000311_49;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	33366	33614	.	-	0	ID=CTG_000311_50;product=hypothetical protein
+CTG_000311	Prodigal_PHROGs	CDS	33622	34176	.	-	0	ID=CTG_000311_51;product=hypothetical protein

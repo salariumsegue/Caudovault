@@ -1,0 +1,210 @@
+>Feature CTG_000273
+261	485	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_2
+			transl_table	11
+513	617	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_3
+			transl_table	11
+640	843	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_4
+			transl_table	11
+845	1153	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_5
+			transl_table	11
+2179	1322	CDS
+			product	DnaD-like helicase loader
+			locus_tag	CTG_000273_6
+			transl_table	11
+			note	PHROG:phrog_2514 (bitscore=83.3)
+2743	2375	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_7
+			transl_table	11
+			note	PHROG:phrog_18669 (putative unknown function)
+3411	3091	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_8
+			transl_table	11
+3674	3408	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_9
+			transl_table	11
+4119	3655	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_10
+			transl_table	11
+4760	4116	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_11
+			transl_table	11
+			note	PHROG:phrog_10312 (putative unknown function)
+4957	4757	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_12
+			transl_table	11
+5535	4948	CDS
+			product	DNA methyltransferase
+			locus_tag	CTG_000273_13
+			transl_table	11
+			note	PHROG:phrog_757 (bitscore=202.59)
+6188	5520	CDS
+			product	metal-dependent hydrolase
+			locus_tag	CTG_000273_14
+			transl_table	11
+			note	PHROG:phrog_392 (bitscore=185.08)
+7176	6274	CDS
+			product	RecT-like ssDNA annealing protein
+			locus_tag	CTG_000273_15
+			transl_table	11
+			note	PHROG:phrog_148 (bitscore=186.54)
+7528	7205	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_16
+			transl_table	11
+			note	PHROG:phrog_1086 (putative unknown function)
+9452	7566	CDS
+			product	SbcC-like subunit of palindrome specific endonuclease
+			locus_tag	CTG_000273_17
+			transl_table	11
+			note	PHROG:phrog_77 (bitscore=158.88)
+9708	9523	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_18
+			transl_table	11
+9874	9728	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_19
+			transl_table	11
+10183	9971	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_20
+			transl_table	11
+10543	10310	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_21
+			transl_table	11
+10694	10482	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_22
+			transl_table	11
+11002	10691	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_23
+			transl_table	11
+11521	11015	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_24
+			transl_table	11
+			note	PHROG:phrog_12853 (putative unknown function)
+11742	11521	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_25
+			transl_table	11
+18873	11809	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_26
+			transl_table	11
+20084	18876	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_27
+			transl_table	11
+21290	20103	CDS
+			product	DNA ejection protein
+			locus_tag	CTG_000273_28
+			transl_table	11
+			note	PHROG:phrog_4287 (bitscore=45.94)
+21714	21283	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_29
+			transl_table	11
+21977	21711	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_30
+			transl_table	11
+23524	21974	CDS
+			product	virion structural protein
+			locus_tag	CTG_000273_31
+			transl_table	11
+			note	PHROG:phrog_3287 (bitscore=367.9)
+23949	23710	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_32
+			transl_table	11
+24913	23924	CDS
+			product	polymerase
+			locus_tag	CTG_000273_33
+			transl_table	11
+			note	PHROG:phrog_2825 (bitscore=55.84)
+25542	24910	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_34
+			transl_table	11
+27411	25603	CDS
+			product	tail protein
+			locus_tag	CTG_000273_35
+			transl_table	11
+			note	PHROG:phrog_11262 (bitscore=345.16)
+28041	27430	CDS
+			product	virion structural protein
+			locus_tag	CTG_000273_36
+			transl_table	11
+			note	PHROG:phrog_2941 (bitscore=104.84)
+28331	28038	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_37
+			transl_table	11
+29284	28361	CDS
+			product	major head protein
+			locus_tag	CTG_000273_38
+			transl_table	11
+			note	PHROG:phrog_1328 (bitscore=275.02)
+30313	29306	CDS
+			product	head scaffolding protein
+			locus_tag	CTG_000273_39
+			transl_table	11
+			note	PHROG:phrog_3927 (bitscore=183.69)
+30450	32666	CDS
+			product	portal protein
+			locus_tag	CTG_000273_40
+			transl_table	11
+			note	PHROG:phrog_1216 (bitscore=360.49)
+32779	33033	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_41
+			transl_table	11
+34587	33040	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_42
+			transl_table	11
+			note	PHROG:phrog_5902 (putative unknown function)
+34820	34590	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_43
+			transl_table	11
+35102	34824	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_44
+			transl_table	11
+35331	35519	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_45
+			transl_table	11
+36335	35808	CDS
+			product	terminase small subunit
+			locus_tag	CTG_000273_46
+			transl_table	11
+			note	PHROG:phrog_23444 (bitscore=38.69)
+36507	36653	CDS
+			product	hypothetical protein
+			locus_tag	CTG_000273_47
+			transl_table	11
+36682	37043	CDS
+1	127
+			product	DNA repair protein
+			locus_tag	CTG_000273_48
+			transl_table	11
+			note	PHROG:phrog_10276 (bitscore=117.81); spans circularized DTR junction (fuses linear _48 and _1 in-frame)

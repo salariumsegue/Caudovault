@@ -1,0 +1,85 @@
+project:
+  name: "sanity_panel_run"
+  random_seed: 42
+  threads: 4
+
+run:
+  mode: "sanity"   # synthetic control panel only; NOT biological data
+
+paths:
+  results_dir: "results_sanity"
+  logs_dir: "logs_sanity"
+  report_dir: "report_sanity"
+  raw_contigs: "data/raw/assembly.fasta.gz"
+  manifest: "metadata/dataset_manifest.tsv"
+  phrogs_annotation_tsv: "data/references/phrogs_annotation.tsv"
+  phrogs_msa_dir: "data/references/phrogs_msa"
+  phrogs_hallmark_hmm: "data/references/sanity_hmm/hallmarks.hmm"
+  phrogs_all_hmm: "data/references/sanity_hmm/all_profiles.hmm"
+  refseq_fasta: "data/references/refseq/refseq_phages.fna.gz"
+  inphared_fasta: "data/references/inphared/inphared_genomes.fna.gz"
+  env_viral_fasta: "data/references/env_catalog/env_viruses_subset.fna.gz"
+  checkv_db: "data/references/checkv_db"
+  controls_fasta: "data/references/controls/sanity_panel.fna"
+
+preprocessing:
+  min_contig_length_bp: 5000
+  priority_contig_length_bp: 10000
+  max_ambiguous_fraction: 0.05
+  deduplicate_rc: true
+
+gene_calling:
+  meta_mode: true
+  translation_table: 11
+
+hmmer_search:
+  fixed_Z: 100000
+  max_domain_evalue: 1.0e-5
+  min_profile_coverage: 0.50
+  hallmark_categories:
+    terminase_large:
+      - "terminase large subunit"
+      - "terminase, large subunit"
+      - "terl"
+      - "dna packaging"
+    major_capsid:
+      - "major capsid protein"
+      - "major head protein"
+      - "coat protein"
+    portal:
+      - "portal protein"
+  supporting_categories:
+    - "tail"
+    - "baseplate"
+    - "tape measure"
+    - "head-tail"
+    - "neck"
+    - "collar"
+    - "capsid"
+    - "head maturation"
+    - "packaging"
+    - "holin"
+    - "endolysin"
+
+candidate_rules:
+  priority_min_distinct_hallmarks: 2
+  review_min_hallmarks: 1
+  review_min_supporting_genes: 3
+  max_cellular_housekeeping_genes: 2
+  min_coding_density_warning: 0.70
+
+quality:
+  tr_min_length_bp: 20
+  tr_max_length_bp: 2000
+  tr_max_homopolymer_frac: 0.60
+  tr_min_shannon_entropy: 1.20
+
+novelty:
+  sourmash_k: [21, 31]
+  sourmash_scaled: 100
+  align_top_n: 10
+  use_control_as_reference: true   # sanity only: confirms the rediscovery logic fires
+  species_wgs_threshold: 95.0
+  genus_wgs_threshold: 70.0
+  network_jaccard_primary: 0.20
+  network_jaccard_secondary: 0.35

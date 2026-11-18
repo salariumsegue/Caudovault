@@ -1,0 +1,41 @@
+# Virtual environments & caches
+.venv/
+.checkv_env/
+.mamba_pkgs/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw data, reads & reference databases (re-staged via stage_data.sh)
+data/
+
+# Logs & sanity scratch outputs
+logs/
+logs_sanity/
+results_sanity/
+*.log
+
+# Large sequence, alignment & database intermediates
+results/genomad/
+results/mmseqs/
+results/sequences/
+results/checkv/tmp/
+results/checkv/*.fna
+results/priority_7/dtr_mapping/
+results/priority_7/split/
+results/priority_7/*.fna
+results/priority_7/*.faa
+*.bam
+*.bai
+*.sam
+*.fq
+*.fastq
+*.fastq.gz
+*.fna.gz
+*.dmnd
+*.hmm
+*.h3f
+*.h3i
+*.h3m
+*.h3p
+results/priority_7/tmp_mmseqs/

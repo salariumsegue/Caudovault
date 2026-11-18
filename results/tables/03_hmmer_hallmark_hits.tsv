@@ -1,0 +1,1498 @@
+contig_id	gene_id	profile_id	profile_description	role_type	role_category	bit_score	domain_i_evalue	profile_coverage
+CTG_000194	CTG_000194_21	phrog_2	head and packaging | terminase large subunit	hallmark	terminase_large	158.78	1.3338206313332499e-45	0.8017
+CTG_000311	CTG_000311_16	phrog_5	connector | tail completion or Neck1 protein	supporting	tail	84.47	5.120455295323622e-23	0.5063
+CTG_000635	CTG_000635_21	phrog_5	connector | tail completion or Neck1 protein	supporting	tail	67.02	1.0938690115893755e-17	0.5356
+CTG_001127	CTG_001127_8	phrog_5	connector | tail completion or Neck1 protein	supporting	tail	65.23	3.8729912033303713e-17	0.5063
+CTG_002596	CTG_002596_6	phrog_5	connector | tail completion or Neck1 protein	supporting	tail	31.3	8.925135604237588e-07	0.5523
+CTG_000296	CTG_000296_5	phrog_6	tail | baseplate wedge subunit	supporting	tail	227.48	1.5824310558503424e-66	0.615
+CTG_000699	CTG_000699_5	phrog_6	tail | baseplate wedge subunit	supporting	tail	188.31	1.173061451165283e-54	0.6387
+CTG_000422	CTG_000422_22	phrog_6	tail | baseplate wedge subunit	supporting	tail	180.41	2.8974547115402247e-52	0.6423
+CTG_000153	CTG_000153_18	phrog_6	tail | baseplate wedge subunit	supporting	tail	178.06	1.4888815882702246e-51	0.6369
+CTG_001016	CTG_001016_17	phrog_6	tail | baseplate wedge subunit	supporting	tail	175.1	1.1772896163323414e-50	0.531
+CTG_000692	CTG_000692_5	phrog_6	tail | baseplate wedge subunit	supporting	tail	160.52	3.065698298508327e-46	0.6496
+CTG_003099	CTG_003099_3	phrog_6	tail | baseplate wedge subunit	supporting	tail	140.07	4.800468860635566e-40	0.6259
+CTG_000137	CTG_000137_36	phrog_6	tail | baseplate wedge subunit	supporting	tail	135.78	9.575123863641217e-39	0.646
+CTG_000671	CTG_000671_4	phrog_6	tail | baseplate wedge subunit	supporting	tail	106.93	5.300372264089548e-30	0.5712
+CTG_002231	CTG_002231_5	phrog_6	tail | baseplate wedge subunit	supporting	tail	83.6	6.180811588394757e-23	0.5657
+CTG_002833	CTG_002833_4	phrog_9	head and packaging | terminase large subunit	hallmark	terminase_large	449.49	1.8256309664383044e-133	0.6158
+CTG_003214	CTG_003214_4	phrog_9	head and packaging | terminase large subunit	hallmark	terminase_large	370.25	1.6527170175076992e-109	0.5776
+CTG_001038	CTG_001038_11	phrog_9	head and packaging | terminase large subunit	hallmark	terminase_large	199.7	6.05007732184481e-58	0.7365
+CTG_002833	CTG_002833_3	phrog_12	head and packaging | portal protein	hallmark	portal	238.78	8.935825658741731e-70	0.6192
+CTG_000311	CTG_000311_23	phrog_12	head and packaging | portal protein	hallmark	portal	231.05	1.9445442748332137e-67	0.7678
+CTG_001251	CTG_001251_7	phrog_12	head and packaging | portal protein	hallmark	portal	192.75	7.629578151535723e-56	0.5929
+CTG_002835	CTG_002835_6	phrog_12	head and packaging | portal protein	hallmark	portal	148.16	2.3986689587032008e-42	0.548
+CTG_001038	CTG_001038_12	phrog_12	head and packaging | portal protein	hallmark	portal	144.05	4.198571013152109e-41	0.5805
+CTG_001378	CTG_001378_19	phrog_12	head and packaging | portal protein	hallmark	portal	122.41	1.4822413084959932e-34	0.6827
+CTG_001836	CTG_001836_1	phrog_12	head and packaging | portal protein	hallmark	portal	77.52	5.7276852492579845e-21	0.517
+CTG_000364	CTG_000364_36	phrog_12	head and packaging | portal protein	hallmark	portal	69.8	1.2488684703194204e-18	0.6161
+CTG_000498	CTG_000498_2	phrog_12	head and packaging | portal protein	hallmark	portal	64.52	4.933899952714077e-17	0.6053
+CTG_003214	CTG_003214_3	phrog_12	head and packaging | portal protein	hallmark	portal	63.84	7.915598873607868e-17	0.5991
+CTG_000780	CTG_000780_2	phrog_23	tail | tail sheath	supporting	tail	418.87	1.4524536350847906e-124	0.9194
+CTG_000191	CTG_000191_7	phrog_23	tail | tail sheath	supporting	tail	417.82	3.0361384291295284e-124	0.9153
+CTG_001539	CTG_001539_11	phrog_23	tail | tail sheath	supporting	tail	415.62	1.4073344155264979e-123	0.9173
+CTG_000725	CTG_000725_17	phrog_23	tail | tail sheath	supporting	tail	371.69	2.9170494956187745e-110	0.9194
+CTG_000065	CTG_000065_16	phrog_23	tail | tail sheath	supporting	tail	305.16	4.330690686962478e-90	0.9032
+CTG_000435	CTG_000435_2	phrog_23	tail | tail sheath	supporting	tail	206.28	4.0958419543892473e-60	0.8871
+CTG_002788	CTG_002788_6	phrog_23	tail | tail sheath	supporting	tail	198.32	1.0618689485231454e-57	0.8306
+CTG_001401	CTG_001401_8	phrog_23	tail | tail sheath	supporting	tail	194.49	1.538978170389331e-56	0.8891
+CTG_000348	CTG_000348_20	phrog_23	tail | tail sheath	supporting	tail	173.43	3.749512519442199e-50	0.877
+CTG_002716	CTG_002716_2	phrog_23	tail | tail sheath	supporting	tail	165.39	1.0218219679049314e-47	0.8992
+CTG_000853	CTG_000853_6	phrog_23	tail | tail sheath	supporting	tail	157.13	3.258120710334e-45	0.5927
+CTG_002081	CTG_002081_1	phrog_23	tail | tail sheath	supporting	tail	141.35	1.9804444881611622e-40	0.748
+CTG_001060	CTG_001060_3	phrog_23	tail | tail sheath	supporting	tail	133.47	4.867593094250495e-38	0.6835
+CTG_002609	CTG_002609_7	phrog_23	tail | tail sheath	supporting	tail	122.59	9.687894247518634e-35	0.6593
+CTG_001140	CTG_001140_11	phrog_24	tail | tail length tape measure protein	supporting	tail	132.55	8.057072354508113e-38	0.6577
+CTG_002411	CTG_002411_1	phrog_27	connector | tail completion or Neck1 protein	supporting	tail	98.24	2.9239249943742908e-27	0.8744
+CTG_002010	CTG_002010_7	phrog_29	head and packaging | major head protein	hallmark	major_capsid	83.8	7.081377980868743e-23	0.6993
+CTG_000169	CTG_000169_28	phrog_29	head and packaging | major head protein	hallmark	major_capsid	67.13	8.134816694740654e-18	0.7426
+CTG_000699	CTG_000699_24	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	383.73	1.1452595536013521e-113	0.5816
+CTG_002817	CTG_002817_7	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	345.39	4.498019560359704e-102	0.6237
+CTG_001164	CTG_001164_8	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	342.95	2.456265487561413e-101	0.6039
+CTG_003383	CTG_003383_2	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	340.88	1.042994919725872e-100	0.6105
+CTG_001680	CTG_001680_13	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	317.37	1.3392294691612953e-93	0.5092
+CTG_000296	CTG_000296_24	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	310.81	1.2951066422512566e-91	0.6513
+CTG_002044	CTG_002044_13	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	306.4	2.7924394273675745e-90	0.5645
+CTG_002075	CTG_002075_8	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	295.95	4.036021375529902e-87	0.5566
+CTG_001135	CTG_001135_2	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	290.43	1.8771594913009013e-85	0.5895
+CTG_001623	CTG_001623_10	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	287.39	1.558215374257296e-84	0.5421
+CTG_001043	CTG_001043_4	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	286.34	3.2422320786554037e-84	0.5592
+CTG_000498	CTG_000498_3	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	282.51	4.671254298340502e-83	0.5855
+CTG_001942	CTG_001942_8	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	280.75	1.59295452102139e-82	0.5579
+CTG_002496	CTG_002496_8	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	274.95	9.007518539335217e-81	0.5474
+CTG_002895	CTG_002895_5	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	241.03	1.6381094837116464e-70	0.5895
+CTG_000710	CTG_000710_8	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	225.9	6.168931697289558e-66	0.6145
+CTG_002155	CTG_002155_1	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	224.97	1.1801161178122778e-65	0.6316
+CTG_002183	CTG_002183_7	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	213.96	2.5159274398225515e-62	0.5632
+CTG_000573	CTG_000573_16	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	145.81	1.0283997041022764e-41	0.5197
+CTG_001733	CTG_001733_3	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	165.33	1.285460447203309e-47	0.6132
+CTG_002640	CTG_002640_9	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	160.96	2.6920529342720416e-46	0.5961
+CTG_000145	CTG_000145_31	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	158.07	2.007743091188432e-45	0.5553
+CTG_002101	CTG_002101_4	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	144.93	1.8982484815412566e-41	0.6671
+CTG_001434	CTG_001434_10	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	146.02	8.879008898526097e-42	0.5737
+CTG_002133	CTG_002133_5	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	142.07	1.3831865753992003e-40	0.6158
+CTG_000433	CTG_000433_45	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	140.71	3.56719646580342e-40	0.6895
+CTG_000118	CTG_000118_47	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	132.8	8.834516295297809e-38	0.5553
+CTG_002315	CTG_002315_1	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	127.19	4.394774271035535e-36	0.5211
+CTG_001247	CTG_001247_6	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	60.18	8.063834877541364e-16	0.5711
+CTG_000780	CTG_000780_1	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	44.85	3.490569276163117e-11	0.5987
+CTG_000853	CTG_000853_14	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	42.67	1.5977169384190877e-10	0.5842
+CTG_002129	CTG_002129_9	phrog_38	head and packaging | terminase large subunit	hallmark	terminase_large	31.82	3.048040703621405e-07	0.5263
+CTG_000635	CTG_000635_18	phrog_41	tail | major tail protein	supporting	tail	42.66	2.5960736392946057e-10	0.5429
+CTG_000185	CTG_000185_20	phrog_43	tail | baseplate wedge subunit	supporting	tail	68.05	2.929921411355035e-18	0.8651
+CTG_000191	CTG_000191_39	phrog_43	tail | baseplate wedge subunit	supporting	tail	60.45	6.582255169813848e-16	0.7381
+CTG_000822	CTG_000822_8	phrog_43	tail | baseplate wedge subunit	supporting	tail	60.4	6.843146752033521e-16	0.7381
+CTG_002602	CTG_002602_2	phrog_43	tail | baseplate wedge subunit	supporting	tail	58.65	2.386349538187999e-15	0.8571
+CTG_000341	CTG_000341_18	phrog_43	tail | baseplate wedge subunit	supporting	tail	55.77	1.8480819407307015e-14	0.7937
+CTG_001271	CTG_001271_11	phrog_43	tail | baseplate wedge subunit	supporting	tail	54.17	5.780495294051922e-14	0.8968
+CTG_001162	CTG_001162_5	phrog_43	tail | baseplate wedge subunit	supporting	tail	53.91	6.989357034381087e-14	0.746
+CTG_002702	CTG_002702_5	phrog_43	tail | baseplate wedge subunit	supporting	tail	52.23	2.3059959314794334e-13	0.9127
+CTG_000257	CTG_000257_5	phrog_43	tail | baseplate wedge subunit	supporting	tail	48.82	2.617578065034605e-12	0.7778
+CTG_000037	CTG_000037_150	phrog_43	tail | baseplate wedge subunit	supporting	tail	47.58	6.3596668006882525e-12	0.7778
+CTG_001511	CTG_001511_5	phrog_43	tail | baseplate wedge subunit	supporting	tail	45.15	3.59212582656411e-11	0.5238
+CTG_000933	CTG_000933_12	phrog_43	tail | baseplate wedge subunit	supporting	tail	41.13	6.265729937193346e-10	0.627
+CTG_000435	CTG_000435_15	phrog_43	tail | baseplate wedge subunit	supporting	tail	39.83	1.580836790318704e-09	0.754
+CTG_000348	CTG_000348_32	phrog_43	tail | baseplate wedge subunit	supporting	tail	36.45	1.7633049933093294e-08	0.5397
+CTG_000780	CTG_000780_3	phrog_45	tail | tail tube	supporting	tail	201.6	9.879587111834208e-59	0.5229
+CTG_000191	CTG_000191_6	phrog_45	tail | tail tube	supporting	tail	194.36	1.572836264381561e-56	0.52
+CTG_001539	CTG_001539_10	phrog_45	tail | tail tube	supporting	tail	194.1	1.8911062658265303e-56	0.5171
+CTG_000725	CTG_000725_14	phrog_45	tail | tail tube	supporting	tail	174.84	1.3502587813718245e-50	0.5114
+CTG_000065	CTG_000065_14	phrog_45	tail | tail tube	supporting	tail	150.61	3.1424209897091104e-43	0.5114
+CTG_000169	CTG_000169_64	phrog_45	tail | tail tube	supporting	tail	143.43	4.81801950429241e-41	0.52
+CTG_002902	CTG_002902_2	phrog_45	tail | tail tube	supporting	tail	132.58	9.588467812649308e-38	0.5286
+CTG_001292	CTG_001292_2	phrog_45	tail | tail tube	supporting	tail	131.6	1.9049666460967886e-37	0.5257
+CTG_000065	CTG_000065_62	phrog_45	tail | tail tube	supporting	tail	82.13	2.0861269267463924e-22	0.5114
+CTG_000961	CTG_000961_12	phrog_51	head and packaging | terminase small subunit	supporting	packaging	122.29	1.4816054223977763e-34	0.5441
+CTG_000564	CTG_000564_29	phrog_51	head and packaging | terminase small subunit	supporting	packaging	108.99	1.6901928325137268e-30	0.5479
+CTG_000672	CTG_000672_8	phrog_51	head and packaging | terminase small subunit	supporting	packaging	92.9	1.3736196908182486e-25	0.567
+CTG_003256	CTG_003256_5	phrog_51	head and packaging | terminase small subunit	supporting	packaging	68.68	3.3726169603452633e-18	0.6475
+CTG_001390	CTG_001390_17	phrog_51	head and packaging | terminase small subunit	supporting	packaging	34.47	9.19609558375759e-08	0.5364
+CTG_002160	CTG_002160_6	phrog_53	head and packaging | head maturation protease	supporting	head maturation	125.24	2.2048030891645797e-35	0.705
+CTG_000169	CTG_000169_30	phrog_53	head and packaging | head maturation protease	supporting	head maturation	59.27	2.0988177438645957e-15	0.5232
+CTG_000736	CTG_000736_1	phrog_57	head and packaging | terminase small subunit	supporting	packaging	63.94	8.745475759121414e-17	0.8291
+CTG_000424	CTG_000424_32	phrog_58	tail | tail length tape measure protein	supporting	tail	104.85	2.265516656982817e-29	0.5525
+CTG_000424	CTG_000424_15	phrog_64	head and packaging | portal protein	hallmark	portal	72.67	1.1145742023199726e-19	0.755
+CTG_001495	CTG_001495_7	phrog_64	head and packaging | portal protein	hallmark	portal	69.77	8.428350821010918e-19	0.6581
+CTG_001251	CTG_001251_7	phrog_68	head and packaging | portal protein	hallmark	portal	61.21	3.326150315331436e-16	0.7093
+CTG_000311	CTG_000311_23	phrog_68	head and packaging | portal protein	hallmark	portal	42.12	2.1274405303146687e-10	0.7297
+CTG_000635	CTG_000635_16	phrog_78	connector | tail terminator	supporting	tail	52.49	3.1914518956493105e-13	0.8607
+CTG_001127	CTG_001127_9	phrog_78	connector | tail terminator	supporting	tail	45.5	4.685625714879829e-11	0.918
+CTG_001378	CTG_001378_20	phrog_80	head and packaging | head maturation protease	supporting	head maturation	57.02	1.0407136320434315e-14	0.5437
+CTG_001251	CTG_001251_6	phrog_80	head and packaging | head maturation protease	supporting	head maturation	48.74	3.341937563529685e-12	0.5255
+CTG_001836	CTG_001836_3	phrog_80	head and packaging | head maturation protease	supporting	head maturation	45.35	3.545418552184381e-11	0.5486
+CTG_003214	CTG_003214_5	phrog_83	head and packaging | terminase small subunit	supporting	packaging	60.05	1.1733684685771634e-15	0.6667
+CTG_002833	CTG_002833_5	phrog_83	head and packaging | terminase small subunit	supporting	packaging	58.57	3.31481679209954e-15	0.6382
+CTG_002160	CTG_002160_6	phrog_94	head and packaging | head maturation protease	supporting	head maturation	300.83	1.9733278988688735e-88	0.701
+CTG_000169	CTG_000169_30	phrog_94	head and packaging | head maturation protease	supporting	head maturation	123.39	1.0231157390041262e-34	0.5064
+CTG_000710	CTG_000710_4	phrog_104	head and packaging | portal protein	hallmark	portal	87.76	3.3997418791628265e-24	0.9236
+CTG_000424	CTG_000424_15	phrog_104	head and packaging | portal protein	hallmark	portal	78.6	2.018636630426987e-21	0.7836
+CTG_002155	CTG_002155_2	phrog_104	head and packaging | portal protein	hallmark	portal	75.04	2.4206810713013854e-20	0.9255
+CTG_002451	CTG_002451_2	phrog_115	head and packaging | minor head protein	supporting	packaging	85.58	2.313357148344173e-23	0.7744
+CTG_000780	CTG_000780_11	phrog_138	head and packaging | major head protein	hallmark	major_capsid	537.92	1.0661636673558896e-160	0.9955
+CTG_000725	CTG_000725_7	phrog_138	head and packaging | major head protein	hallmark	major_capsid	441.31	2.1922128178562253e-131	0.991
+CTG_000065	CTG_000065_3	phrog_138	head and packaging | major head protein	hallmark	major_capsid	391.83	2.259220744542325e-116	0.9865
+CTG_000203	CTG_000203_9	phrog_138	head and packaging | major head protein	hallmark	major_capsid	333.72	9.633209650294982e-99	0.9572
+CTG_000363	CTG_000363_9	phrog_138	head and packaging | major head protein	hallmark	major_capsid	324.87	4.6726666370010446e-96	0.9685
+CTG_000129	CTG_000129_73	phrog_145	head and packaging | portal protein	hallmark	portal	369.27	1.5705118446812926e-109	0.9533
+CTG_000122	CTG_000122_67	phrog_145	head and packaging | portal protein	hallmark	portal	356.98	8.322434566234965e-106	0.9696
+CTG_001795	CTG_001795_14	phrog_145	head and packaging | portal protein	hallmark	portal	194.34	1.7019389034668602e-56	0.9168
+CTG_000699	CTG_000699_23	phrog_146	head and packaging | portal protein	hallmark	portal	471.42	2.642580644007477e-140	0.7598
+CTG_002653	CTG_002653_3	phrog_146	head and packaging | portal protein	hallmark	portal	460.04	7.417584420894551e-137	0.833
+CTG_002578	CTG_002578_2	phrog_146	head and packaging | portal protein	hallmark	portal	451.8	2.307591475784097e-134	0.7615
+CTG_001346	CTG_001346_19	phrog_146	head and packaging | portal protein	hallmark	portal	352.21	3.349039142107315e-104	0.8041
+CTG_000153	CTG_000153_39	phrog_146	head and packaging | portal protein	hallmark	portal	334.89	5.866292731192686e-99	0.7394
+CTG_000137	CTG_000137_56	phrog_146	head and packaging | portal protein	hallmark	portal	327.08	1.365510846045253e-96	0.7036
+CTG_001335	CTG_001335_5	phrog_146	head and packaging | portal protein	hallmark	portal	316.73	1.8586168849263251e-93	0.7325
+CTG_002419	CTG_002419_4	phrog_146	head and packaging | portal protein	hallmark	portal	173.77	3.640628704823887e-50	0.7155
+CTG_001426	CTG_001426_13	phrog_146	head and packaging | portal protein	hallmark	portal	145.77	1.0951096268453339e-41	0.7496
+CTG_002902	CTG_002902_3	phrog_150	tail | baseplate hub	supporting	tail	232.31	3.736105638329063e-68	0.8121
+CTG_001292	CTG_001292_3	phrog_150	tail | baseplate hub	supporting	tail	231.63	6.027700746469518e-68	0.8085
+CTG_000065	CTG_000065_61	phrog_150	tail | baseplate hub	supporting	tail	194.16	1.5912187548007722e-56	0.8121
+CTG_000257	CTG_000257_18	phrog_150	tail | baseplate hub	supporting	tail	175.53	7.554548245815339e-51	0.7943
+CTG_002750	CTG_002750_3	phrog_150	tail | baseplate hub	supporting	tail	74.77	3.886737797877377e-20	0.7553
+CTG_000203	CTG_000203_18	phrog_150	tail | baseplate hub	supporting	tail	54.4	6.275991197536106e-14	0.7979
+CTG_000348	CTG_000348_23	phrog_150	tail | baseplate hub	supporting	tail	39.61	2.029690317589513e-09	0.7518
+CTG_000316	CTG_000316_14	phrog_156	head and packaging | portal protein	hallmark	portal	532.04	1.1249788639722902e-158	0.9574
+CTG_000286	CTG_000286_45	phrog_156	head and packaging | portal protein	hallmark	portal	464.66	2.750600991432397e-138	0.9868
+CTG_001323	CTG_001323_11	phrog_156	head and packaging | portal protein	hallmark	portal	434.01	5.1489636778182745e-129	0.978
+CTG_002465	CTG_002465_1	phrog_156	head and packaging | portal protein	hallmark	portal	420.75	5.301640076543817e-125	0.8737
+CTG_000999	CTG_000999_6	phrog_156	head and packaging | portal protein	hallmark	portal	418.52	2.5126469539347736e-124	0.9794
+CTG_000672	CTG_000672_11	phrog_156	head and packaging | portal protein	hallmark	portal	415.26	2.4391521339257196e-123	0.9119
+CTG_000253	CTG_000253_40	phrog_156	head and packaging | portal protein	hallmark	portal	403.92	6.545187089002288e-120	0.9589
+CTG_000281	CTG_000281_28	phrog_156	head and packaging | portal protein	hallmark	portal	240.64	1.6721739254972473e-70	0.58
+CTG_000647	CTG_000647_14	phrog_156	head and packaging | portal protein	hallmark	portal	387.74	5.159648801562337e-115	0.9736
+CTG_000816	CTG_000816_15	phrog_156	head and packaging | portal protein	hallmark	portal	333.24	1.5947376196996e-98	0.953
+CTG_001110	CTG_001110_3	phrog_156	head and packaging | portal protein	hallmark	portal	326.14	2.2458197533665896e-96	0.9427
+CTG_001884	CTG_001884_7	phrog_156	head and packaging | portal protein	hallmark	portal	311.58	5.7414413652969296e-92	0.9574
+CTG_000581	CTG_000581_8	phrog_156	head and packaging | portal protein	hallmark	portal	295.81	3.385669708414708e-87	0.8855
+CTG_000111	CTG_000111_25	phrog_156	head and packaging | portal protein	hallmark	portal	276.15	3.0208571050812634e-81	0.953
+CTG_001599	CTG_001599_10	phrog_156	head and packaging | portal protein	hallmark	portal	248.62	6.443091543964312e-73	0.9236
+CTG_002785	CTG_002785_10	phrog_156	head and packaging | portal protein	hallmark	portal	245.36	6.261284376263278e-72	0.8869
+CTG_000703	CTG_000703_8	phrog_156	head and packaging | portal protein	hallmark	portal	219.61	3.8589234693321594e-64	0.9662
+CTG_002065	CTG_002065_2	phrog_156	head and packaging | portal protein	hallmark	portal	170.86	2.1822991181110892e-49	0.9486
+CTG_002837	CTG_002837_2	phrog_156	head and packaging | portal protein	hallmark	portal	58.98	1.5574008818838346e-15	0.6887
+CTG_003216	CTG_003216_1	phrog_156	head and packaging | portal protein	hallmark	portal	51.21	3.4922643365937944e-13	0.8341
+CTG_000296	CTG_000296_13	phrog_165	tail | tail sheath	supporting	tail	566.23	2.547298632593042e-169	0.998
+CTG_000296	CTG_000296_8	phrog_177	tail | baseplate hub	supporting	tail	435.45	2.1991109610219536e-129	0.5714
+CTG_001140	CTG_001140_6	phrog_179	connector | tail terminator	supporting	tail	84.91	2.1560314949251216e-23	0.7901
+CTG_000399	CTG_000399_31	phrog_179	connector | tail terminator	supporting	tail	82.45	1.2346693939601845e-22	0.8395
+CTG_000122	CTG_000122_56	phrog_179	connector | tail terminator	supporting	tail	72.21	1.7362335427285188e-19	0.8333
+CTG_001301	CTG_001301_5	phrog_179	connector | tail terminator	supporting	tail	59.78	1.1574250193151591e-15	0.784
+CTG_000296	CTG_000296_6	phrog_180	tail | baseplate wedge subunit	supporting	tail	106.55	4.371331827740418e-30	0.9392
+CTG_000296	CTG_000296_9	phrog_184	tail | baseplate hub	supporting	tail	285.79	3.3322443926023133e-84	0.9927
+CTG_000296	CTG_000296_12	phrog_185	tail | tail tube protein	supporting	tail	72.71	1.3270611299997555e-19	0.9496
+CTG_000699	CTG_000699_8	phrog_196	tail | baseplate hub	supporting	tail	236.99	1.9121662362826058e-69	0.5354
+CTG_000692	CTG_000692_8	phrog_196	tail | baseplate hub	supporting	tail	218.86	5.9568487181058276e-64	0.5317
+CTG_000153	CTG_000153_21	phrog_196	tail | baseplate hub	supporting	tail	179.55	4.8687768718677506e-52	0.5224
+CTG_000137	CTG_000137_39	phrog_196	tail | baseplate hub	supporting	tail	177.06	2.76315772247075e-51	0.5205
+CTG_001593	CTG_001593_11	phrog_196	tail | baseplate hub	supporting	tail	166.21	5.359442685964272e-48	0.5187
+CTG_001016	CTG_001016_15	phrog_196	tail | baseplate hub	supporting	tail	164.23	2.138928404561157e-47	0.5187
+CTG_002231	CTG_002231_8	phrog_196	tail | baseplate hub	supporting	tail	114.32	2.840314991736157e-32	0.5168
+CTG_000296	CTG_000296_4	phrog_203	tail | baseplate wedge subunit	supporting	tail	197.1	1.1569157678500462e-57	0.8348
+CTG_000699	CTG_000699_14	phrog_205	tail | tail sheath	supporting	tail	425.86	9.707259495230245e-127	0.9319
+CTG_000692	CTG_000692_15	phrog_205	tail | tail sheath	supporting	tail	387.68	3.7278045803123942e-115	0.9363
+CTG_001348	CTG_001348_12	phrog_205	tail | tail sheath	supporting	tail	350.46	7.264236054313874e-104	0.9363
+CTG_003096	CTG_003096_5	phrog_205	tail | tail sheath	supporting	tail	247.42	1.319893113910104e-72	0.7275
+CTG_000137	CTG_000137_45	phrog_205	tail | tail sheath	supporting	tail	298.27	4.9328808581692177e-88	0.9253
+CTG_001016	CTG_001016_9	phrog_205	tail | tail sheath	supporting	tail	269.62	2.4204200721557855e-79	0.9297
+CTG_002836	CTG_002836_8	phrog_205	tail | tail sheath	supporting	tail	263.4	1.8701911100837554e-77	0.9253
+CTG_000153	CTG_000153_27	phrog_205	tail | tail sheath	supporting	tail	252.95	2.762585869083214e-74	0.9275
+CTG_001593	CTG_001593_3	phrog_205	tail | tail sheath	supporting	tail	201.27	1.3182032597512489e-58	0.9209
+CTG_000422	CTG_000422_13	phrog_205	tail | tail sheath	supporting	tail	183.23	3.9081891525144336e-53	0.844
+CTG_002807	CTG_002807_1	phrog_205	tail | tail sheath	supporting	tail	147.39	2.907097746885697e-42	0.6791
+CTG_001694	CTG_001694_9	phrog_205	tail | tail sheath	supporting	tail	122.12	1.3506709654738948e-34	0.9231
+CTG_001301	CTG_001301_15	phrog_206	head and packaging | head scaffolding protein	supporting	packaging	134.32	3.2185415564847375e-38	0.9734
+CTG_000122	CTG_000122_63	phrog_206	head and packaging | head scaffolding protein	supporting	packaging	119.05	1.4585756804234309e-33	0.8517
+CTG_000129	CTG_000129_75	phrog_206	head and packaging | head scaffolding protein	supporting	packaging	108.18	3.023849543363008e-30	0.8555
+CTG_000961	CTG_000961_23	phrog_212	head and packaging | major head protein	hallmark	major_capsid	275.52	2.8727566694799725e-81	0.9867
+CTG_000337	CTG_000337_31	phrog_212	head and packaging | major head protein	hallmark	major_capsid	267.36	8.754478002402002e-79	0.9834
+CTG_001301	CTG_001301_14	phrog_212	head and packaging | major head protein	hallmark	major_capsid	257.12	1.157406379614369e-75	0.9867
+CTG_000058	CTG_000058_75	phrog_212	head and packaging | major head protein	hallmark	major_capsid	226.95	1.7783758816204937e-66	0.9801
+CTG_001595	CTG_001595_3	phrog_212	head and packaging | major head protein	hallmark	major_capsid	204.65	1.1005544408988057e-59	0.9668
+CTG_001563	CTG_001563_13	phrog_212	head and packaging | major head protein	hallmark	major_capsid	183.7	2.6408301890332723e-53	0.9767
+CTG_000129	CTG_000129_76	phrog_212	head and packaging | major head protein	hallmark	major_capsid	152.72	7.198761130471369e-44	0.9668
+CTG_000231	CTG_000231_15	phrog_212	head and packaging | major head protein	hallmark	major_capsid	37.2	1.091510548915717e-08	0.711
+CTG_000330	CTG_000330_22	phrog_212	head and packaging | major head protein	hallmark	major_capsid	37.25	1.0539849513719532e-08	0.711
+CTG_000191	CTG_000191_5	phrog_213	head and packaging | portal protein	hallmark	portal	688.69	2.5205641554217964e-206	0.9621
+CTG_000780	CTG_000780_4	phrog_213	head and packaging | portal protein	hallmark	portal	682.26	2.2416307500245914e-204	0.9527
+CTG_001539	CTG_001539_8	phrog_213	head and packaging | portal protein	hallmark	portal	680.5	7.637505354943352e-204	0.9678
+CTG_000725	CTG_000725_13	phrog_213	head and packaging | portal protein	hallmark	portal	592.4	3.8131453023490767e-177	0.9848
+CTG_000065	CTG_000065_12	phrog_213	head and packaging | portal protein	hallmark	portal	526.25	4.236527585172086e-157	0.9091
+CTG_002962	CTG_002962_2	phrog_213	head and packaging | portal protein	hallmark	portal	385.91	1.4275854019744968e-114	0.8693
+CTG_000363	CTG_000363_4	phrog_213	head and packaging | portal protein	hallmark	portal	371.32	3.763301651759707e-110	0.8864
+CTG_002750	CTG_002750_5	phrog_213	head and packaging | portal protein	hallmark	portal	360.33	8.0979096947855e-107	0.8958
+CTG_003300	CTG_003300_1	phrog_213	head and packaging | portal protein	hallmark	portal	190.3	2.718088693221871e-55	0.5152
+CTG_001162	CTG_001162_4	phrog_219	tail | baseplate wedge subunit	supporting	tail	512.3	9.23529419876164e-153	0.9682
+CTG_000191	CTG_000191_38	phrog_219	tail | baseplate wedge subunit	supporting	tail	480.92	2.93687745825536e-143	0.9833
+CTG_000822	CTG_000822_7	phrog_219	tail | baseplate wedge subunit	supporting	tail	468.53	1.652222867440061e-139	0.9866
+CTG_000037	CTG_000037_151	phrog_219	tail | baseplate wedge subunit	supporting	tail	217.0	2.4178510049094175e-63	0.5268
+CTG_000257	CTG_000257_4	phrog_219	tail | baseplate wedge subunit	supporting	tail	408.87	1.9220181532898683e-121	0.9666
+CTG_001511	CTG_001511_4	phrog_219	tail | baseplate wedge subunit	supporting	tail	134.68	2.0470709266007083e-38	0.7642
+CTG_002836	CTG_002836_4	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	149.73	6.37251877118543e-43	0.5507
+CTG_001348	CTG_001348_8	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	143.67	4.5052435030047785e-41	0.5471
+CTG_000699	CTG_000699_17	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	143.24	6.081622661078493e-41	0.5507
+CTG_001013	CTG_001013_16	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	134.61	2.5937688968640394e-38	0.5543
+CTG_000692	CTG_000692_19	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	131.94	1.6926505969010923e-37	0.558
+CTG_000422	CTG_000422_10	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	131.2	2.8511783667219634e-37	0.5326
+CTG_002657	CTG_002657_3	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	123.27	7.483063842289553e-35	0.5435
+CTG_000153	CTG_000153_30	phrog_222	connector | tail completion or Neck1 protein	supporting	tail	112.13	1.855458881172576e-31	0.558
+CTG_001905	CTG_001905_2	phrog_227	tail | tail sheath stabilizer	supporting	tail	230.6	1.1829398937723204e-67	0.7878
+CTG_000191	CTG_000191_12	phrog_227	tail | tail sheath stabilizer	supporting	tail	226.6	1.959979721236872e-66	0.8453
+CTG_000037	CTG_000037_159	phrog_227	tail | tail sheath stabilizer	supporting	tail	171.78	1.0048433142551547e-49	0.7518
+CTG_001676	CTG_001676_1	phrog_227	tail | tail sheath stabilizer	supporting	tail	138.2	1.7412070215562583e-39	0.5935
+CTG_000037	CTG_000037_158	phrog_227	tail | tail sheath stabilizer	supporting	tail	126.37	7.03906726494994e-36	0.7842
+CTG_001857	CTG_001857_2	phrog_227	tail | tail sheath stabilizer	supporting	tail	91.95	2.179576742857759e-25	0.7698
+CTG_001108	CTG_001108_14	phrog_227	tail | tail sheath stabilizer	supporting	tail	83.97	5.91537257584559e-23	0.7914
+CTG_000908	CTG_000908_6	phrog_227	tail | tail sheath stabilizer	supporting	tail	75.22	2.7480566851401395e-20	0.7842
+CTG_000706	CTG_000706_7	phrog_227	tail | tail sheath stabilizer	supporting	tail	68.09	4.087565801552919e-18	0.7842
+CTG_000853	CTG_000853_2	phrog_227	tail | tail sheath stabilizer	supporting	tail	44.17	8.054364010579486e-11	0.777
+CTG_000257	CTG_000257_14	phrog_230	tail | baseplate tail tube cap	supporting	tail	146.57	7.51354941323121e-42	0.5032
+CTG_000257	CTG_000257_13	phrog_232	tail | baseplate wedge subunit	supporting	tail	133.85	4.844747164415784e-38	0.6318
+CTG_000191	CTG_000191_43	phrog_232	tail | baseplate wedge subunit	supporting	tail	85.37	2.837176144868659e-23	0.6453
+CTG_000780	CTG_000780_10	phrog_237	head and packaging | head scaffolding protein	supporting	packaging	274.36	1.095602704992752e-80	0.8929
+CTG_000725	CTG_000725_8	phrog_237	head and packaging | head scaffolding protein	supporting	packaging	227.98	1.3712022055591466e-66	0.8489
+CTG_000065	CTG_000065_4	phrog_237	head and packaging | head scaffolding protein	supporting	packaging	181.27	2.1574101577363687e-52	0.7747
+CTG_003255	CTG_003255_7	phrog_240	head and packaging | head protein	supporting	packaging	107.63	3.6521085026036174e-30	0.635
+CTG_001871	CTG_001871_5	phrog_240	head and packaging | head protein	supporting	packaging	81.02	5.176156094535713e-22	0.64
+CTG_001936	CTG_001936_11	phrog_240	head and packaging | head protein	supporting	packaging	75.14	3.2834826594959225e-20	0.535
+CTG_000129	CTG_000129_86	phrog_240	head and packaging | head protein	supporting	packaging	53.0	1.988388334002253e-13	0.505
+CTG_002451	CTG_002451_2	phrog_241	head and packaging | head morphogenesis	supporting	packaging	461.43	3.964691956357655e-137	0.6745
+CTG_000122	CTG_000122_65	phrog_241	head and packaging | head morphogenesis	supporting	packaging	186.5	6.175431751071398e-54	0.514
+CTG_000699	CTG_000699_20	phrog_264	head and packaging | major head protein	hallmark	major_capsid	269.4	1.745940683373991e-79	0.9502
+CTG_001016	CTG_001016_3	phrog_264	head and packaging | major head protein	hallmark	major_capsid	251.02	6.85904171747651e-74	0.972
+CTG_001348	CTG_001348_3	phrog_264	head and packaging | major head protein	hallmark	major_capsid	248.55	3.857539026620422e-73	0.947
+CTG_001416	CTG_001416_8	phrog_264	head and packaging | major head protein	hallmark	major_capsid	243.34	1.4940680550098523e-71	0.947
+CTG_002657	CTG_002657_10	phrog_264	head and packaging | major head protein	hallmark	major_capsid	242.99	1.9041634923726637e-71	0.947
+CTG_000692	CTG_000692_25	phrog_264	head and packaging | major head protein	hallmark	major_capsid	237.35	9.926158181020638e-70	0.9439
+CTG_000153	CTG_000153_33	phrog_264	head and packaging | major head protein	hallmark	major_capsid	225.21	4.916938664039133e-66	0.9626
+CTG_000137	CTG_000137_52	phrog_264	head and packaging | major head protein	hallmark	major_capsid	204.99	6.996132928959133e-60	0.972
+CTG_001013	CTG_001013_11	phrog_264	head and packaging | major head protein	hallmark	major_capsid	173.36	2.960554097829324e-50	0.9595
+CTG_001335	CTG_001335_1	phrog_264	head and packaging | major head protein	hallmark	major_capsid	160.0	3.4367730347760096e-46	0.6293
+CTG_001426	CTG_001426_9	phrog_264	head and packaging | major head protein	hallmark	major_capsid	55.85	1.7056241594998228e-14	0.7072
+CTG_001694	CTG_001694_3	phrog_264	head and packaging | major head protein	hallmark	major_capsid	43.22	1.1876717695397902e-10	0.5016
+CTG_000424	CTG_000424_22	phrog_267	head and packaging | major head protein	hallmark	major_capsid	217.04	2.399529740808459e-63	0.7
+CTG_000606	CTG_000606_5	phrog_267	head and packaging | major head protein	hallmark	major_capsid	165.95	7.798903015042222e-48	0.7171
+CTG_002886	CTG_002886_9	phrog_267	head and packaging | major head protein	hallmark	major_capsid	165.25	1.2740158139591462e-47	0.7195
+CTG_000122	CTG_000122_62	phrog_267	head and packaging | major head protein	hallmark	major_capsid	56.98	9.484973303705955e-15	0.5756
+CTG_000767	CTG_000767_11	phrog_267	head and packaging | major head protein	hallmark	major_capsid	44.6	5.4431216171093544e-11	0.5293
+CTG_001884	CTG_001884_10	phrog_267	head and packaging | major head protein	hallmark	major_capsid	37.83	6.188829800836051e-09	0.5463
+CTG_002381	CTG_002381_6	phrog_267	head and packaging | major head protein	hallmark	major_capsid	31.05	7.098408502044321e-07	0.5049
+CTG_000623	CTG_000623_16	phrog_279	tail | tail sheath	supporting	tail	242.58	4.022802094935009e-71	0.9939
+CTG_000648	CTG_000648_5	phrog_279	tail | tail sheath	supporting	tail	183.15	4.193155141884922e-53	0.9857
+CTG_000296	CTG_000296_13	phrog_279	tail | tail sheath	supporting	tail	46.53	1.1114393576995916e-11	0.9162
+CTG_000699	CTG_000699_13	phrog_280	head and packaging | virion structural protein	supporting	packaging	123.94	2.3674962188875255e-35	0.958
+CTG_000692	CTG_000692_14	phrog_280	head and packaging | virion structural protein	supporting	packaging	116.33	5.286203086312414e-33	0.958
+CTG_001348	CTG_001348_13	phrog_280	head and packaging | virion structural protein	supporting	packaging	104.5	2.3473806699012803e-29	0.965
+CTG_003096	CTG_003096_4	phrog_280	head and packaging | virion structural protein	supporting	packaging	104.13	3.056520692307475e-29	0.958
+CTG_002807	CTG_002807_2	phrog_280	head and packaging | virion structural protein	supporting	packaging	51.88	3.9860439718192586e-13	0.9161
+CTG_000137	CTG_000137_44	phrog_280	head and packaging | virion structural protein	supporting	packaging	35.79	3.654873131791419e-08	0.8252
+CTG_000153	CTG_000153_26	phrog_280	head and packaging | virion structural protein	supporting	packaging	28.34	7.260200997008662e-06	0.8182
+CTG_000122	CTG_000122_62	phrog_283	head and packaging | major head protein	hallmark	major_capsid	265.8	3.9449339303742055e-78	0.9948
+CTG_001934	CTG_001934_4	phrog_283	head and packaging | major head protein	hallmark	major_capsid	265.07	6.592610556708545e-78	0.9948
+CTG_002646	CTG_002646_3	phrog_283	head and packaging | major head protein	hallmark	major_capsid	239.81	3.1084566008052614e-70	0.9922
+CTG_002581	CTG_002581_6	phrog_283	head and packaging | major head protein	hallmark	major_capsid	239.54	3.738761087479827e-70	0.9948
+CTG_001245	CTG_001245_12	phrog_283	head and packaging | major head protein	hallmark	major_capsid	237.63	1.4206118443367737e-69	0.9948
+CTG_001795	CTG_001795_2	phrog_283	head and packaging | major head protein	hallmark	major_capsid	233.0	3.623318123939501e-68	0.987
+CTG_000286	CTG_000286_43	phrog_283	head and packaging | major head protein	hallmark	major_capsid	231.47	1.0582701735356639e-67	0.961
+CTG_000253	CTG_000253_34	phrog_283	head and packaging | major head protein	hallmark	major_capsid	229.33	4.7320335473291266e-67	0.9922
+CTG_000281	CTG_000281_30	phrog_283	head and packaging | major head protein	hallmark	major_capsid	220.06	3.088725420270795e-64	0.9922
+CTG_000672	CTG_000672_14	phrog_283	head and packaging | major head protein	hallmark	major_capsid	220.22	2.7672816858968882e-64	0.9896
+CTG_001578	CTG_001578_5	phrog_283	head and packaging | major head protein	hallmark	major_capsid	214.0	2.145870674658447e-62	0.9455
+CTG_001323	CTG_001323_5	phrog_283	head and packaging | major head protein	hallmark	major_capsid	211.46	1.2717619143891395e-61	0.9844
+CTG_000816	CTG_000816_13	phrog_283	head and packaging | major head protein	hallmark	major_capsid	210.83	1.9761689743678933e-61	0.9948
+CTG_001884	CTG_001884_10	phrog_283	head and packaging | major head protein	hallmark	major_capsid	198.61	1.0149528610253651e-57	0.9896
+CTG_000111	CTG_000111_18	phrog_283	head and packaging | major head protein	hallmark	major_capsid	183.27	4.641357437800693e-53	0.9922
+CTG_001110	CTG_001110_1	phrog_283	head and packaging | major head protein	hallmark	major_capsid	169.5	7.078659455467784e-49	0.9662
+CTG_000703	CTG_000703_11	phrog_283	head and packaging | major head protein	hallmark	major_capsid	155.62	1.1669163268190024e-44	0.9792
+CTG_000600	CTG_000600_1	phrog_283	head and packaging | major head protein	hallmark	major_capsid	155.02	1.7767171604041023e-44	0.9896
+CTG_003082	CTG_003082_4	phrog_283	head and packaging | major head protein	hallmark	major_capsid	119.26	1.2977464931449323e-33	0.9922
+CTG_000647	CTG_000647_12	phrog_283	head and packaging | major head protein	hallmark	major_capsid	83.94	6.947634054204484e-23	0.9896
+CTG_002219	CTG_002219_3	phrog_283	head and packaging | major head protein	hallmark	major_capsid	76.9	9.577568604464349e-21	0.9013
+CTG_000424	CTG_000424_22	phrog_283	head and packaging | major head protein	hallmark	major_capsid	71.17	5.259627761218648e-19	0.5896
+CTG_002065	CTG_002065_6	phrog_283	head and packaging | major head protein	hallmark	major_capsid	54.04	8.422188230269937e-14	0.6675
+CTG_002886	CTG_002886_9	phrog_283	head and packaging | major head protein	hallmark	major_capsid	41.43	5.711633079868935e-10	0.5688
+CTG_000606	CTG_000606_5	phrog_283	head and packaging | major head protein	hallmark	major_capsid	39.89	1.6770994330360048e-09	0.561
+CTG_000399	CTG_000399_32	phrog_290	tail | minor tail protein	supporting	tail	229.55	4.2939083528132336e-67	0.7591
+CTG_001301	CTG_001301_3	phrog_290	tail | minor tail protein	supporting	tail	194.67	1.6685895570590273e-56	0.7737
+CTG_000122	CTG_000122_54	phrog_290	tail | minor tail protein	supporting	tail	198.23	1.3903265144118872e-57	0.7616
+CTG_002018	CTG_002018_4	phrog_290	tail | minor tail protein	supporting	tail	104.76	3.3090174157852696e-29	0.764
+CTG_000364	CTG_000364_27	phrog_290	tail | minor tail protein	supporting	tail	87.19	7.151396714052494e-24	0.747
+CTG_000169	CTG_000169_22	phrog_290	tail | minor tail protein	supporting	tail	57.78	6.100412050041496e-15	0.7372
+CTG_000431	CTG_000431_14	phrog_290	tail | minor tail protein	supporting	tail	44.58	6.173398775918494e-11	0.6034
+CTG_000311	CTG_000311_6	phrog_291	lysis | endolysin	supporting	endolysin	170.76	2.445902663701585e-49	0.5147
+CTG_000699	CTG_000699_18	phrog_302	head and packaging | virion structural protein	supporting	packaging	107.72	1.893960728578988e-30	0.7613
+CTG_000692	CTG_000692_20	phrog_302	head and packaging | virion structural protein	supporting	packaging	106.78	3.696460930003494e-30	0.7871
+CTG_002657	CTG_002657_5	phrog_302	head and packaging | virion structural protein	supporting	packaging	100.18	3.9735361957927402e-28	0.7935
+CTG_001348	CTG_001348_7	phrog_302	head and packaging | virion structural protein	supporting	packaging	99.12	8.427224895967735e-28	0.7935
+CTG_000422	CTG_000422_9	phrog_302	head and packaging | virion structural protein	supporting	packaging	87.85	2.4888586983363088e-24	0.8903
+CTG_000153	CTG_000153_31	phrog_302	head and packaging | virion structural protein	supporting	packaging	87.04	4.401119622645836e-24	0.8194
+CTG_000137	CTG_000137_49	phrog_302	head and packaging | virion structural protein	supporting	packaging	86.85	5.0472470962537095e-24	0.871
+CTG_001013	CTG_001013_14	phrog_302	head and packaging | virion structural protein	supporting	packaging	78.53	1.8442057515473037e-21	0.7935
+CTG_001016	CTG_001016_5	phrog_302	head and packaging | virion structural protein	supporting	packaging	75.36	1.737940772178018e-20	0.8452
+CTG_002836	CTG_002836_3	phrog_302	head and packaging | virion structural protein	supporting	packaging	71.98	1.9066972406838732e-19	0.8581
+CTG_002719	CTG_002719_2	phrog_306	head and packaging | minor head protein Ace-like	supporting	packaging	41.47	9.925868661118629e-10	0.9391
+CTG_000002	CTG_000002_349	phrog_308	head and packaging | internal virion protein	supporting	packaging	118.71	1.2435038645432015e-33	0.9735
+CTG_000564	CTG_000564_5	phrog_308	head and packaging | internal virion protein	supporting	packaging	98.53	2.0418126751907125e-27	0.9801
+CTG_000840	CTG_000840_4	phrog_308	head and packaging | internal virion protein	supporting	packaging	96.98	6.1707022392573916e-27	0.9868
+CTG_002018	CTG_002018_3	phrog_313	tail | Tail assembly chaperone	supporting	tail	57.67	6.92069911490424e-15	0.5078
+CTG_000399	CTG_000399_35	phrog_313	tail | Tail assembly chaperone	supporting	tail	56.3	1.8192905736377355e-14	0.5078
+CTG_003041	CTG_003041_4	phrog_332	connector | head-tail adaptor	supporting	tail	610.27	1.4559704797136366e-182	0.9839
+CTG_000564	CTG_000564_25	phrog_332	connector | head-tail adaptor	supporting	tail	597.76	8.959482811801409e-179	0.975
+CTG_000961	CTG_000961_17	phrog_332	connector | head-tail adaptor	supporting	tail	593.24	2.0977218146122767e-177	0.9446
+CTG_000058	CTG_000058_52	phrog_332	connector | head-tail adaptor	supporting	tail	416.53	7.10020482474064e-124	0.9339
+CTG_002846	CTG_002846_6	phrog_332	connector | head-tail adaptor	supporting	tail	401.6	2.3750504710467057e-119	0.9643
+CTG_000826	CTG_000826_16	phrog_332	connector | head-tail adaptor	supporting	tail	401.17	3.19557474304108e-119	0.9714
+CTG_001390	CTG_001390_9	phrog_332	connector | head-tail adaptor	supporting	tail	386.04	1.2245497099409499e-114	0.9643
+CTG_001595	CTG_001595_10	phrog_332	connector | head-tail adaptor	supporting	tail	378.01	3.311182413392534e-112	0.9518
+CTG_000767	CTG_000767_14	phrog_332	connector | head-tail adaptor	supporting	tail	376.51	9.442853544354924e-112	0.9732
+CTG_000708	CTG_000708_19	phrog_332	connector | head-tail adaptor	supporting	tail	376.07	1.2872827196327646e-111	0.9732
+CTG_002177	CTG_002177_4	phrog_332	connector | head-tail adaptor	supporting	tail	353.84	6.9502177571736566e-105	0.9482
+CTG_002145	CTG_002145_2	phrog_332	connector | head-tail adaptor	supporting	tail	296.81	1.3132375739381813e-87	0.9714
+CTG_001749	CTG_001749_8	phrog_332	connector | head-tail adaptor	supporting	tail	236.66	2.1730807926749717e-69	0.9018
+CTG_002123	CTG_002123_9	phrog_332	connector | head-tail adaptor	supporting	tail	233.89	1.5026734703654346e-68	0.95
+CTG_002810	CTG_002810_1	phrog_332	connector | head-tail adaptor	supporting	tail	218.08	9.271386444150789e-64	0.9196
+CTG_000606	CTG_000606_21	phrog_332	connector | head-tail adaptor	supporting	tail	209.26	4.3468021576611895e-61	0.9607
+CTG_002447	CTG_002447_5	phrog_332	connector | head-tail adaptor	supporting	tail	92.38	1.1042462493258383e-25	0.9643
+CTG_000118	CTG_000118_44	phrog_332	connector | head-tail adaptor	supporting	tail	72.03	1.6177617549694527e-19	0.5446
+CTG_001733	CTG_001733_2	phrog_332	connector | head-tail adaptor	supporting	tail	55.97	1.1857001261135079e-14	0.5446
+CTG_002101	CTG_002101_5	phrog_332	connector | head-tail adaptor	supporting	tail	55.57	1.561503819479622e-14	0.5482
+CTG_002133	CTG_002133_6	phrog_332	connector | head-tail adaptor	supporting	tail	45.19	2.176252007678118e-11	0.5982
+CTG_002640	CTG_002640_10	phrog_332	connector | head-tail adaptor	supporting	tail	42.89	1.082160862060774e-10	0.6661
+CTG_000273	CTG_000273_40	phrog_332	connector | head-tail adaptor	supporting	tail	37.93	3.4472282843831483e-09	0.7107
+CTG_000580	CTG_000580_16	phrog_332	connector | head-tail adaptor	supporting	tail	37.24	5.593328111038997e-09	0.5446
+CTG_000349	CTG_000349_34	phrog_332	connector | head-tail adaptor	supporting	tail	31.01	4.2923856161714166e-07	0.5036
+CTG_000710	CTG_000710_4	phrog_332	connector | head-tail adaptor	supporting	tail	27.92	3.712459186266077e-06	0.5446
+CTG_003146	CTG_003146_3	phrog_334	head and packaging | major head protein	hallmark	major_capsid	315.32	2.8552052060048836e-93	0.9948
+CTG_000316	CTG_000316_17	phrog_334	head and packaging | major head protein	hallmark	major_capsid	290.4	1.0633090435516358e-85	0.9843
+CTG_001127	CTG_001127_11	phrog_344	tail | tail assembly chaperone	supporting	tail	84.41	3.7515324332571335e-23	0.927
+CTG_000635	CTG_000635_19	phrog_344	tail | tail assembly chaperone	supporting	tail	48.27	5.420784188731901e-12	0.8029
+CTG_000424	CTG_000424_31	phrog_344	tail | tail assembly chaperone	supporting	tail	41.93	4.906870975836489e-10	0.8321
+CTG_002381	CTG_002381_3	phrog_344	tail | tail assembly chaperone	supporting	tail	38.76	4.686834922642737e-09	0.8905
+CTG_001016	CTG_001016_14	phrog_349	head and packaging | virion structural protein	supporting	packaging	82.96	8.331225096483717e-23	0.8684
+CTG_000692	CTG_000692_9	phrog_349	head and packaging | virion structural protein	supporting	packaging	79.9	7.421674216369288e-22	0.8772
+CTG_000699	CTG_000699_9	phrog_349	head and packaging | virion structural protein	supporting	packaging	77.37	4.5346142143302175e-21	0.8772
+CTG_001348	CTG_001348_17	phrog_349	head and packaging | virion structural protein	supporting	packaging	75.08	2.3218706217598754e-20	0.886
+CTG_000153	CTG_000153_22	phrog_349	head and packaging | virion structural protein	supporting	packaging	70.19	7.656468855587973e-19	0.886
+CTG_001593	CTG_001593_10	phrog_349	head and packaging | virion structural protein	supporting	packaging	70.1	8.146246011030276e-19	0.9123
+CTG_000137	CTG_000137_40	phrog_349	head and packaging | virion structural protein	supporting	packaging	64.69	3.9023884977902644e-17	0.8772
+CTG_000422	CTG_000422_18	phrog_349	head and packaging | virion structural protein	supporting	packaging	61.59	3.5782296625099714e-16	0.9561
+CTG_002807	CTG_002807_6	phrog_349	head and packaging | virion structural protein	supporting	packaging	41.5	6.1337997328465e-10	0.8772
+CTG_000191	CTG_000191_42	phrog_350	tail | tail protein	supporting	tail	268.41	5.822084957184886e-79	0.9748
+CTG_000257	CTG_000257_12	phrog_350	tail | tail protein	supporting	tail	246.53	2.5524589785110577e-72	0.9702
+CTG_000037	CTG_000037_145	phrog_350	tail | tail protein	supporting	tail	189.09	6.875612019072468e-55	0.961
+CTG_002570	CTG_002570_7	phrog_350	tail | tail protein	supporting	tail	158.81	1.0612164312093458e-45	0.8005
+CTG_000156	CTG_000156_14	phrog_371	head and packaging | major head protein	hallmark	major_capsid	39.59	1.898892246801769e-09	0.5182
+CTG_000145	CTG_000145_42	phrog_371	head and packaging | major head protein	hallmark	major_capsid	47.04	1.0208123338382772e-11	0.7261
+CTG_001043	CTG_001043_11	phrog_371	head and packaging | major head protein	hallmark	major_capsid	30.92	8.30605752681194e-07	0.7558
+CTG_001942	CTG_001942_1	phrog_371	head and packaging | major head protein	hallmark	major_capsid	33.75	1.1388080611401106e-07	0.7558
+CTG_001545	CTG_001545_14	phrog_371	head and packaging | major head protein	hallmark	major_capsid	34.73	5.717142920292939e-08	0.5941
+CTG_000337	CTG_000337_26	phrog_376	tail | tail protein	supporting	tail	732.66	2.4778674733514638e-219	0.9972
+CTG_000564	CTG_000564_6	phrog_376	tail | tail protein	supporting	tail	658.9	5.11518303838184e-197	0.9986
+CTG_000058	CTG_000058_65	phrog_376	tail | tail protein	supporting	tail	496.8	5.581731259248696e-148	0.9831
+CTG_000840	CTG_000840_6	phrog_376	tail | tail protein	supporting	tail	439.95	8.756152925748167e-131	0.9972
+CTG_002181	CTG_002181_3	phrog_376	tail | tail protein	supporting	tail	391.88	3.0544278300093965e-116	0.9508
+CTG_003124	CTG_003124_1	phrog_376	tail | tail protein	supporting	tail	366.3	1.6778986698423828e-108	0.809
+CTG_000767	CTG_000767_4	phrog_376	tail | tail protein	supporting	tail	212.34	6.320986044770219e-62	0.8315
+CTG_002893	CTG_002893_1	phrog_376	tail | tail protein	supporting	tail	229.38	4.423230337102e-67	0.8287
+CTG_000708	CTG_000708_4	phrog_376	tail | tail protein	supporting	tail	217.12	2.2570559347523763e-63	0.7725
+CTG_000918	CTG_000918_10	phrog_376	tail | tail protein	supporting	tail	145.85	8.221858136486916e-42	0.6334
+CTG_000759	CTG_000759_16	phrog_382	tail | minor tail protein with lysin activity	supporting	tail	146.71	4.4857955595475046e-42	0.5267
+CTG_000011	CTG_000011_144	phrog_382	tail | minor tail protein with lysin activity	supporting	tail	141.3	1.940765150691302e-40	0.5496
+CTG_002378	CTG_002378_2	phrog_382	tail | minor tail protein with lysin activity	supporting	tail	126.38	6.371963396549445e-36	0.5099
+CTG_000564	CTG_000564_7	phrog_394	tail | tail protein	supporting	tail	139.72	3.877010448913538e-40	0.9211
+CTG_000337	CTG_000337_28	phrog_394	tail | tail protein	supporting	tail	135.8	6.149902375967325e-39	0.7526
+CTG_003124	CTG_003124_4	phrog_394	tail | tail protein	supporting	tail	119.37	6.708020957008544e-34	0.8526
+CTG_000826	CTG_000826_2	phrog_394	tail | tail protein	supporting	tail	48.48	3.646155238871983e-12	0.6053
+CTG_002893	CTG_002893_2	phrog_394	tail | tail protein	supporting	tail	57.2	7.75257630894577e-15	0.6263
+CTG_000918	CTG_000918_11	phrog_394	tail | tail protein	supporting	tail	56.59	1.1902405190387504e-14	0.6211
+CTG_002181	CTG_002181_4	phrog_394	tail | tail protein	supporting	tail	89.91	7.210868445955953e-25	0.8053
+CTG_000058	CTG_000058_66	phrog_394	tail | tail protein	supporting	tail	81.26	3.250529196608217e-22	0.9789
+CTG_003124	CTG_003124_2	phrog_394	tail | tail protein	supporting	tail	76.7	8.128954841097714e-21	0.9895
+CTG_000708	CTG_000708_5	phrog_394	tail | tail protein	supporting	tail	52.25	2.556736209882297e-13	0.5158
+CTG_003124	CTG_003124_3	phrog_394	tail | tail protein	supporting	tail	71.63	2.9059972388822236e-19	0.8684
+CTG_000840	CTG_000840_7	phrog_394	tail | tail protein	supporting	tail	61.69	3.244599857964552e-16	0.8474
+CTG_003124	CTG_003124_5	phrog_394	tail | tail protein	supporting	tail	59.36	1.6884688527583307e-15	0.8368
+CTG_001140	CTG_001140_13	phrog_396	tail | minor tail protein	supporting	tail	130.5	2.481018144021828e-37	0.8354
+CTG_003146	CTG_003146_6	phrog_399	head and packaging | structural protein	supporting	packaging	197.48	1.1119902935198804e-57	0.9455
+CTG_000316	CTG_000316_23	phrog_399	head and packaging | structural protein	supporting	packaging	148.92	7.924081966274021e-43	0.9409
+CTG_000316	CTG_000316_22	phrog_399	head and packaging | structural protein	supporting	packaging	134.91	1.5181969120141733e-38	0.9227
+CTG_002303	CTG_002303_3	phrog_399	head and packaging | structural protein	supporting	packaging	43.33	1.55245630642634e-10	0.8909
+CTG_002988	CTG_002988_9	phrog_399	head and packaging | structural protein	supporting	packaging	35.27	4.531343100763082e-08	0.8545
+CTG_003146	CTG_003146_7	phrog_399	head and packaging | structural protein	supporting	packaging	31.29	7.47306766744208e-07	0.8045
+CTG_000351	CTG_000351_49	phrog_399	head and packaging | structural protein	supporting	packaging	30.3	1.5000063032426082e-06	0.7909
+CTG_000337	CTG_000337_25	phrog_418	head and packaging | internal virion protein	supporting	packaging	103.78	5.215498373078094e-29	0.9036
+CTG_000564	CTG_000564_3	phrog_418	head and packaging | internal virion protein	supporting	packaging	95.22	2.2445999781274334e-26	0.9337
+CTG_000840	CTG_000840_3	phrog_418	head and packaging | internal virion protein	supporting	packaging	76.35	1.4158781162386078e-20	0.9337
+CTG_000002	CTG_000002_348	phrog_418	head and packaging | internal virion protein	supporting	packaging	73.69	9.280761632007963e-20	0.9217
+CTG_000058	CTG_000058_63	phrog_418	head and packaging | internal virion protein	supporting	packaging	69.82	1.4376255475134434e-18	0.8976
+CTG_002181	CTG_002181_2	phrog_418	head and packaging | internal virion protein	supporting	packaging	61.09	6.969412751012104e-16	0.9458
+CTG_000424	CTG_000424_22	phrog_422	head and packaging | major head protein	hallmark	major_capsid	27.57	9.69635847371967e-06	0.5791
+CTG_003146	CTG_003146_7	phrog_437	head and packaging | virion structural protein	supporting	packaging	114.94	1.7772144900702478e-32	0.9606
+CTG_000316	CTG_000316_21	phrog_437	head and packaging | virion structural protein	supporting	packaging	59.16	2.1496235864004144e-15	0.6897
+CTG_000606	CTG_000606_3	phrog_437	head and packaging | virion structural protein	supporting	packaging	64.45	5.1391090473611136e-17	0.9852
+CTG_000822	CTG_000822_5	phrog_438	tail | baseplate wedge subunit	supporting	tail	263.21	2.9029431391328802e-77	0.7594
+CTG_000191	CTG_000191_35	phrog_438	tail | baseplate wedge subunit	supporting	tail	251.74	8.745476418616936e-74	0.7594
+CTG_001162	CTG_001162_2	phrog_438	tail | baseplate wedge subunit	supporting	tail	251.65	9.328673422288621e-74	0.9393
+CTG_000257	CTG_000257_2	phrog_438	tail | baseplate wedge subunit	supporting	tail	251.41	1.1048660652129805e-73	1.0
+CTG_001836	CTG_001836_6	phrog_442	connector | head-tail adaptor	supporting	tail	107.63	3.347695921043106e-30	0.6704
+CTG_002184	CTG_002184_7	phrog_442	connector | head-tail adaptor	supporting	tail	105.89	1.1388750877168894e-29	0.663
+CTG_002342	CTG_002342_3	phrog_442	connector | head-tail adaptor	supporting	tail	103.75	5.100678054707372e-29	0.6667
+CTG_001936	CTG_001936_8	phrog_442	connector | head-tail adaptor	supporting	tail	93.89	5.193168716206989e-26	0.8148
+CTG_000635	CTG_000635_6	phrog_442	connector | head-tail adaptor	supporting	tail	72.3	1.9906291148722568e-19	0.5778
+CTG_001251	CTG_001251_3	phrog_442	connector | head-tail adaptor	supporting	tail	43.31	1.374344814047166e-10	0.9111
+CTG_001905	CTG_001905_1	phrog_445	head and packaging | terminase small subunit	supporting	packaging	125.36	7.710152047159042e-36	0.951
+CTG_000191	CTG_000191_11	phrog_445	head and packaging | terminase small subunit	supporting	packaging	114.75	1.437940932070912e-32	0.9441
+CTG_000065	CTG_000065_85	phrog_445	head and packaging | terminase small subunit	supporting	packaging	81.17	3.2753892372276497e-22	0.7902
+CTG_001557	CTG_001557_5	phrog_445	head and packaging | terminase small subunit	supporting	packaging	63.01	1.310674627566598e-16	0.9161
+CTG_002810	CTG_002810_1	phrog_449	connector | head-tail adaptor	supporting	tail	157.88	1.6687670807462506e-45	0.9519
+CTG_000564	CTG_000564_25	phrog_449	connector | head-tail adaptor	supporting	tail	125.98	7.75840028327483e-36	0.975
+CTG_003041	CTG_003041_4	phrog_449	connector | head-tail adaptor	supporting	tail	122.41	9.35219254011074e-35	0.9788
+CTG_000961	CTG_000961_17	phrog_449	connector | head-tail adaptor	supporting	tail	113.98	3.3462520867801567e-32	0.9038
+CTG_000058	CTG_000058_52	phrog_449	connector | head-tail adaptor	supporting	tail	61.47	2.762417554643526e-16	0.5173
+CTG_000767	CTG_000767_14	phrog_449	connector | head-tail adaptor	supporting	tail	70.11	6.620948529419842e-19	0.9673
+CTG_000826	CTG_000826_16	phrog_449	connector | head-tail adaptor	supporting	tail	49.81	9.384214113106956e-13	0.5615
+CTG_002846	CTG_002846_6	phrog_449	connector | head-tail adaptor	supporting	tail	45.03	2.6423621187631327e-11	0.5635
+CTG_000708	CTG_000708_19	phrog_449	connector | head-tail adaptor	supporting	tail	42.65	1.396271347858348e-10	0.9654
+CTG_001595	CTG_001595_10	phrog_449	connector | head-tail adaptor	supporting	tail	27.23	6.558849853712278e-06	0.5077
+CTG_002177	CTG_002177_4	phrog_449	connector | head-tail adaptor	supporting	tail	30.53	6.5529763963078e-07	0.5192
+CTG_000191	CTG_000191_33	phrog_473	head and packaging | virion structural protein	supporting	packaging	56.31	1.7086887708393825e-14	0.9467
+CTG_000822	CTG_000822_2	phrog_473	head and packaging | virion structural protein	supporting	packaging	55.38	3.3292241878908245e-14	0.9467
+CTG_001538	CTG_001538_9	phrog_473	head and packaging | virion structural protein	supporting	packaging	49.28	2.675536304669706e-12	0.9067
+CTG_001301	CTG_001301_9	phrog_477	connector | head-tail adaptor Ad1	supporting	tail	114.74	2.3952272922317272e-32	0.8
+CTG_000399	CTG_000399_28	phrog_477	connector | head-tail adaptor Ad1	supporting	tail	90.16	7.890567312057401e-25	0.6318
+CTG_003146	CTG_003146_4	phrog_486	head and packaging | virion structural protein	supporting	packaging	70.8	7.433996646589019e-19	0.9921
+CTG_000296	CTG_000296_15	phrog_490	head and packaging | portal protein	hallmark	portal	180.1	2.222491538608881e-52	0.9737
+CTG_000296	CTG_000296_11	phrog_508	tail | tail assembly chaperone	supporting	tail	57.78	5.056447630312365e-15	0.6903
+CTG_000316	CTG_000316_24	phrog_511	head and packaging | internal virion protein	supporting	packaging	363.38	1.5009413404503166e-107	0.6253
+CTG_000528	CTG_000528_13	phrog_511	head and packaging | internal virion protein	supporting	packaging	228.22	1.0722084237945401e-66	0.5557
+CTG_000185	CTG_000185_14	phrog_523	tail | tail collar fiber protein	supporting	tail	128.15	2.3279697393819786e-36	0.5334
+CTG_000699	CTG_000699_22	phrog_530	head and packaging | head maturation protease	supporting	head maturation	191.62	1.199784040959887e-55	0.7205
+CTG_000692	CTG_000692_27	phrog_530	head and packaging | head maturation protease	supporting	head maturation	163.06	5.663243861732085e-47	0.6974
+CTG_001335	CTG_001335_3	phrog_530	head and packaging | head maturation protease	supporting	head maturation	145.46	1.261021393358778e-41	0.7769
+CTG_001016	CTG_001016_2	phrog_530	head and packaging | head maturation protease	supporting	head maturation	142.06	1.357926205455959e-40	0.7077
+CTG_000153	CTG_000153_35	phrog_530	head and packaging | head maturation protease	supporting	head maturation	137.43	3.457045951567055e-39	0.7949
+CTG_001426	CTG_001426_12	phrog_530	head and packaging | head maturation protease	supporting	head maturation	118.6	1.80823312396379e-33	0.6487
+CTG_000137	CTG_000137_54	phrog_530	head and packaging | head maturation protease	supporting	head maturation	112.78	1.0608267098221625e-31	0.6667
+CTG_001013	CTG_001013_7	phrog_530	head and packaging | head maturation protease	supporting	head maturation	108.26	2.499884076887081e-30	0.9051
+CTG_000736	CTG_000736_4	phrog_537	head and packaging | portal protein	hallmark	portal	171.38	8.900575096697953e-50	0.8884
+CTG_000431	CTG_000431_23	phrog_537	head and packaging | portal protein	hallmark	portal	142.45	6.168070340645566e-41	0.8498
+CTG_002010	CTG_002010_11	phrog_537	head and packaging | portal protein	hallmark	portal	96.22	8.281719217782934e-27	0.6438
+CTG_000037	CTG_000037_58	phrog_562	tail | RNA ligase and tail fiber protein attachment catalyst	supporting	tail	245.55	4.013313926304091e-72	0.939
+CTG_001554	CTG_001554_12	phrog_562	tail | RNA ligase and tail fiber protein attachment catalyst	supporting	tail	167.78	1.71614291722118e-48	0.7719
+CTG_000132	CTG_000132_41	phrog_562	tail | RNA ligase and tail fiber protein attachment catalyst	supporting	tail	90.01	7.3128287172683535e-25	0.5093
+CTG_001416	CTG_001416_7	phrog_563	head and packaging | virion structural protein	supporting	packaging	105.52	1.1683625424675316e-29	0.9306
+CTG_000692	CTG_000692_26	phrog_563	head and packaging | virion structural protein	supporting	packaging	93.99	4.068778560501496e-26	0.9191
+CTG_001348	CTG_001348_2	phrog_563	head and packaging | virion structural protein	supporting	packaging	85.02	2.314959938226949e-23	0.9075
+CTG_002657	CTG_002657_11	phrog_563	head and packaging | virion structural protein	supporting	packaging	68.35	3.0619865607934516e-18	0.9364
+CTG_001127	CTG_001127_10	phrog_584	tail | major tail protein	supporting	tail	101.92	2.0829107524815817e-28	0.9633
+CTG_000635	CTG_000635_18	phrog_584	tail | major tail protein	supporting	tail	93.43	8.265799845382545e-26	0.9679
+CTG_001140	CTG_001140_8	phrog_584	tail | major tail protein	supporting	tail	30.1	1.9462141962320874e-06	0.5092
+CTG_000699	CTG_000699_4	phrog_587	head and packaging | structural protein	supporting	packaging	208.28	1.0711395735295247e-60	0.5434
+CTG_000692	CTG_000692_4	phrog_587	head and packaging | structural protein	supporting	packaging	162.08	1.1523740029636546e-46	0.5
+CTG_000422	CTG_000422_23	phrog_587	head and packaging | structural protein	supporting	packaging	131.92	1.6711886269410934e-37	0.5434
+CTG_003099	CTG_003099_2	phrog_587	head and packaging | structural protein	supporting	packaging	123.56	5.783710497859382e-35	0.5102
+CTG_000311	CTG_000311_23	phrog_595	head and packaging | head maturation protease	supporting	head maturation	82.02	2.9420630210173227e-22	0.5614
+CTG_000736	CTG_000736_5	phrog_617	head and packaging | major head protein	hallmark	major_capsid	451.45	3.3043959578072375e-134	0.9888
+CTG_000431	CTG_000431_21	phrog_617	head and packaging | major head protein	hallmark	major_capsid	221.59	1.2629772985549003e-64	0.6805
+CTG_000600	CTG_000600_3	phrog_637	connector | head-tail adaptor Ad3	supporting	tail	35.45	4.4271346734092146e-08	0.5064
+CTG_000192	CTG_000192_33	phrog_675	head and packaging | terminase large subunit	hallmark	terminase_large	152.19	8.160686628824885e-44	0.9306
+CTG_000058	CTG_000058_60	phrog_684	head and packaging | virion structural protein	supporting	packaging	378.91	3.056467038325193e-112	0.9714
+CTG_001905	CTG_001905_1	phrog_735	head and packaging | terminase small subunit	supporting	packaging	73.67	7.719881301980379e-20	0.7683
+CTG_000191	CTG_000191_11	phrog_735	head and packaging | terminase small subunit	supporting	packaging	70.66	6.535998616561873e-19	0.6341
+CTG_000065	CTG_000065_85	phrog_735	head and packaging | terminase small subunit	supporting	packaging	60.01	1.2298814682653086e-15	0.7805
+CTG_001557	CTG_001557_5	phrog_735	head and packaging | terminase small subunit	supporting	packaging	45.92	2.6387058511207832e-11	0.7439
+CTG_000623	CTG_000623_3	phrog_752	head and packaging | major head protein	hallmark	major_capsid	292.94	2.3014959165668108e-86	0.96
+CTG_000648	CTG_000648_13	phrog_752	head and packaging | major head protein	hallmark	major_capsid	151.18	2.2633403050387326e-43	0.96
+CTG_000623	CTG_000623_10	phrog_772	tail | tail fiber protein	supporting	tail	82.45	1.8188003715718537e-22	0.6721
+CTG_001360	CTG_001360_5	phrog_778	tail | tail assembly protein	supporting	tail	215.76	4.1819702051392533e-63	0.9303
+CTG_000736	CTG_000736_15	phrog_778	tail | tail assembly protein	supporting	tail	210.16	2.1354988584026252e-61	0.9268
+CTG_003269	CTG_003269_2	phrog_778	tail | tail assembly protein	supporting	tail	190.77	1.728681290491926e-55	0.8432
+CTG_002373	CTG_002373_3	phrog_778	tail | tail assembly protein	supporting	tail	187.24	2.061069150867654e-54	0.8397
+CTG_002635	CTG_002635_3	phrog_778	tail | tail assembly protein	supporting	tail	170.68	2.284709456568287e-49	0.899
+CTG_003346	CTG_003346_4	phrog_778	tail | tail assembly protein	supporting	tail	140.4	3.85996686709262e-40	0.892
+CTG_000296	CTG_000296_10	phrog_794	tail | tail length tape measure protein	supporting	tail	579.76	6.0843587867106996e-173	0.9777
+CTG_000723	CTG_000723_2	phrog_800	head and packaging | terminase small subunit	supporting	packaging	66.77	7.351251957170944e-18	0.6458
+CTG_000293	CTG_000293_22	phrog_800	head and packaging | terminase small subunit	supporting	packaging	43.41	8.841251218033804e-11	0.593
+CTG_000910	CTG_000910_9	phrog_800	head and packaging | terminase small subunit	supporting	packaging	43.16	1.0526856063140592e-10	0.6106
+CTG_000383	CTG_000383_22	phrog_800	head and packaging | terminase small subunit	supporting	packaging	35.29	2.553779125923177e-08	0.683
+CTG_000699	CTG_000699_10	phrog_817	tail | tail fiber protein	supporting	tail	150.13	2.674931217772016e-43	0.855
+CTG_000692	CTG_000692_10	phrog_817	tail | tail fiber protein	supporting	tail	142.11	7.685153936938913e-41	0.82
+CTG_001348	CTG_001348_16	phrog_817	tail | tail fiber protein	supporting	tail	138.99	6.9270565765369635e-40	0.835
+CTG_002807	CTG_002807_5	phrog_817	tail | tail fiber protein	supporting	tail	96.59	6.773349506336428e-27	0.87
+CTG_000422	CTG_000422_17	phrog_817	tail | tail fiber protein	supporting	tail	71.5	3.2844847534233224e-19	0.88
+CTG_001016	CTG_001016_13	phrog_817	tail | tail fiber protein	supporting	tail	42.66	2.236011926722982e-10	0.88
+CTG_000153	CTG_000153_23	phrog_817	tail | tail fiber protein	supporting	tail	31.73	5.001832794611691e-07	0.84
+CTG_000292	CTG_000292_38	phrog_863	tail | tail fiber assembly	supporting	tail	48.2	4.089447074095001e-12	0.6072
+CTG_002209	CTG_002209_4	phrog_863	tail | tail fiber assembly	supporting	tail	43.15	1.3722004837326949e-10	0.8391
+CTG_002612	CTG_002612_5	phrog_907	tail | tail sheath	supporting	tail	69.72	1.2101548490505908e-18	0.9894
+CTG_000272	CTG_000272_28	phrog_931	head and packaging | head morphogenesis	supporting	packaging	53.61	8.778681988505938e-14	0.7248
+CTG_001283	CTG_001283_18	phrog_931	head and packaging | head morphogenesis	supporting	packaging	48.92	2.5170563338150187e-12	0.9358
+CTG_002046	CTG_002046_12	phrog_931	head and packaging | head morphogenesis	supporting	packaging	44.34	6.682768440883558e-11	0.7431
+CTG_000092	CTG_000092_42	phrog_931	head and packaging | head morphogenesis	supporting	packaging	31.41	6.97159973371573e-07	0.6055
+CTG_002657	CTG_002657_1	phrog_939	head and packaging | head protein	supporting	packaging	94.55	2.481337360945324e-26	0.9603
+CTG_000699	CTG_000699_16	phrog_939	head and packaging | head protein	supporting	packaging	91.04	3.0253979182389066e-25	0.9603
+CTG_000692	CTG_000692_18	phrog_939	head and packaging | head protein	supporting	packaging	76.4	1.0244146863803e-20	0.9603
+CTG_001348	CTG_001348_9	phrog_939	head and packaging | head protein	supporting	packaging	66.71	1.0165005402014521e-17	0.9603
+CTG_002719	CTG_002719_2	phrog_974	head and packaging | minor head protein	supporting	packaging	68.65	3.738920830638464e-18	0.9626
+CTG_000671	CTG_000671_3	phrog_975	tail | baseplate protein	supporting	tail	79.18	1.2776232788392965e-21	0.9076
+CTG_000296	CTG_000296_20	phrog_976	head and packaging | head maturation protease	supporting	head maturation	430.13	5.664299673052674e-128	0.8771
+CTG_002578	CTG_002578_5	phrog_979	head and packaging | terminase large subunit	hallmark	terminase_large	534.35	2.3928893718607127e-159	0.7072
+CTG_000623	CTG_000623_17	phrog_985	head and packaging | virion structural protein	supporting	packaging	121.05	1.4761428527808386e-34	0.9574
+CTG_000648	CTG_000648_4	phrog_985	head and packaging | virion structural protein	supporting	packaging	79.29	1.1379998299411245e-21	0.9149
+CTG_000623	CTG_000623_12	phrog_1004	head and packaging | virion structural protein	supporting	packaging	138.21	1.5700374742774253e-39	0.7909
+CTG_000648	CTG_000648_9	phrog_1004	head and packaging | virion structural protein	supporting	packaging	37.25	9.909121572637183e-09	0.5741
+CTG_002160	CTG_002160_4	phrog_1005	head and packaging | major head protein	hallmark	major_capsid	298.97	2.106808388813788e-88	0.9778
+CTG_000296	CTG_000296_18	phrog_1005	head and packaging | major head protein	hallmark	major_capsid	298.39	3.170822582558287e-88	0.9778
+CTG_001960	CTG_001960_4	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	246.68	1.7461800539557953e-72	0.6551
+CTG_002323	CTG_002323_5	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	232.19	4.411900644279723e-68	0.7221
+CTG_000332	CTG_000332_12	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	242.2	4.02832375991977e-71	0.727
+CTG_000170	CTG_000170_24	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	206.37	3.047095088493348e-60	0.7519
+CTG_002423	CTG_002423_2	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	206.45	2.887390666401004e-60	0.7419
+CTG_000053	CTG_000053_56	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	210.62	1.556836747963004e-61	0.9479
+CTG_002976	CTG_002976_2	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	205.27	6.561657055755941e-60	0.9429
+CTG_000353	CTG_000353_26	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	202.97	3.2743738888416514e-59	0.9504
+CTG_000939	CTG_000939_9	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	194.61	1.1345712456871216e-56	0.9454
+CTG_000095	CTG_000095_50	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	192.45	5.148337185498367e-56	0.9504
+CTG_000025	CTG_000025_93	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	189.23	4.871675521473591e-55	0.9479
+CTG_000236	CTG_000236_25	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	182.85	4.227903323701711e-53	0.9603
+CTG_001847	CTG_001847_6	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	177.16	2.259143091151902e-51	0.9777
+CTG_002812	CTG_002812_2	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	172.38	6.364493733849059e-50	0.7122
+CTG_000012	CTG_000012_135	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	145.56	8.90833468848794e-42	0.9305
+CTG_001034	CTG_001034_18	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	98.09	2.3195140215745246e-27	0.6055
+CTG_000676	CTG_000676_12	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	119.21	8.916460015486344e-34	0.5583
+CTG_000903	CTG_000903_11	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	134.54	1.9813440014925952e-38	0.9504
+CTG_000106	CTG_000106_3	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	127.1	3.5943905916673454e-36	0.928
+CTG_000863	CTG_000863_10	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	108.51	1.5844951429584126e-30	0.5608
+CTG_000001	CTG_000001_680	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	106.31	7.372892978453969e-30	0.6501
+CTG_001755	CTG_001755_3	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	102.18	1.3276519656120256e-28	0.5558
+CTG_000945	CTG_000945_8	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	100.9	3.23973144156932e-28	0.5856
+CTG_000764	CTG_000764_11	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	97.44	3.643568140771539e-27	0.5583
+CTG_000047	CTG_000047_60	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	95.33	1.5894980184699364e-26	0.5484
+CTG_000459	CTG_000459_2	phrog_1012	head and packaging | assembly (protein IV of M13)	supporting	packaging	85.4	1.6498461186592586e-23	0.7519
+CTG_000043	CTG_000043_81	phrog_1037	head and packaging | virion structural protein	supporting	packaging	101.01	3.8584064561784134e-28	0.5724
+CTG_000043	CTG_000043_82	phrog_1037	head and packaging | virion structural protein	supporting	packaging	53.6	1.0720808901530594e-13	0.5379
+CTG_000564	CTG_000564_2	phrog_1044	lysis | endolysin	supporting	endolysin	50.93	3.751069724785801e-13	0.5478
+CTG_000286	CTG_000286_29	phrog_1141	tail | tail fiber protein	supporting	tail	35.02	5.716280466374142e-08	0.6134
+CTG_002357	CTG_002357_1	phrog_1206	head and packaging | terminase small subunit	supporting	packaging	59.98	1.4564671445520308e-15	0.7778
+CTG_000699	CTG_000699_25	phrog_1206	head and packaging | terminase small subunit	supporting	packaging	33.64	1.695128028605079e-07	0.7295
+CTG_000349	CTG_000349_34	phrog_1216	head and packaging | portal protein	hallmark	portal	506.1	9.273546064180656e-151	0.972
+CTG_000273	CTG_000273_40	phrog_1216	head and packaging | portal protein	hallmark	portal	360.49	1.0380453726527067e-106	0.9678
+CTG_001164	CTG_001164_7	phrog_1216	head and packaging | portal protein	hallmark	portal	109.83	7.01693842911554e-31	0.7731
+CTG_000802	CTG_000802_24	phrog_1216	head and packaging | portal protein	hallmark	portal	95.65	1.367002744250651e-26	0.6849
+CTG_002183	CTG_002183_8	phrog_1216	head and packaging | portal protein	hallmark	portal	92.89	9.325207313991457e-26	0.6919
+CTG_001319	CTG_001319_10	phrog_1216	head and packaging | portal protein	hallmark	portal	89.5	9.920581340526382e-25	0.7871
+CTG_001942	CTG_001942_7	phrog_1216	head and packaging | portal protein	hallmark	portal	90.38	5.356867790094613e-25	0.7059
+CTG_001186	CTG_001186_15	phrog_1216	head and packaging | portal protein	hallmark	portal	85.78	1.3273373808572503e-23	0.7885
+CTG_001043	CTG_001043_5	phrog_1216	head and packaging | portal protein	hallmark	portal	86.43	8.391971896496086e-24	0.6947
+CTG_002731	CTG_002731_4	phrog_1216	head and packaging | portal protein	hallmark	portal	81.67	2.312163855799584e-22	0.7171
+CTG_002075	CTG_002075_7	phrog_1216	head and packaging | portal protein	hallmark	portal	77.06	5.752809951962756e-21	0.6905
+CTG_002196	CTG_002196_1	phrog_1216	head and packaging | portal protein	hallmark	portal	75.72	1.4661670865868537e-20	0.6835
+CTG_001623	CTG_001623_8	phrog_1216	head and packaging | portal protein	hallmark	portal	73.88	5.260519286190882e-20	0.6989
+CTG_000156	CTG_000156_7	phrog_1216	head and packaging | portal protein	hallmark	portal	72.86	1.072854228075341e-19	0.8585
+CTG_002003	CTG_002003_2	phrog_1216	head and packaging | portal protein	hallmark	portal	68.71	1.935908261629784e-18	0.598
+CTG_002496	CTG_002496_7	phrog_1216	head and packaging | portal protein	hallmark	portal	60.84	4.625682922610941e-16	0.7297
+CTG_001095	CTG_001095_4	phrog_1216	head and packaging | portal protein	hallmark	portal	57.04	6.563652569903268e-15	0.6092
+CTG_000673	CTG_000673_26	phrog_1216	head and packaging | portal protein	hallmark	portal	41.78	2.7165642649269867e-10	0.5742
+CTG_000849	CTG_000849_2	phrog_1216	head and packaging | portal protein	hallmark	portal	44.58	3.8505763414396137e-11	0.535
+CTG_000635	CTG_000635_23	phrog_1302	tail | distal tail protein	supporting	tail	158.13	9.722378477440581e-46	0.9502
+CTG_001127	CTG_001127_13	phrog_1302	tail | distal tail protein	supporting	tail	120.52	3.221323597409382e-34	0.99
+CTG_000349	CTG_000349_38	phrog_1328	head and packaging | major head protein	hallmark	major_capsid	344.46	8.909074549318065e-102	0.5232
+CTG_000273	CTG_000273_38	phrog_1328	head and packaging | major head protein	hallmark	major_capsid	275.02	9.501843105208036e-81	0.5214
+CTG_001434	CTG_001434_3	phrog_1328	head and packaging | major head protein	hallmark	major_capsid	118.17	3.0215033177312693e-33	0.518
+CTG_001769	CTG_001769_15	phrog_1356	lysis | holin	supporting	holin	35.75	4.28388093761547e-08	0.5259
+CTG_000528	CTG_000528_20	phrog_1356	lysis | holin	supporting	holin	31.51	8.776933822555333e-07	0.5111
+CTG_002783	CTG_002783_4	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	249.48	2.398098067128888e-73	0.9326
+CTG_001083	CTG_001083_5	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	246.68	1.6974552769418233e-72	0.9326
+CTG_000573	CTG_000573_5	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	168.08	1.3377753223942712e-48	0.8933
+CTG_003138	CTG_003138_2	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	86.01	1.1971324837338578e-23	0.7809
+CTG_001449	CTG_001449_8	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	77.93	3.412187439072182e-21	0.8989
+CTG_002644	CTG_002644_5	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	49.1	1.985267909472379e-12	0.5983
+CTG_002556	CTG_002556_2	phrog_1357	head and packaging | major head protein	hallmark	major_capsid	36.03	1.8711578943628535e-08	0.7584
+CTG_000191	CTG_000191_38	phrog_1369	tail | baseplate protein	supporting	tail	73.31	8.398824566323021e-20	0.5644
+CTG_001162	CTG_001162_4	phrog_1369	tail | baseplate protein	supporting	tail	68.69	2.1031372033001385e-18	0.5624
+CTG_000822	CTG_000822_7	phrog_1369	tail | baseplate protein	supporting	tail	55.69	1.844271995048772e-14	0.5624
+CTG_000377	CTG_000377_6	phrog_1383	head and packaging | virion structural protein	supporting	packaging	95.6	1.3608966724014068e-26	0.8289
+CTG_003136	CTG_003136_5	phrog_1383	head and packaging | virion structural protein	supporting	packaging	84.37	3.7874173344387593e-23	0.7647
+CTG_000525	CTG_000525_7	phrog_1383	head and packaging | virion structural protein	supporting	packaging	84.13	4.484944137185844e-23	0.7914
+CTG_000475	CTG_000475_2	phrog_1383	head and packaging | virion structural protein	supporting	packaging	81.27	3.373884444090062e-22	0.7647
+CTG_001235	CTG_001235_13	phrog_1383	head and packaging | virion structural protein	supporting	packaging	75.61	1.8403650416262753e-20	0.7754
+CTG_000660	CTG_000660_7	phrog_1383	head and packaging | virion structural protein	supporting	packaging	75.13	2.585258129710501e-20	0.7861
+CTG_001326	CTG_001326_8	phrog_1383	head and packaging | virion structural protein	supporting	packaging	71.72	2.8679974876636085e-19	0.7968
+CTG_000023	CTG_000023_74	phrog_1383	head and packaging | virion structural protein	supporting	packaging	67.07	7.695279335709867e-18	0.7594
+CTG_000046	CTG_000046_20	phrog_1383	head and packaging | virion structural protein	supporting	packaging	67.38	6.155104436697093e-18	0.7807
+CTG_000002	CTG_000002_80	phrog_1383	head and packaging | virion structural protein	supporting	packaging	65.47	2.3665091748601878e-17	0.738
+CTG_001669	CTG_001669_5	phrog_1383	head and packaging | virion structural protein	supporting	packaging	61.88	2.9901505694557655e-16	0.6578
+CTG_001516	CTG_001516_6	phrog_1383	head and packaging | virion structural protein	supporting	packaging	59.3	1.8523122958798307e-15	0.7326
+CTG_001100	CTG_001100_11	phrog_1383	head and packaging | virion structural protein	supporting	packaging	61.66	3.506566966365839e-16	0.8449
+CTG_002658	CTG_002658_6	phrog_1383	head and packaging | virion structural protein	supporting	packaging	58.47	3.335343981881297e-15	0.7166
+CTG_001307	CTG_001307_7	phrog_1383	head and packaging | virion structural protein	supporting	packaging	54.97	3.9487635593903305e-14	0.7112
+CTG_002634	CTG_002634_4	phrog_1396	tail | tail fiber protein	supporting	tail	126.89	6.328602758708646e-36	0.502
+CTG_000424	CTG_000424_30	phrog_1407	tail | major tail protein	supporting	tail	35.64	3.527121669100854e-08	0.5388
+CTG_003271	CTG_003271_3	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	134.85	8.400429254572643e-39	0.8639
+CTG_001595	CTG_001595_14	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	123.47	2.7079005635582296e-35	0.7619
+CTG_001175	CTG_001175_6	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	73.01	9.67041172993673e-20	0.9524
+CTG_001210	CTG_001210_22	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	70.25	6.870625989324868e-19	0.7959
+CTG_000349	CTG_000349_29	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	60.45	7.18926466962365e-16	0.6599
+CTG_000424	CTG_000424_10	phrog_1482	head and packaging | terminase small subunit	supporting	packaging	39.51	2.046443408064955e-09	0.8367
+CTG_000012	CTG_000012_112	phrog_1493	lysis | endolysin	supporting	endolysin	70.66	6.72826380340078e-19	0.7157
+CTG_001140	CTG_001140_11	phrog_1506	tail | tail length tape measure protein	supporting	tail	91.69	1.7000479687778467e-25	0.6643
+CTG_000699	CTG_000699_10	phrog_1517	lysis | endolysin	supporting	endolysin	35.24	4.87161747862815e-08	0.7327
+CTG_002807	CTG_002807_5	phrog_1517	lysis | endolysin	supporting	endolysin	32.75	2.8246129086318864e-07	0.7822
+CTG_000422	CTG_000422_17	phrog_1517	lysis | endolysin	supporting	endolysin	30.78	1.133400058817444e-06	0.6188
+CTG_000635	CTG_000635_22	phrog_1538	tail | tail length tape measure protein	supporting	tail	56.38	1.1898999189713447e-14	0.8348
+CTG_002635	CTG_002635_1	phrog_1538	tail | tail length tape measure protein	supporting	tail	47.32	6.5276380911269054e-12	0.5401
+CTG_000736	CTG_000736_13	phrog_1538	tail | tail length tape measure protein	supporting	tail	33.41	1.0514537469268181e-07	0.8249
+CTG_001140	CTG_001140_11	phrog_1538	tail | tail length tape measure protein	supporting	tail	33.42	1.041222664988269e-07	0.5536
+CTG_003303	CTG_003303_4	phrog_1595	head and packaging | terminase small subunit	supporting	packaging	44.34	9.812372047566209e-11	0.5427
+CTG_000296	CTG_000296_5	phrog_1608	tail | tail protein	supporting	tail	133.29	3.5878422566835045e-38	0.9167
+CTG_001251	CTG_001251_5	phrog_1623	head and packaging | virion structural protein	supporting	packaging	261.96	3.794435624936453e-77	0.9377
+CTG_001905	CTG_001905_6	phrog_1644	head and packaging | minor coat protein	hallmark	major_capsid	101.36	3.785189822673216e-28	0.9136
+CTG_000635	CTG_000635_2	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	182.53	5.892665176159534e-53	0.8063
+CTG_002160	CTG_002160_6	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	163.62	3.413726411221783e-47	0.5704
+CTG_000431	CTG_000431_21	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	163.29	4.2999281583064244e-47	0.6303
+CTG_000169	CTG_000169_30	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	113.74	5.406980816832449e-32	0.5317
+CTG_002010	CTG_002010_9	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	112.89	9.819677907639919e-32	0.7324
+CTG_000057	CTG_000057_15	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	97.39	5.207101471342376e-27	0.5211
+CTG_000106	CTG_000106_45	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	79.34	1.6507376334560446e-21	0.5845
+CTG_000272	CTG_000272_46	phrog_1684	head and packaging | head maturation protease	supporting	head maturation	71.61	3.751231549039174e-19	0.5141
+CTG_000699	CTG_000699_12	phrog_1688	tail | tail assembly chaperone	supporting	tail	139.62	3.7778346060430134e-40	0.9795
+CTG_000692	CTG_000692_13	phrog_1688	tail | tail assembly chaperone	supporting	tail	84.15	4.7724661758435385e-23	0.9315
+CTG_003096	CTG_003096_3	phrog_1688	tail | tail assembly chaperone	supporting	tail	78.64	2.3795879730763063e-21	0.8767
+CTG_001348	CTG_001348_14	phrog_1688	tail | tail assembly chaperone	supporting	tail	70.73	6.50856222030711e-19	0.8836
+CTG_001127	CTG_001127_12	phrog_1716	tail | tail length tape measure protein	supporting	tail	71.74	2.342332927791097e-19	0.5249
+CTG_000043	CTG_000043_86	phrog_1806	tail | collagen like minor tail	supporting	tail	50.39	9.562551346859407e-13	0.529
+CTG_000043	CTG_000043_86	phrog_1806	tail | collagen like minor tail	supporting	tail	59.07	2.161421666804382e-15	0.6341
+CTG_000033	CTG_000033_35	phrog_1806	tail | collagen like minor tail	supporting	tail	47.34	8.166600153128791e-12	0.5036
+CTG_001810	CTG_001810_1	phrog_1806	tail | collagen like minor tail	supporting	tail	53.86	8.407785934350618e-14	0.5217
+CTG_000363	CTG_000363_21	phrog_1806	tail | collagen like minor tail	supporting	tail	30.73	9.441520542440442e-07	0.5
+CTG_000840	CTG_000840_14	phrog_1806	tail | collagen like minor tail	supporting	tail	30.56	1.0660059222348695e-06	0.5254
+CTG_002487	CTG_002487_3	phrog_1806	tail | collagen like minor tail	supporting	tail	42.64	2.2150443203879726e-10	0.5181
+CTG_002627	CTG_002627_2	phrog_1806	tail | collagen like minor tail	supporting	tail	31.8	4.467279615064235e-07	0.5362
+CTG_000129	CTG_000129_4	phrog_1807	tail | tail fiber protein	supporting	tail	56.76	1.3361092187801347e-14	0.5187
+CTG_002836	CTG_002836_5	phrog_1912	head and packaging | head protein	supporting	packaging	129.43	4.866188663212401e-37	0.9836
+CTG_000153	CTG_000153_29	phrog_1912	head and packaging | head protein	supporting	packaging	123.59	3.147652465380882e-35	0.9836
+CTG_000137	CTG_000137_47	phrog_1912	head and packaging | head protein	supporting	packaging	113.93	3.071332250094295e-32	0.9836
+CTG_001013	CTG_001013_19	phrog_1912	head and packaging | head protein	supporting	packaging	70.71	7.500360457248186e-19	0.6311
+CTG_001296	CTG_001296_11	phrog_1929	connector | head-tail connector protein	supporting	tail	34.84	8.222685906823796e-08	0.6514
+CTG_002836	CTG_002836_10	phrog_1932	tail | tail assembly chaperone	supporting	tail	148.6	5.716956707767329e-43	0.9701
+CTG_001016	CTG_001016_11	phrog_1932	tail | tail assembly chaperone	supporting	tail	140.47	1.863265750971256e-40	0.9851
+CTG_000153	CTG_000153_25	phrog_1932	tail | tail assembly chaperone	supporting	tail	134.28	1.5201270834491022e-38	0.9776
+CTG_000137	CTG_000137_43	phrog_1932	tail | tail assembly chaperone	supporting	tail	106.71	5.008196357932538e-30	0.9851
+CTG_001593	CTG_001593_6	phrog_1932	tail | tail assembly chaperone	supporting	tail	97.98	2.4889240215091524e-27	0.9403
+CTG_000153	CTG_000153_26	phrog_1964	head and packaging | virion structural protein	supporting	packaging	157.7	1.0833054728025544e-45	0.9658
+CTG_001016	CTG_001016_10	phrog_1964	head and packaging | virion structural protein	supporting	packaging	148.98	5.268064508434864e-43	0.9452
+CTG_000137	CTG_000137_44	phrog_1964	head and packaging | virion structural protein	supporting	packaging	144.35	1.41140084856034e-41	0.9589
+CTG_001593	CTG_001593_4	phrog_1964	head and packaging | virion structural protein	supporting	packaging	144.23	1.5365391733902823e-41	0.9521
+CTG_002836	CTG_002836_9	phrog_1964	head and packaging | virion structural protein	supporting	packaging	143.23	3.131414127419581e-41	0.9384
+CTG_000809	CTG_000809_3	phrog_1980	tail | tail fiber protein	supporting	tail	60.73	7.925061651035664e-16	0.6993
+CTG_000021	CTG_000021_41	phrog_1980	tail | tail fiber protein	supporting	tail	52.94	1.837063799849107e-13	0.8486
+CTG_000337	CTG_000337_22	phrog_1980	tail | tail fiber protein	supporting	tail	46.3	1.9010849018985653e-11	0.5501
+CTG_001172	CTG_001172_10	phrog_1980	tail | tail fiber protein	supporting	tail	37.8	7.185531784758061e-09	0.5212
+CTG_000153	CTG_000153_24	phrog_2013	tail | lytic tail protein	supporting	tail	101.51	2.606972399725852e-28	0.5677
+CTG_001016	CTG_001016_12	phrog_2013	tail | lytic tail protein	supporting	tail	79.17	1.5015660569397438e-21	0.6895
+CTG_001348	CTG_001348_15	phrog_2013	tail | lytic tail protein	supporting	tail	36.88	9.466541942384896e-09	0.6073
+CTG_000296	CTG_000296_5	phrog_2103	tail | baseplate protein	supporting	tail	159.41	2.6379615863495737e-46	0.9691
+CTG_000422	CTG_000422_22	phrog_2103	tail | baseplate protein	supporting	tail	28.13	6.264516398532663e-06	0.7654
+CTG_000137	CTG_000137_53	phrog_2122	head and packaging | minor head protein	supporting	packaging	121.57	1.2384609151548003e-34	0.903
+CTG_001013	CTG_001013_9	phrog_2122	head and packaging | minor head protein	supporting	packaging	118.48	1.1003889308520117e-33	0.8545
+CTG_000153	CTG_000153_34	phrog_2122	head and packaging | minor head protein	supporting	packaging	107.42	2.7641031357445513e-30	0.8606
+CTG_000433	CTG_000433_46	phrog_2125	head and packaging | virion structural protein	supporting	packaging	119.24	1.0674803486464402e-33	1.0
+CTG_000093	CTG_000093_26	phrog_2163	head and packaging | virion structural protein	supporting	packaging	226.11	5.859411841814546e-66	0.5331
+CTG_000137	CTG_000137_54	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	402.86	1.136104056490793e-119	0.972
+CTG_001013	CTG_001013_7	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	356.43	1.4083290200719468e-105	0.972
+CTG_001335	CTG_001335_3	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	152.35	1.2263214982242267e-43	0.9463
+CTG_001016	CTG_001016_2	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	138.43	2.0607417358840142e-39	0.6285
+CTG_000699	CTG_000699_22	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	70.68	7.511735807677202e-19	0.5537
+CTG_001426	CTG_001426_12	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	59.34	2.071476930526133e-15	0.736
+CTG_000692	CTG_000692_27	phrog_2229	head and packaging | head maturation protease	supporting	head maturation	46.5	1.640799215617341e-11	0.6472
+CTG_000513	CTG_000513_5	phrog_2234	tail | tail spike protein	supporting	tail	42.01	2.489566291499532e-10	0.5059
+CTG_001038	CTG_001038_13	phrog_2263	head and packaging | major head protein	hallmark	major_capsid	198.44	1.1885496320785717e-57	0.9347
+CTG_000699	CTG_000699_11	phrog_2276	tail | tail length tape measure protein	supporting	tail	112.9	9.115884296607554e-32	0.5007
+CTG_001127	CTG_001127_12	phrog_2276	tail | tail length tape measure protein	supporting	tail	37.17	7.499314958104183e-09	0.838
+CTG_000422	CTG_000422_14	phrog_2420	tail | tail fiber protein	supporting	tail	190.36	7.230006492947115e-56	0.9295
+CTG_000311	CTG_000311_23	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	171.61	1.3480786097169531e-49	0.8251
+CTG_002653	CTG_002653_5	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	70.93	6.18044220306447e-19	0.8152
+CTG_001378	CTG_001378_19	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	66.01	1.9480493892619912e-17	0.7096
+CTG_001836	CTG_001836_2	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	61.72	3.9314925519387704e-16	0.7261
+CTG_001335	CTG_001335_4	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	62.69	1.9953729988041581e-16	0.6601
+CTG_000498	CTG_000498_1	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	59.91	1.399017479586186e-15	0.7129
+CTG_003162	CTG_003162_7	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	55.75	2.584957129176129e-14	0.6634
+CTG_000153	CTG_000153_37	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	48.09	5.563980756053324e-12	0.8086
+CTG_003310	CTG_003310_1	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	48.27	4.925353797845315e-12	0.6271
+CTG_001416	CTG_001416_1	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	45.36	3.785627232087978e-11	0.6568
+CTG_000137	CTG_000137_55	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	43.15	1.7830082140698638e-10	0.5314
+CTG_001013	CTG_001013_4	phrog_2468	head and packaging | head morphogenesis	supporting	packaging	37.0	1.3267021117666385e-08	0.6766
+CTG_002179	CTG_002179_4	phrog_2497	head and packaging | internal head protein	supporting	packaging	118.79	1.6388946864747258e-33	0.8264
+CTG_000043	CTG_000043_74	phrog_2497	head and packaging | internal head protein	supporting	packaging	104.37	3.8802775608388303e-29	0.8901
+CTG_000043	CTG_000043_76	phrog_2497	head and packaging | internal head protein	supporting	packaging	68.35	3.2780518345006705e-18	0.789
+CTG_000043	CTG_000043_111	phrog_2497	head and packaging | internal head protein	supporting	packaging	64.82	3.854009164039548e-17	0.8769
+CTG_002058	CTG_002058_6	phrog_2522	head and packaging | major head protein	hallmark	major_capsid	265.36	3.2883733364151375e-78	0.9937
+CTG_000348	CTG_000348_11	phrog_2522	head and packaging | major head protein	hallmark	major_capsid	129.08	9.925192685846359e-37	0.8711
+CTG_000279	CTG_000279_4	phrog_2522	head and packaging | major head protein	hallmark	major_capsid	45.64	2.4700620880883823e-11	0.6918
+CTG_000349	CTG_000349_29	phrog_2538	head and packaging | terminase small subunit	supporting	packaging	33.44	2.0605766597480629e-07	0.5969
+CTG_000422	CTG_000422_17	phrog_2580	tail | tail fiber protein	supporting	tail	50.25	1.3479818323921808e-12	0.8523
+CTG_001386	CTG_001386_7	phrog_2635	tail | tail protein	supporting	tail	42.66	2.3656553576146143e-10	0.8074
+CTG_001360	CTG_001360_1	phrog_2647	head and packaging | head decoration	supporting	packaging	115.92	1.0138876351403607e-32	0.625
+CTG_001857	CTG_001857_6	phrog_2647	head and packaging | head decoration	supporting	packaging	93.55	6.461708832542986e-26	0.5714
+CTG_000286	CTG_000286_26	phrog_2649	lysis | endolysin	supporting	endolysin	121.31	3.195904787759247e-34	0.5249
+CTG_000673	CTG_000673_5	phrog_2649	lysis | endolysin	supporting	endolysin	109.47	1.3161523631033225e-30	0.5211
+CTG_001967	CTG_001967_16	phrog_2649	lysis | endolysin	supporting	endolysin	104.9	3.257091577736468e-29	0.5096
+CTG_002739	CTG_002739_3	phrog_2649	lysis | endolysin	supporting	endolysin	35.98	3.46854037343162e-08	0.6628
+CTG_000311	CTG_000311_23	phrog_2662	head and packaging | portal protein	hallmark	portal	436.21	1.3410948714889823e-129	0.9079
+CTG_001378	CTG_001378_19	phrog_2662	head and packaging | portal protein	hallmark	portal	397.19	8.534220436688928e-118	0.9596
+CTG_001836	CTG_001836_1	phrog_2662	head and packaging | portal protein	hallmark	portal	245.02	9.169653714304806e-72	0.5314
+CTG_000498	CTG_000498_2	phrog_2662	head and packaging | portal protein	hallmark	portal	233.4	3.020938816083343e-68	0.5328
+CTG_000364	CTG_000364_36	phrog_2662	head and packaging | portal protein	hallmark	portal	165.87	8.074486699547621e-48	0.5969
+CTG_002833	CTG_002833_3	phrog_2662	head and packaging | portal protein	hallmark	portal	146.45	6.071270738991049e-42	0.5635
+CTG_003214	CTG_003214_3	phrog_2662	head and packaging | portal protein	hallmark	portal	124.26	3.129345890017068e-35	0.5509
+CTG_001251	CTG_001251_7	phrog_2662	head and packaging | portal protein	hallmark	portal	124.15	3.369238754720684e-35	0.5509
+CTG_002835	CTG_002835_6	phrog_2662	head and packaging | portal protein	hallmark	portal	87.18	5.1482499384330515e-24	0.5021
+CTG_002833	CTG_002833_4	phrog_2699	head and packaging | terminase large subunit	hallmark	terminase_large	227.0	1.285738808850917e-66	0.9175
+CTG_001658	CTG_001658_8	phrog_2742	lysis | endolysin	supporting	endolysin	112.48	1.3893530333410118e-31	0.566
+CTG_001520	CTG_001520_1	phrog_2742	lysis | endolysin	supporting	endolysin	71.21	5.063469630987575e-19	0.5629
+CTG_000574	CTG_000574_2	phrog_2742	lysis | endolysin	supporting	endolysin	40.45	1.1634979465565988e-09	0.5472
+CTG_000129	CTG_000129_4	phrog_2837	tail | tail protein	supporting	tail	108.94	1.3533582095207537e-30	0.6238
+CTG_000286	CTG_000286_29	phrog_2837	tail | tail protein	supporting	tail	28.14	7.584776700934497e-06	0.5495
+CTG_002635	CTG_002635_1	phrog_2854	tail | tail length tape measure protein	supporting	tail	97.24	5.278706363881761e-27	0.7368
+CTG_000736	CTG_000736_13	phrog_2854	tail | tail length tape measure protein	supporting	tail	84.59	3.513268266848344e-23	0.7216
+CTG_001127	CTG_001127_12	phrog_2854	tail | tail length tape measure protein	supporting	tail	34.31	5.524479196264758e-08	0.5474
+CTG_002184	CTG_002184_1	phrog_2854	tail | tail length tape measure protein	supporting	tail	26.9	9.652602504951473e-06	0.5404
+CTG_002525	CTG_002525_1	phrog_2860	head and packaging | endolysin	supporting	packaging	177.73	1.125492213179439e-51	0.9841
+CTG_000051	CTG_000051_83	phrog_2926	head and packaging | virion structural protein	supporting	packaging	301.81	1.731124485276527e-89	0.9917
+CTG_000194	CTG_000194_5	phrog_2926	head and packaging | virion structural protein	supporting	packaging	265.24	2.545075442712456e-78	1.0
+CTG_000043	CTG_000043_81	phrog_2935	head and packaging | virion structural protein	supporting	packaging	88.41	1.9354962343425058e-24	0.9556
+CTG_000043	CTG_000043_82	phrog_2935	head and packaging | virion structural protein	supporting	packaging	33.37	1.506490836605947e-07	0.7611
+CTG_000349	CTG_000349_41	phrog_2941	head and packaging | virion structural protein	supporting	packaging	186.84	1.8655942360337342e-54	0.9712
+CTG_000273	CTG_000273_36	phrog_2941	head and packaging | virion structural protein	supporting	packaging	104.84	2.356522413697396e-29	0.8654
+CTG_000866	CTG_000866_9	phrog_2941	head and packaging | virion structural protein	supporting	packaging	100.58	4.749670131121064e-28	0.9135
+CTG_003306	CTG_003306_1	phrog_2941	head and packaging | virion structural protein	supporting	packaging	98.77	1.7044658668433383e-27	0.9327
+CTG_000673	CTG_000673_2	phrog_2941	head and packaging | virion structural protein	supporting	packaging	92.62	1.3040739521692153e-25	0.9087
+CTG_001756	CTG_001756_6	phrog_2941	head and packaging | virion structural protein	supporting	packaging	87.85	3.75577892321084e-24	0.9375
+CTG_000156	CTG_000156_25	phrog_2941	head and packaging | virion structural protein	supporting	packaging	73.5	9.277876386074609e-20	0.8894
+CTG_002281	CTG_002281_14	phrog_2941	head and packaging | virion structural protein	supporting	packaging	50.47	1.043791389433338e-12	0.625
+CTG_001429	CTG_001429_3	phrog_2941	head and packaging | virion structural protein	supporting	packaging	49.14	2.664138610612622e-12	0.6635
+CTG_000802	CTG_000802_5	phrog_2941	head and packaging | virion structural protein	supporting	packaging	60.32	1.0048250015957756e-15	0.7981
+CTG_000113	CTG_000113_37	phrog_2973	head and packaging | Hoc-like head decoration	supporting	packaging	60.54	8.7277360919476e-16	0.5323
+CTG_000126	CTG_000126_4	phrog_2973	head and packaging | Hoc-like head decoration	supporting	packaging	28.73	4.23941019411648e-06	0.5742
+CTG_000126	CTG_000126_4	phrog_2973	head and packaging | Hoc-like head decoration	supporting	packaging	51.8	4.008534812900964e-13	0.5645
+CTG_000953	CTG_000953_8	phrog_2973	head and packaging | Hoc-like head decoration	supporting	packaging	39.99	1.5763069761513212e-09	0.5387
+CTG_000635	CTG_000635_2	phrog_2976	head and packaging | head maturation protease	supporting	head maturation	255.58	6.651324778989623e-75	0.5558
+CTG_000431	CTG_000431_21	phrog_2976	head and packaging | head maturation protease	supporting	head maturation	221.23	1.8103448490725273e-64	0.6548
+CTG_002160	CTG_002160_6	phrog_2976	head and packaging | head maturation protease	supporting	head maturation	211.88	1.250851432797307e-61	0.8274
+CTG_000169	CTG_000169_30	phrog_2976	head and packaging | head maturation protease	supporting	head maturation	126.96	7.747608504842888e-36	0.6269
+CTG_002010	CTG_002010_9	phrog_2976	head and packaging | head maturation protease	supporting	head maturation	118.25	3.418149509390906e-33	0.7386
+CTG_000093	CTG_000093_5	phrog_3004	head and packaging | virion structural protein	supporting	packaging	750.63	1.5853284925069472e-224	0.9678
+CTG_000991	CTG_000991_7	phrog_3004	head and packaging | virion structural protein	supporting	packaging	641.63	1.3696923960284466e-191	0.9398
+CTG_002909	CTG_002909_1	phrog_3004	head and packaging | virion structural protein	supporting	packaging	289.3	3.989359015805995e-85	0.8378
+CTG_000043	CTG_000043_78	phrog_3013	head and packaging | virion structural protein	supporting	packaging	433.84	3.4099374617299014e-129	0.993
+CTG_002179	CTG_002179_6	phrog_3013	head and packaging | virion structural protein	supporting	packaging	373.49	7.072928022593861e-111	0.9601
+CTG_000051	CTG_000051_79	phrog_3014	head and packaging | head maturation protease	supporting	head maturation	276.15	1.2064921852961957e-81	0.9398
+CTG_000194	CTG_000194_6	phrog_3014	head and packaging | head maturation protease	supporting	head maturation	249.48	1.6376429344626238e-73	0.8271
+CTG_000635	CTG_000635_27	phrog_3100	tail | tail fiber protein	supporting	tail	66.23	3.186850057209595e-17	0.5314
+CTG_000051	CTG_000051_61	phrog_3185	head and packaging | virion structural protein	supporting	packaging	341.74	1.6081683965465383e-101	0.9827
+CTG_000194	CTG_000194_14	phrog_3185	head and packaging | virion structural protein	supporting	packaging	335.51	1.2769011171210103e-99	0.9481
+CTG_002909	CTG_002909_5	phrog_3185	head and packaging | virion structural protein	supporting	packaging	103.15	8.050167600751524e-29	0.8512
+CTG_000841	CTG_000841_2	phrog_3201	tail | tail fiber protein	supporting	tail	615.68	1.4348493076156311e-183	0.7047
+CTG_000093	CTG_000093_34	phrog_3216	tail | baseplate assembly protein	supporting	tail	272.47	3.2446600405632802e-80	0.7446
+CTG_002337	CTG_002337_4	phrog_3216	tail | baseplate assembly protein	supporting	tail	183.26	4.516556639055297e-53	0.6369
+CTG_000043	CTG_000043_113	phrog_3231	head and packaging | major head protein	hallmark	major_capsid	634.1	1.3489846340370639e-189	0.9558
+CTG_000051	CTG_000051_60	phrog_3242	tail | tail sheath	supporting	tail	757.86	5.552286667666782e-227	0.9971
+CTG_002819	CTG_002819_2	phrog_3242	tail | tail sheath	supporting	tail	626.84	2.43731645053566e-187	0.9899
+CTG_000194	CTG_000194_15	phrog_3242	tail | tail sheath	supporting	tail	520.32	4.124075892265233e-155	0.9899
+CTG_001127	CTG_001127_2	phrog_3244	head and packaging | head maturation protease	supporting	head maturation	90.42	8.770524571578647e-25	0.5521
+CTG_000316	CTG_000316_26	phrog_3267	tail | tail protein	supporting	tail	131.95	1.5566994524284615e-37	0.9458
+CTG_000273	CTG_000273_31	phrog_3287	head and packaging | virion structural protein	supporting	packaging	367.9	4.818065535715074e-109	0.9847
+CTG_003105	CTG_003105_9	phrog_3287	head and packaging | virion structural protein	supporting	packaging	292.94	2.5146294839259483e-86	0.9943
+CTG_001422	CTG_001422_5	phrog_3287	head and packaging | virion structural protein	supporting	packaging	210.35	2.6844209488269023e-61	0.9924
+CTG_003275	CTG_003275_3	phrog_3287	head and packaging | virion structural protein	supporting	packaging	203.84	2.529211593027207e-59	0.9924
+CTG_000156	CTG_000156_38	phrog_3287	head and packaging | virion structural protein	supporting	packaging	163.18	5.318849496127993e-47	0.7443
+CTG_000292	CTG_000292_33	phrog_3287	head and packaging | virion structural protein	supporting	packaging	196.78	3.473999727269179e-57	0.9905
+CTG_001545	CTG_001545_5	phrog_3287	head and packaging | virion structural protein	supporting	packaging	191.36	1.5278010100790344e-55	0.9771
+CTG_002478	CTG_002478_7	phrog_3287	head and packaging | virion structural protein	supporting	packaging	188.5	1.1290202062228842e-54	0.9924
+CTG_001429	CTG_001429_4	phrog_3287	head and packaging | virion structural protein	supporting	packaging	174.62	1.806262211357872e-50	0.6374
+CTG_003370	CTG_003370_5	phrog_3287	head and packaging | virion structural protein	supporting	packaging	99.89	8.036003349284074e-28	0.6641
+CTG_000879	CTG_000879_10	phrog_3287	head and packaging | virion structural protein	supporting	packaging	89.78	9.295687929883589e-25	0.7309
+CTG_001449	CTG_001449_1	phrog_3287	head and packaging | virion structural protein	supporting	packaging	90.13	7.279373956789354e-25	0.729
+CTG_001756	CTG_001756_5	phrog_3287	head and packaging | virion structural protein	supporting	packaging	82.12	1.9474170068720657e-22	0.8492
+CTG_000093	CTG_000093_38	phrog_3293	head and packaging | virion structural protein	supporting	packaging	433.0	5.7009255797236904e-129	0.9885
+CTG_001410	CTG_001410_4	phrog_3293	head and packaging | virion structural protein	supporting	packaging	330.81	5.8468677202367514e-98	0.9862
+CTG_001538	CTG_001538_6	phrog_3304	tail | L-shaped tail fiber protein assembly	supporting	tail	80.41	7.144165131507032e-22	0.6328
+CTG_000191	CTG_000191_29	phrog_3304	tail | L-shaped tail fiber protein assembly	supporting	tail	66.56	1.2751941906255408e-17	0.6328
+CTG_001140	CTG_001140_11	phrog_3336	tail | tail length tape measure protein	supporting	tail	69.93	8.908131302740115e-19	0.5319
+CTG_002719	CTG_002719_4	phrog_3354	head and packaging | major capsid protein	hallmark	major_capsid	74.06	3.1142149956922194e-20	1.0
+CTG_000364	CTG_000364_22	phrog_3398	head and packaging | virion structural protein	supporting	packaging	90.21	8.263302565835842e-25	0.6797
+CTG_002030	CTG_002030_8	phrog_3427	lysis | holin	supporting	holin	113.56	3.749909638586569e-32	0.9433
+CTG_000472	CTG_000472_26	phrog_3427	lysis | holin	supporting	holin	99.68	7.155880561238743e-28	0.9504
+CTG_000292	CTG_000292_35	phrog_3427	lysis | holin	supporting	holin	91.88	1.8363413598293095e-25	0.9645
+CTG_000535	CTG_000535_30	phrog_3427	lysis | holin	supporting	holin	83.56	6.774612477643295e-23	0.9574
+CTG_002120	CTG_002120_14	phrog_3427	lysis | holin	supporting	holin	79.01	1.713348889138516e-21	0.9291
+CTG_000365	CTG_000365_30	phrog_3427	lysis | holin	supporting	holin	77.56	4.780805522717805e-21	0.9362
+CTG_001082	CTG_001082_1	phrog_3427	lysis | holin	supporting	holin	72.89	1.3234974923798681e-19	0.9007
+CTG_001131	CTG_001131_6	phrog_3427	lysis | holin	supporting	holin	32.48	3.884604898592143e-07	0.8723
+CTG_000272	CTG_000272_18	phrog_3427	lysis | holin	supporting	holin	30.69	1.3870350902359256e-06	0.5319
+CTG_000051	CTG_000051_57	phrog_3430	head and packaging | virion structural protein	supporting	packaging	614.87	6.569933466092728e-184	0.9819
+CTG_000194	CTG_000194_18	phrog_3430	head and packaging | virion structural protein	supporting	packaging	537.15	2.2941570670037978e-160	0.9693
+CTG_000708	CTG_000708_10	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	183.76	2.1730556411661127e-53	0.9898
+CTG_002846	CTG_002846_1	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	177.16	2.2171788960472506e-51	0.9626
+CTG_000767	CTG_000767_11	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	172.61	5.40917829731289e-50	0.9762
+CTG_002177	CTG_002177_10	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	166.99	2.788192755455809e-48	0.9524
+CTG_002181	CTG_002181_7	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	156.56	4.189266810778461e-45	0.9728
+CTG_000826	CTG_000826_11	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	154.28	2.0678866199978472e-44	0.9626
+CTG_002123	CTG_002123_2	phrog_3437	head and packaging | major head protein	hallmark	major_capsid	133.12	5.798672644893637e-38	0.949
+CTG_001335	CTG_001335_2	phrog_3645	head and packaging | virion structural protein	supporting	packaging	103.59	5.061453828477389e-29	0.9773
+CTG_001273	CTG_001273_15	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	213.36	2.2203186959066825e-62	0.8881
+CTG_003143	CTG_003143_6	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	211.89	6.24540771544855e-62	0.87
+CTG_003303	CTG_003303_5	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	207.45	1.4105357335175844e-60	0.8881
+CTG_000286	CTG_000286_46	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	202.37	4.975232740863289e-59	0.9639
+CTG_002653	CTG_002653_2	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	198.96	5.470179777642618e-58	0.8953
+CTG_000581	CTG_000581_9	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	170.64	2.344839383708534e-49	0.8303
+CTG_002358	CTG_002358_15	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	151.36	1.7681760805303344e-43	0.8664
+CTG_001110	CTG_001110_4	phrog_3717	head and packaging | terminase large subunit	hallmark	terminase_large	33.34	1.6901751249744457e-07	0.5993
+CTG_001749	CTG_001749_10	phrog_3758	head and packaging | virion structural protein	supporting	packaging	51.75	4.317410049506213e-13	0.9786
+CTG_001323	CTG_001323_9	phrog_3758	head and packaging | virion structural protein	supporting	packaging	34.93	6.714747709082788e-08	0.6429
+CTG_001784	CTG_001784_7	phrog_3758	head and packaging | virion structural protein	supporting	packaging	35.59	4.196377033275044e-08	0.9
+CTG_001013	CTG_001013_7	phrog_3778	head and packaging | head maturation protease	supporting	head maturation	101.83	2.2341965122504003e-28	0.9123
+CTG_000137	CTG_000137_54	phrog_3778	head and packaging | head maturation protease	supporting	head maturation	87.43	5.119405842658893e-24	0.7336
+CTG_001416	CTG_001416_6	phrog_3778	head and packaging | head maturation protease	supporting	head maturation	41.3	4.767813858420942e-10	0.5312
+CTG_000399	CTG_000399_34	phrog_3817	tail | tail chaperonin	supporting	tail	75.14	1.3416131649759806e-20	0.8302
+CTG_000736	CTG_000736_2	phrog_3925	head and packaging | terminase large subunit	hallmark	terminase_large	36.18	2.3604055333055554e-08	0.66
+CTG_000349	CTG_000349_37	phrog_3927	head and packaging | head scaffolding protein	supporting	packaging	211.56	1.1433936841078031e-61	0.9211
+CTG_000273	CTG_000273_39	phrog_3927	head and packaging | head scaffolding protein	supporting	packaging	183.69	3.431491033252984e-53	0.9035
+CTG_000311	CTG_000311_11	phrog_3981	tail | tail length tape measure protein	supporting	tail	71.48	4.0204088985383498e-19	0.8596
+CTG_002184	CTG_002184_1	phrog_3981	tail | tail length tape measure protein	supporting	tail	48.22	4.434610471173779e-12	0.7055
+CTG_000364	CTG_000364_24	phrog_3981	tail | tail length tape measure protein	supporting	tail	41.93	3.5712959318925045e-10	0.7003
+CTG_000424	CTG_000424_32	phrog_3981	tail | tail length tape measure protein	supporting	tail	40.81	7.817177072759428e-10	0.9247
+CTG_000113	CTG_000113_12	phrog_3995	tail | tail protein	supporting	tail	50.89	6.837007209763257e-13	0.5816
+CTG_000113	CTG_000113_12	phrog_3995	tail | tail protein	supporting	tail	68.18	3.688191302829637e-18	0.5782
+CTG_000113	CTG_000113_12	phrog_3995	tail | tail protein	supporting	tail	68.15	3.752559062955356e-18	0.5714
+CTG_000113	CTG_000113_12	phrog_3995	tail | tail protein	supporting	tail	60.23	9.752504641667114e-16	0.5578
+CTG_000113	CTG_000113_37	phrog_3995	tail | tail protein	supporting	tail	115.56	1.3609616479419846e-32	0.5748
+CTG_000113	CTG_000113_37	phrog_3995	tail | tail protein	supporting	tail	121.45	2.178793495782135e-34	0.5748
+CTG_000113	CTG_000113_37	phrog_3995	tail | tail protein	supporting	tail	96.91	6.505014022572592e-27	0.5578
+CTG_000126	CTG_000126_4	phrog_3995	tail | tail protein	supporting	tail	82.87	1.2325856254340985e-22	0.6054
+CTG_000126	CTG_000126_4	phrog_3995	tail | tail protein	supporting	tail	71.65	3.2330870360278726e-19	0.5306
+CTG_000020	CTG_000020_57	phrog_3995	tail | tail protein	supporting	tail	55.01	3.790782526161846e-14	0.5782
+CTG_000771	CTG_000771_11	phrog_3995	tail | tail protein	supporting	tail	31.75	4.62041585721683e-07	0.5578
+CTG_000816	CTG_000816_22	phrog_4044	head and packaging | terminase small subunit	supporting	packaging	63.26	1.0424058277318844e-16	0.6278
+CTG_000113	CTG_000113_37	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	39.13	3.3530508630106643e-09	0.6552
+CTG_000113	CTG_000113_37	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	50.25	1.1920580195515775e-12	0.681
+CTG_000113	CTG_000113_37	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	45.38	3.864743994492459e-11	0.6897
+CTG_000113	CTG_000113_37	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	33.11	2.470361173944229e-07	0.6293
+CTG_000126	CTG_000126_4	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	31.78	6.391026934865764e-07	0.6638
+CTG_000126	CTG_000126_4	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	36.51	2.1771480637174084e-08	0.5086
+CTG_002102	CTG_002102_7	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	49.85	1.5876798528796715e-12	0.7328
+CTG_000020	CTG_000020_57	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	35.61	4.140685887290357e-08	0.6379
+CTG_000016	CTG_000016_18	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	40.62	1.1561989462505355e-09	0.681
+CTG_000016	CTG_000016_86	phrog_4069	head and packaging | Hoc-like head decoration	supporting	packaging	31.35	8.657186242273695e-07	0.5517
+CTG_001273	CTG_001273_14	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	112.62	1.075531224929252e-31	0.747
+CTG_000423	CTG_000423_30	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	90.08	9.130171430840348e-25	0.6205
+CTG_000424	CTG_000424_10	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	88.33	3.15323245158457e-24	0.7229
+CTG_000911	CTG_000911_6	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	73.29	1.3292616520468034e-19	0.6867
+CTG_002263	CTG_002263_10	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	72.7	2.00828014186457e-19	0.6084
+CTG_000443	CTG_000443_27	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	64.1	8.845882448377712e-17	0.8434
+CTG_000181	CTG_000181_40	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	43.55	1.8449910898593137e-10	0.6145
+CTG_000349	CTG_000349_29	phrog_4102	head and packaging | terminase small subunit	supporting	packaging	30.49	1.90861978543371e-06	0.6446
+CTG_000706	CTG_000706_4	phrog_4176	tail | tail fiber protein	supporting	tail	186.8	3.3977512332740936e-54	0.9709
+CTG_002998	CTG_002998_1	phrog_4176	tail | tail fiber protein	supporting	tail	62.32	2.697735467221161e-16	0.8414
+CTG_000424	CTG_000424_32	phrog_4200	tail | tail length tape measure protein	supporting	tail	38.6	2.4325519708736584e-09	0.6926
+CTG_000736	CTG_000736_8	phrog_4204	connector | tail terminator	supporting	tail	88.07	3.136084529221851e-24	0.9796
+CTG_000431	CTG_000431_17	phrog_4204	connector | tail terminator	supporting	tail	39.23	3.5606485358744634e-09	0.9456
+CTG_000422	CTG_000422_11	phrog_4475	head and packaging | head protein	supporting	packaging	117.67	1.5554549433961465e-33	0.9394
+CTG_001140	CTG_001140_11	phrog_4498	tail | tail length tape measure protein	supporting	tail	58.43	2.987145645050394e-15	0.5171
+CTG_002716	CTG_002716_3	phrog_4542	tail | tail tube protein	supporting	tail	186.84	1.6668957658710575e-54	0.8972
+CTG_000853	CTG_000853_7	phrog_4542	tail | tail tube protein	supporting	tail	166.3	3.220716187330619e-48	0.8785
+CTG_001379	CTG_001379_8	phrog_4542	tail | tail tube protein	supporting	tail	165.38	6.126725689772616e-48	0.8411
+CTG_002081	CTG_002081_2	phrog_4542	tail | tail tube protein	supporting	tail	157.52	1.559503378743068e-45	0.7944
+CTG_001060	CTG_001060_2	phrog_4542	tail | tail tube protein	supporting	tail	157.09	2.1188579005861124e-45	0.8458
+CTG_000435	CTG_000435_3	phrog_4542	tail | tail tube protein	supporting	tail	78.24	2.8330118765136894e-21	0.7617
+CTG_000009	CTG_000009_63	phrog_4542	tail | tail tube protein	supporting	tail	56.6	1.1812912028271194e-14	0.6168
+CTG_001379	CTG_001379_9	phrog_4542	tail | tail tube protein	supporting	tail	44.49	6.005652070008133e-11	0.7523
+CTG_000169	CTG_000169_64	phrog_4542	tail | tail tube protein	supporting	tail	41.27	5.822718832981584e-10	0.7103
+CTG_002081	CTG_002081_3	phrog_4542	tail | tail tube protein	supporting	tail	34.43	7.196548627317773e-08	0.7757
+CTG_001539	CTG_001539_10	phrog_4542	tail | tail tube protein	supporting	tail	35.79	2.7607928529521633e-08	0.6495
+CTG_000780	CTG_000780_3	phrog_4542	tail | tail tube protein	supporting	tail	35.19	4.215228264852796e-08	0.7056
+CTG_000725	CTG_000725_14	phrog_4542	tail | tail tube protein	supporting	tail	33.09	1.8510155818248655e-07	0.5561
+CTG_002902	CTG_002902_2	phrog_4542	tail | tail tube protein	supporting	tail	31.67	5.044256400395871e-07	0.6262
+CTG_000348	CTG_000348_21	phrog_4542	tail | tail tube protein	supporting	tail	31.69	4.960125122586836e-07	0.6075
+CTG_000191	CTG_000191_6	phrog_4542	tail | tail tube protein	supporting	tail	30.94	8.439696716171701e-07	0.6822
+CTG_001292	CTG_001292_2	phrog_4542	tail | tail tube protein	supporting	tail	30.63	1.0469510673942097e-06	0.715
+CTG_001936	CTG_001936_4	phrog_4574	tail | major tail protein	supporting	tail	104.16	2.9508113691634693e-29	0.932
+CTG_001936	CTG_001936_5	phrog_4574	tail | major tail protein	supporting	tail	88.51	1.9631291379136893e-24	0.9524
+CTG_001038	CTG_001038_17	phrog_4574	tail | major tail protein	supporting	tail	65.71	2.101268245661679e-17	0.8707
+CTG_001038	CTG_001038_18	phrog_4574	tail | major tail protein	supporting	tail	56.32	1.651673166612943e-14	0.9048
+CTG_002612	CTG_002612_4	phrog_4579	tail | tail protein	supporting	tail	38.22	6.095804994976473e-09	0.9097
+CTG_000736	CTG_000736_18	phrog_4628	tail | tail fiber assembly	supporting	tail	47.88	8.000954060324703e-12	0.627
+CTG_000699	CTG_000699_2	phrog_4628	tail | tail fiber assembly	supporting	tail	41.38	8.200313747316549e-10	0.5635
+CTG_000037	CTG_000037_149	phrog_4628	tail | tail fiber assembly	supporting	tail	40.59	1.4445259505209833e-09	0.6508
+CTG_001408	CTG_001408_2	phrog_4628	tail | tail fiber assembly	supporting	tail	37.57	1.2464689495456953e-08	0.5476
+CTG_002215	CTG_002215_4	phrog_4628	tail | tail fiber assembly	supporting	tail	36.36	2.938892609109963e-08	0.7778
+CTG_001335	CTG_001335_5	phrog_4660	head and packaging | minor head protein	supporting	packaging	550.91	2.6103427468757984e-164	0.5359
+CTG_000137	CTG_000137_56	phrog_4660	head and packaging | minor head protein	supporting	packaging	121.37	2.0773849552501996e-34	0.5268
+CTG_000153	CTG_000153_39	phrog_4660	head and packaging | minor head protein	supporting	packaging	120.26	4.484282744769909e-34	0.5359
+CTG_000699	CTG_000699_23	phrog_4660	head and packaging | minor head protein	supporting	packaging	51.87	2.156848442509883e-13	0.519
+CTG_000740	CTG_000740_7	phrog_4704	tail | tail length tape measure protein	supporting	tail	122.18	1.3572454564644625e-34	0.8352
+CTG_000122	CTG_000122_65	phrog_4728	head and packaging | head morphogenesis	supporting	packaging	39.65	1.4021005393378778e-09	0.5093
+CTG_001680	CTG_001680_13	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	235.81	2.2367855175523215e-69	0.93
+CTG_000699	CTG_000699_24	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	220.53	1.0377359819771904e-64	0.9547
+CTG_003301	CTG_003301_7	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	202.32	3.7666427061803527e-59	0.9383
+CTG_000156	CTG_000156_3	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	153.17	3.8522309875229943e-44	0.6708
+CTG_001164	CTG_001164_8	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	186.7	2.2241485588938586e-54	0.8889
+CTG_001342	CTG_001342_18	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	184.85	8.143403376096297e-54	0.9053
+CTG_003383	CTG_003383_2	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	183.93	1.554072776403435e-53	0.893
+CTG_002044	CTG_002044_13	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	174.95	8.577415794484436e-51	0.786
+CTG_002817	CTG_002817_7	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	172.44	5.027071427129932e-50	0.9383
+CTG_000498	CTG_000498_3	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	153.76	2.548993153968199e-44	0.9259
+CTG_001135	CTG_001135_2	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	148.05	1.4127175166184161e-42	0.8683
+CTG_002895	CTG_002895_5	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	99.26	1.1203368146039117e-27	0.8519
+CTG_000710	CTG_000710_8	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	78.94	1.803769040509034e-21	0.6831
+CTG_002155	CTG_002155_1	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	64.3	5.3157713256297e-17	0.6831
+CTG_000573	CTG_000573_16	phrog_4758	head and packaging | terminase large subunit	hallmark	terminase_large	34.22	8.181071201429547e-08	0.6049
+CTG_000424	CTG_000424_21	phrog_4866	head and packaging | head scaffolding protein	supporting	packaging	31.1	1.0367675624980514e-06	0.6082
+CTG_002833	CTG_002833_4	phrog_4914	head and packaging | terminase large subunit	hallmark	terminase_large	114.43	2.709179208220392e-32	0.9484
+CTG_003214	CTG_003214_4	phrog_4914	head and packaging | terminase large subunit	hallmark	terminase_large	56.03	2.015021477652536e-14	0.6385
+CTG_002328	CTG_002328_1	phrog_4914	head and packaging | terminase large subunit	hallmark	terminase_large	28.77	4.421625422887105e-06	0.5211
+CTG_000706	CTG_000706_5	phrog_4950	tail | tail fiber protein	supporting	tail	132.92	5.383275844253069e-38	0.9635
+CTG_002740	CTG_002740_2	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	103.1	8.34056348206212e-29	0.5281
+CTG_001493	CTG_001493_5	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	100.31	5.992791255951133e-28	0.5337
+CTG_000485	CTG_000485_8	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	83.16	1.106338485198388e-22	0.5393
+CTG_001135	CTG_001135_10	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	80.17	9.183225750119967e-22	0.5674
+CTG_000498	CTG_000498_15	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	74.99	3.562326552271165e-20	0.5562
+CTG_000337	CTG_000337_13	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	67.0	1.0094985743925501e-17	0.5337
+CTG_001951	CTG_001951_1	phrog_5033	lysis | endolysin inhibits RNA polymerase	supporting	endolysin	44.32	9.269444811420262e-11	0.5112
+CTG_000296	CTG_000296_13	phrog_5292	tail | tail sheath	supporting	tail	81.83	2.2632180692946424e-22	0.969
+CTG_001783	CTG_001783_7	phrog_5302	tail | tail protein	supporting	tail	52.35	1.6950141564844507e-13	0.5091
+CTG_000581	CTG_000581_14	phrog_5334	head and packaging | terminase small subunit	supporting	packaging	46.89	1.7037700157453203e-11	0.7407
+CTG_002048	CTG_002048_8	phrog_5334	head and packaging | terminase small subunit	supporting	packaging	33.74	1.8852046796230418e-07	0.7346
+CTG_000424	CTG_000424_32	phrog_5493	tail | tail length tape measure protein	supporting	tail	44.19	4.386185958126032e-11	0.5445
+CTG_001386	CTG_001386_7	phrog_5556	tail | tail protein	supporting	tail	59.57	1.5518325682306942e-15	0.5946
+CTG_000699	CTG_000699_24	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	210.4	1.4350692759219549e-61	0.912
+CTG_002817	CTG_002817_7	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	150.63	2.5276052091523137e-43	0.912
+CTG_001680	CTG_001680_13	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	140.21	3.842415041571957e-40	0.688
+CTG_000156	CTG_000156_3	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	137.2	3.185080485532149e-39	0.912
+CTG_001164	CTG_001164_8	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	134.45	2.2071802670572765e-38	0.896
+CTG_003383	CTG_003383_2	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	105.34	1.6978754023813857e-29	0.9
+CTG_001623	CTG_001623_10	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	98.85	1.627694364850757e-27	0.904
+CTG_002731	CTG_002731_7	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	84.48	3.951108490351506e-23	0.516
+CTG_001043	CTG_001043_4	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	79.18	1.639243857226899e-21	0.892
+CTG_002496	CTG_002496_8	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	78.8	2.1363697904816423e-21	0.94
+CTG_002075	CTG_002075_8	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	77.5	5.335278746148683e-21	0.892
+CTG_001342	CTG_001342_18	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	76.13	1.403916034743833e-20	0.564
+CTG_001942	CTG_001942_8	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	67.41	6.438405315395725e-18	0.872
+CTG_000498	CTG_000498_3	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	61.98	2.9219458691115417e-16	0.916
+CTG_001095	CTG_001095_3	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	61.62	3.771235661157699e-16	0.644
+CTG_001135	CTG_001135_2	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	60.25	9.864958985003542e-16	0.948
+CTG_002003	CTG_002003_1	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	57.97	4.8816846092075885e-15	0.708
+CTG_002044	CTG_002044_13	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	56.59	1.286767815637204e-14	0.9
+CTG_000118	CTG_000118_47	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	56.0	1.9589298109876812e-14	0.796
+CTG_002101	CTG_002101_4	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	53.91	8.470181495328851e-14	0.744
+CTG_002133	CTG_002133_5	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	49.44	1.9690935347038533e-12	0.656
+CTG_002640	CTG_002640_9	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	46.61	1.440393891145398e-11	0.8
+CTG_001656	CTG_001656_9	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	45.26	3.704411215132309e-11	0.58
+CTG_000364	CTG_000364_38	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	44.9	4.7833371439467364e-11	0.7
+CTG_001733	CTG_001733_3	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	38.31	4.895591262203451e-09	0.836
+CTG_002578	CTG_002578_5	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	36.49	1.7682406682204584e-08	0.692
+CTG_002183	CTG_002183_7	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	36.06	2.3860157480778806e-08	0.824
+CTG_000296	CTG_000296_24	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	31.03	8.170749865015993e-07	0.724
+CTG_000433	CTG_000433_45	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	30.55	1.1517307008229612e-06	0.604
+CTG_000647	CTG_000647_16	phrog_5573	head and packaging | terminase large subunit	hallmark	terminase_large	29.1	3.186510993250834e-06	0.608
+CTG_000364	CTG_000364_23	phrog_5577	tail | minor tail protein	supporting	tail	125.81	1.1145483118203052e-35	0.9288
+CTG_001127	CTG_001127_16	phrog_5616	tail | tail fiber protein	supporting	tail	224.81	1.1013348683345693e-65	0.7308
+CTG_000635	CTG_000635_26	phrog_5616	tail | tail fiber protein	supporting	tail	147.65	2.3084722848378315e-42	0.543
+CTG_000672	CTG_000672_9	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	113.56	5.047164327512345e-32	0.9146
+CTG_000286	CTG_000286_46	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	108.92	1.326890651381341e-30	0.9146
+CTG_003143	CTG_003143_6	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	90.68	5.16303576867343e-25	0.9045
+CTG_001273	CTG_001273_15	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	87.45	5.028563896180292e-24	0.8543
+CTG_002653	CTG_002653_2	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	86.51	9.775696647480362e-24	0.8643
+CTG_001789	CTG_001789_1	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	77.31	6.396852790125499e-21	0.7487
+CTG_002123	CTG_002123_12	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	77.46	5.791218471052089e-21	0.8945
+CTG_003303	CTG_003303_5	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	70.8	6.35290276319886e-19	0.7437
+CTG_000708	CTG_000708_22	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	64.35	6.016922182250448e-17	0.9095
+CTG_001884	CTG_001884_6	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	63.75	9.155432151824908e-17	0.9045
+CTG_001390	CTG_001390_12	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	60.07	1.229497801720403e-15	0.8593
+CTG_000826	CTG_000826_19	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	53.82	1.00616673196884e-13	0.7789
+CTG_000058	CTG_000058_95	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	49.78	1.7489619494244236e-12	0.8442
+CTG_000767	CTG_000767_16	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	42.9	2.240016966476254e-10	0.9045
+CTG_000298	CTG_000298_38	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	33.81	1.3584050545865038e-07	0.8191
+CTG_001795	CTG_001795_13	phrog_5653	head and packaging | terminase large subunit	hallmark	terminase_large	27.93	8.634352960313272e-06	0.8794
+CTG_000856	CTG_000856_3	phrog_5713	head and packaging | terminase large subunit	hallmark	terminase_large	42.1	4.067258541321232e-10	0.6853
+CTG_002179	CTG_002179_4	phrog_5750	head and packaging | internal head protein	supporting	packaging	35.34	4.115484451196203e-08	0.8382
+CTG_000043	CTG_000043_74	phrog_5750	head and packaging | internal head protein	supporting	packaging	34.97	5.3225648178116646e-08	0.9396
+CTG_000736	CTG_000736_3	phrog_5774	connector | head-tail joining	supporting	tail	83.04	9.256337478606893e-23	0.9944
+CTG_000431	CTG_000431_24	phrog_5774	connector | head-tail joining	supporting	tail	68.97	1.933749082143668e-18	0.8305
+CTG_001835	CTG_001835_8	phrog_5863	head and packaging | minor head protein	supporting	packaging	104.52	2.9785000712049003e-29	0.8876
+CTG_001243	CTG_001243_6	phrog_5909	head and packaging | terminase large subunit	hallmark	terminase_large	114.89	1.8923523728172636e-32	0.9228
+CTG_000856	CTG_000856_3	phrog_5909	head and packaging | terminase large subunit	hallmark	terminase_large	52.01	2.7500125376193867e-13	0.7965
+CTG_000635	CTG_000635_1	phrog_5929	head and packaging | portal protein	hallmark	portal	217.8	6.03193743599855e-64	0.8465
+CTG_001127	CTG_001127_1	phrog_5929	head and packaging | portal protein	hallmark	portal	167.65	1.2848610483582054e-48	0.6886
+CTG_002833	CTG_002833_3	phrog_5929	head and packaging | portal protein	hallmark	portal	103.07	7.099918247875602e-29	0.8158
+CTG_000311	CTG_000311_23	phrog_5929	head and packaging | portal protein	hallmark	portal	75.5	1.900166757530574e-20	0.9386
+CTG_001038	CTG_001038_12	phrog_5929	head and packaging | portal protein	hallmark	portal	51.15	5.262108569927902e-13	0.7061
+CTG_001251	CTG_001251_7	phrog_5929	head and packaging | portal protein	hallmark	portal	32.06	3.6189419611203794e-07	0.8202
+CTG_000780	CTG_000780_1	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	200.87	1.5827688811308763e-58	0.7089
+CTG_001557	CTG_001557_3	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	193.35	3.0557743826971118e-56	0.6282
+CTG_000191	CTG_000191_10	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	192.61	5.129234382117931e-56	0.7378
+CTG_001247	CTG_001247_6	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	182.78	5.034034906125498e-53	0.6945
+CTG_001976	CTG_001976_7	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	178.92	7.462732269109684e-52	0.7291
+CTG_000853	CTG_000853_14	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	175.73	6.980449296733468e-51	0.6801
+CTG_002328	CTG_002328_1	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	149.69	5.780590865291516e-43	0.536
+CTG_001210	CTG_001210_30	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	36.04	2.0993206951733827e-08	0.6225
+CTG_000153	CTG_000153_40	phrog_5989	head and packaging | terminase large subunit	hallmark	terminase_large	30.03	1.407875190787977e-06	0.5072
+CTG_000298	CTG_000298_51	phrog_6013	tail | tail protein	supporting	tail	112.22	9.694030977619791e-32	0.693
+CTG_000349	CTG_000349_41	phrog_6013	tail | tail protein	supporting	tail	27.98	5.4557660234240954e-06	0.5
+CTG_000298	CTG_000298_54	phrog_6121	head and packaging | virion structural protein	supporting	packaging	111.35	3.6012556488728604e-31	0.5179
+CTG_000311	CTG_000311_6	phrog_6219	lysis | endolysin	supporting	endolysin	121.54	2.623715526375909e-34	0.6963
+CTG_000166	CTG_000166_3	phrog_6219	lysis | endolysin	supporting	endolysin	100.72	5.704859936109198e-28	0.5798
+CTG_001661	CTG_001661_4	phrog_6219	lysis | endolysin	supporting	endolysin	88.89	2.265020213296477e-24	0.5706
+CTG_003385	CTG_003385_9	phrog_6219	lysis | endolysin	supporting	endolysin	70.84	7.016220307850712e-19	0.5337
+CTG_002200	CTG_002200_4	phrog_6219	lysis | endolysin	supporting	endolysin	52.51	2.656659068911674e-13	0.5736
+CTG_003299	CTG_003299_2	phrog_6219	lysis | endolysin	supporting	endolysin	48.0	6.241186575098366e-12	0.5521
+CTG_000699	CTG_000699_25	phrog_6299	head and packaging | terminase small subunit	supporting	packaging	29.08	4.572813538809177e-06	0.772
+CTG_000029	CTG_000029_5	phrog_6320	tail | tail fiber protein	supporting	tail	58.78	2.3299779536349717e-15	0.6497
+CTG_001810	CTG_001810_5	phrog_6320	tail | tail fiber protein	supporting	tail	58.09	3.780373005018281e-15	0.7678
+CTG_001795	CTG_001795_9	phrog_6384	lysis | holin	supporting	holin	27.57	9.55116168452856e-06	0.7748
+CTG_000699	CTG_000699_3	phrog_6459	tail | tail collar protein	supporting	tail	33.15	5.50162427190297e-07	0.9875
+CTG_000185	CTG_000185_14	phrog_6459	tail | tail collar protein	supporting	tail	31.53	1.7627141635745796e-06	0.9875
+CTG_001039	CTG_001039_3	phrog_6459	tail | tail collar protein	supporting	tail	29.4	8.161794744149653e-06	0.975
+CTG_001422	CTG_001422_10	phrog_6465	tail | tail protein	supporting	tail	73.39	1.166548802601952e-19	0.7295
+CTG_002719	CTG_002719_4	phrog_6548	head and packaging | major coat protein	hallmark	major_capsid	62.29	2.0769863219780753e-16	0.5443
+CTG_002653	CTG_002653_2	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	137.55	1.1510716189705519e-39	0.9034
+CTG_000286	CTG_000286_46	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	129.93	2.5799411005838174e-37	0.9172
+CTG_001273	CTG_001273_15	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	129.19	4.352171086523257e-37	0.9103
+CTG_003303	CTG_003303_5	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	110.34	2.81900819403282e-31	0.8621
+CTG_001789	CTG_001789_1	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	103.87	2.794450997053075e-29	0.7034
+CTG_003143	CTG_003143_6	phrog_6672	head and packaging | terminase large subunit	hallmark	terminase_large	82.3	1.2546587988065454e-22	0.8207
+CTG_001127	CTG_001127_12	phrog_6747	tail | tail length tape measure protein	supporting	tail	56.66	1.2194155839614041e-14	0.5564
+CTG_000311	CTG_000311_22	phrog_7015	head and packaging | head maturation protease	supporting	head maturation	28.98	3.6844526725910294e-06	0.5208
+CTG_000132	CTG_000132_29	phrog_7045	lysis | holin	supporting	holin	38.27	6.393203361177384e-09	0.9149
+CTG_002702	CTG_002702_2	phrog_7145	tail | baseplate wedge subunit	supporting	tail	98.15	1.5286109574309647e-27	0.8981
+CTG_000185	CTG_000185_23	phrog_7145	tail | baseplate wedge subunit	supporting	tail	88.25	1.8318792236209177e-24	0.8889
+CTG_001271	CTG_001271_6	phrog_7145	tail | baseplate wedge subunit	supporting	tail	87.02	4.402382588422831e-24	0.8889
+CTG_000203	CTG_000203_30	phrog_7145	tail | baseplate wedge subunit	supporting	tail	83.01	7.778371860268594e-23	0.9074
+CTG_000933	CTG_000933_8	phrog_7145	tail | baseplate wedge subunit	supporting	tail	73.46	7.211093402363473e-20	0.8889
+CTG_000743	CTG_000743_14	phrog_7145	tail | baseplate wedge subunit	supporting	tail	53.98	8.224868350302564e-14	0.6574
+CTG_000699	CTG_000699_2	phrog_7290	tail | tail fiber assembly protein	supporting	tail	51.14	6.412757617683115e-13	0.8214
+CTG_003093	CTG_003093_4	phrog_7290	tail | tail fiber assembly protein	supporting	tail	28.85	5.364662049386495e-06	0.5625
+CTG_002833	CTG_002833_4	phrog_7331	head and packaging | terminase large subunit	hallmark	terminase_large	58.07	3.122268791460425e-15	0.8053
+CTG_003214	CTG_003214_4	phrog_7331	head and packaging | terminase large subunit	hallmark	terminase_large	43.43	1.0942473447500154e-10	0.7434
+CTG_000051	CTG_000051_79	phrog_7478	head and packaging | head maturation protease	supporting	head maturation	33.1	1.754247503842186e-07	0.7687
+CTG_000194	CTG_000194_6	phrog_7478	head and packaging | head maturation protease	supporting	head maturation	32.03	3.7422436364611125e-07	0.8163
+CTG_000853	CTG_000853_14	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	71.11	4.0295758991676746e-19	0.841
+CTG_001247	CTG_001247_6	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	65.6	1.947684005103614e-17	0.8159
+CTG_002328	CTG_002328_1	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	65.29	2.4079813119407064e-17	0.5983
+CTG_000961	CTG_000961_13	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	61.97	2.4981012871539784e-16	0.9038
+CTG_000564	CTG_000564_28	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	60.77	5.801987333208527e-16	0.8954
+CTG_001873	CTG_001873_4	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	59.46	1.4621143306814173e-15	0.8243
+CTG_000298	CTG_000298_38	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	50.49	8.035439301199598e-13	0.8326
+CTG_000905	CTG_000905_32	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	53.75	8.113476731694848e-14	0.8996
+CTG_000780	CTG_000780_1	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	52.75	1.630399672861409e-13	0.8536
+CTG_002129	CTG_002129_9	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	50.11	1.0491242881575364e-12	0.8285
+CTG_001976	CTG_001976_7	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	49.58	1.5219910337503986e-12	0.8033
+CTG_000191	CTG_000191_10	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	45.2	3.3024564322498053e-11	0.8452
+CTG_001243	CTG_001243_6	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	38.13	4.7882298807714605e-09	0.523
+CTG_002419	CTG_002419_5	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	36.35	1.6726603193459014e-08	0.887
+CTG_001920	CTG_001920_5	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	31.47	5.183884722056767e-07	0.7071
+CTG_000065	CTG_000065_82	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	32.11	3.2927116747310536e-07	0.8619
+CTG_000281	CTG_000281_27	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	30.95	7.459010308993867e-07	0.8954
+CTG_000424	CTG_000424_13	phrog_7579	head and packaging | terminase large subunit	hallmark	terminase_large	27.86	6.549551049453534e-06	0.7824
+CTG_002451	CTG_002451_2	phrog_7625	head and packaging | head morphogenesis	supporting	packaging	99.06	1.4598330729341072e-27	0.5952
+CTG_000122	CTG_000122_65	phrog_7625	head and packaging | head morphogenesis	supporting	packaging	68.41	2.8502966020149672e-18	0.5972
+CTG_001769	CTG_001769_14	phrog_7910	lysis | endolysin	supporting	endolysin	78.83	1.811757427487886e-21	0.9167
+CTG_002177	CTG_002177_1	phrog_7910	lysis | endolysin	supporting	endolysin	70.21	8.800415180827043e-19	0.8333
+CTG_000169	CTG_000169_16	phrog_7910	lysis | endolysin	supporting	endolysin	68.71	2.58679966379994e-18	0.9062
+CTG_002287	CTG_002287_3	phrog_7910	lysis | endolysin	supporting	endolysin	66.57	1.2086885462371452e-17	0.7188
+CTG_000528	CTG_000528_19	phrog_7910	lysis | endolysin	supporting	endolysin	63.28	1.279217180257058e-16	0.8958
+CTG_001313	CTG_001313_4	phrog_7910	lysis | endolysin	supporting	endolysin	62.9	1.6829624411429977e-16	0.9062
+CTG_000298	CTG_000298_11	phrog_7910	lysis | endolysin	supporting	endolysin	59.87	1.4816889445305114e-15	0.8438
+CTG_001422	CTG_001422_9	phrog_7910	lysis | endolysin	supporting	endolysin	57.24	9.780760948744647e-15	0.9062
+CTG_002305	CTG_002305_12	phrog_7910	lysis | endolysin	supporting	endolysin	51.1	8.07877850991861e-13	0.8646
+CTG_001387	CTG_001387_8	phrog_7910	lysis | endolysin	supporting	endolysin	45.83	3.56836895228625e-11	0.9375
+CTG_000866	CTG_000866_12	phrog_7910	lysis | endolysin	supporting	endolysin	46.71	1.887013886947222e-11	0.7708
+CTG_000253	CTG_000253_20	phrog_7910	lysis | endolysin	supporting	endolysin	46.22	2.6977621457965002e-11	0.8438
+CTG_002662	CTG_002662_11	phrog_7910	lysis | endolysin	supporting	endolysin	42.03	5.440991127177474e-10	0.6354
+CTG_000600	CTG_000600_14	phrog_7910	lysis | endolysin	supporting	endolysin	34.13	1.5920224672314733e-07	0.9375
+CTG_002548	CTG_002548_15	phrog_7910	lysis | endolysin	supporting	endolysin	32.58	4.821354155789221e-07	0.8854
+CTG_000528	CTG_000528_12	phrog_8003	head and packaging | virion structural protein	supporting	packaging	93.27	9.238953949615796e-26	0.9152
+CTG_000043	CTG_000043_72	phrog_8047	head and packaging | virion structural protein	supporting	packaging	109.98	5.19471071094192e-31	0.8232
+CTG_002179	CTG_002179_2	phrog_8047	head and packaging | virion structural protein	supporting	packaging	84.35	3.7949909063599955e-23	0.7845
+CTG_000699	CTG_000699_11	phrog_8125	tail | tail length tape measure protein	supporting	tail	67.36	6.7346050463779456e-18	0.5519
+CTG_000736	CTG_000736_13	phrog_8125	tail | tail length tape measure protein	supporting	tail	54.17	6.648491987849522e-14	0.5138
+CTG_000411	CTG_000411_13	phrog_8251	lysis | endolysin	supporting	endolysin	81.9	2.7687262287422424e-22	0.536
+CTG_000133	CTG_000133_28	phrog_8251	lysis | endolysin	supporting	endolysin	70.86	6.456743368673487e-19	0.52
+CTG_000261	CTG_000261_10	phrog_8251	lysis | endolysin	supporting	endolysin	66.55	1.3355665782965668e-17	0.56
+CTG_002333	CTG_002333_6	phrog_8251	lysis | endolysin	supporting	endolysin	60.69	8.207989145459644e-16	0.524
+CTG_003146	CTG_003146_4	phrog_8260	head and packaging | virion structural protein	supporting	packaging	27.93	9.811423199000706e-06	0.6981
+CTG_001768	CTG_001768_7	phrog_8280	tail | tail spike protein with colonic acid degradation activity	supporting	tail	35.93	3.27840054027052e-08	0.6076
+CTG_000364	CTG_000364_24	phrog_8462	tail | tail length tape measure protein	supporting	tail	32.23	2.387136720972404e-07	0.6905
+CTG_001278	CTG_001278_4	phrog_8469	tail | tail fiber protein	supporting	tail	103.75	5.64489689921025e-29	0.6799
+CTG_003105	CTG_003105_3	phrog_8469	tail | tail fiber protein	supporting	tail	89.96	8.90018553857097e-25	0.5578
+CTG_001043	CTG_001043_20	phrog_8469	tail | tail fiber protein	supporting	tail	65.18	3.1422496213675286e-17	0.901
+CTG_000129	CTG_000129_2	phrog_8469	tail | tail fiber protein	supporting	tail	57.35	7.624659813116061e-15	0.6337
+CTG_001503	CTG_001503_6	phrog_8469	tail | tail fiber protein	supporting	tail	56.87	1.0683546634033915e-14	0.571
+CTG_000185	CTG_000185_13	phrog_8469	tail | tail fiber protein	supporting	tail	46.98	1.093540336900871e-11	0.6865
+CTG_001313	CTG_001313_18	phrog_8536	head and packaging | major head protein	hallmark	major_capsid	57.51	5.7513580993607844e-15	0.9625
+CTG_003143	CTG_003143_6	phrog_8711	head and packaging | terminase large subunit	hallmark	terminase_large	32.63	3.2799777113195787e-07	0.7191
+CTG_002358	CTG_002358_15	phrog_8711	head and packaging | terminase large subunit	hallmark	terminase_large	32.59	3.384254900853735e-07	0.9326
+CTG_000286	CTG_000286_46	phrog_8711	head and packaging | terminase large subunit	hallmark	terminase_large	28.22	7.778108859359074e-06	0.764
+CTG_000037	CTG_000037_149	phrog_8716	tail | tail fiber protein	supporting	tail	57.64	8.60001608781995e-15	0.6184
+CTG_000736	CTG_000736_18	phrog_8716	tail | tail fiber protein	supporting	tail	56.97	1.3816052096316396e-14	0.5
+CTG_000699	CTG_000699_2	phrog_8716	tail | tail fiber protein	supporting	tail	50.96	9.776709888011817e-13	0.6711
+CTG_000699	CTG_000699_2	phrog_8746	tail | tail fiber assembly protein	supporting	tail	41.13	9.476572895700749e-10	0.6115
+CTG_002215	CTG_002215_4	phrog_8746	tail | tail fiber assembly protein	supporting	tail	29.41	3.917264594242863e-06	0.7842
+CTG_002646	CTG_002646_2	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	131.77	2.098079438337145e-37	0.8249
+CTG_001934	CTG_001934_3	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	121.99	1.9951745431226053e-34	0.6263
+CTG_000286	CTG_000286_44	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	117.28	5.4284465679835685e-33	0.8081
+CTG_000281	CTG_000281_29	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	111.26	3.7219932234987665e-31	0.9731
+CTG_001245	CTG_001245_13	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	108.06	3.512090157567703e-30	0.6902
+CTG_000672	CTG_000672_13	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	106.55	1.0102182385681618e-29	0.9461
+CTG_001578	CTG_001578_4	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	103.49	8.637029245871957e-29	0.835
+CTG_002581	CTG_002581_7	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	98.81	2.302257626223781e-27	0.7778
+CTG_001323	CTG_001323_6	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	94.46	4.8464132301941806e-26	0.8249
+CTG_001110	CTG_001110_2	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	85.01	3.6693660228193397e-23	0.9461
+CTG_000647	CTG_000647_13	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	75.14	3.7291744776603395e-20	0.9192
+CTG_001884	CTG_001884_9	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	74.72	5.0095465631557676e-20	0.9495
+CTG_000703	CTG_000703_10	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	64.23	7.838029092347923e-17	0.8485
+CTG_000816	CTG_000816_14	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	61.58	5.025423436513479e-16	0.8081
+CTG_003082	CTG_003082_6	phrog_8865	head and packaging | head scaffolding protein	supporting	packaging	56.33	2.0054099743452078e-14	0.8519
+CTG_000349	CTG_000349_37	phrog_9013	head and packaging | head scaffolding protein	supporting	packaging	48.14	5.1497063947877304e-12	0.7945
+CTG_000273	CTG_000273_39	phrog_9013	head and packaging | head scaffolding protein	supporting	packaging	35.05	4.918430122312191e-08	0.6438
+CTG_001251	CTG_001251_6	phrog_9427	head and packaging | head maturation protease	supporting	head maturation	386.85	8.405527093573935e-115	0.9934
+CTG_002578	CTG_002578_5	phrog_9453	head and packaging | terminase large subunit	hallmark	terminase_large	98.79	1.7839552884012356e-27	0.9099
+CTG_002044	CTG_002044_13	phrog_9453	head and packaging | terminase large subunit	hallmark	terminase_large	62.02	3.0720953630402455e-16	0.8541
+CTG_001135	CTG_001135_2	phrog_9453	head and packaging | terminase large subunit	hallmark	terminase_large	47.5	8.455703771436111e-12	0.6781
+CTG_000498	CTG_000498_3	phrog_9453	head and packaging | terminase large subunit	hallmark	terminase_large	40.72	9.926893444606225e-10	0.6781
+CTG_001127	CTG_001127_12	phrog_9483	tail | tail length tape measure protein	supporting	tail	30.69	6.112399945472128e-07	0.7884
+CTG_000297	CTG_000297_19	phrog_9506	lysis | endolysin	supporting	endolysin	158.21	2.0379366324022787e-45	0.5273
+CTG_000199	CTG_000199_22	phrog_9506	lysis | endolysin	supporting	endolysin	106.81	8.820019604214261e-30	0.5061
+CTG_000881	CTG_000881_7	phrog_9506	lysis | endolysin	supporting	endolysin	103.99	6.358735255802731e-29	0.5212
+CTG_000163	CTG_000163_14	phrog_9506	lysis | endolysin	supporting	endolysin	70.04	1.3537861461125499e-18	0.5455
+CTG_000424	CTG_000424_29	phrog_9522	tail | major tail protein	supporting	tail	141.12	1.8131385617187158e-40	0.9627
+CTG_001936	CTG_001936_4	phrog_9522	tail | major tail protein	supporting	tail	46.92	1.0629198762115618e-11	0.5228
+CTG_001936	CTG_001936_5	phrog_9522	tail | major tail protein	supporting	tail	41.41	5.152174137938834e-10	0.5353
+CTG_002578	CTG_002578_5	phrog_9526	head and packaging | terminase large subunit	hallmark	terminase_large	144.71	1.8837208782230726e-41	0.9571
+CTG_000122	CTG_000122_70	phrog_9526	head and packaging | terminase large subunit	hallmark	terminase_large	55.1	3.891398937373491e-14	0.5893
+CTG_000129	CTG_000129_72	phrog_9526	head and packaging | terminase large subunit	hallmark	terminase_large	44.17	8.334580415266314e-11	0.5071
+CTG_000699	CTG_000699_11	phrog_9570	tail | tail length tape measure protein	supporting	tail	51.19	4.921649207601386e-13	0.5428
+CTG_001127	CTG_001127_12	phrog_9570	tail | tail length tape measure protein	supporting	tail	39.56	1.624504865712818e-09	0.5138
+CTG_001015	CTG_001015_19	phrog_9589	lysis | endolysin	supporting	endolysin	60.36	1.3244429507313162e-15	0.8754
+CTG_000364	CTG_000364_13	phrog_9589	lysis | endolysin	supporting	endolysin	47.47	1.1274189348729182e-11	0.8648
+CTG_000012	CTG_000012_112	phrog_9611	lysis | endolysin	supporting	endolysin	113.02	8.502364447299547e-32	0.9228
+CTG_000012	CTG_000012_103	phrog_9611	lysis | endolysin	supporting	endolysin	84.85	3.404254881591662e-23	0.5772
+CTG_000483	CTG_000483_2	phrog_9611	lysis | endolysin	supporting	endolysin	68.43	3.501544868038785e-18	0.5081
+CTG_003342	CTG_003342_1	phrog_9611	lysis | endolysin	supporting	endolysin	30.2	1.6525969651251565e-06	0.5691
+CTG_000257	CTG_000257_18	phrog_9914	tail | baseplate hub	supporting	tail	28.72	4.765653190619495e-06	0.7788
+CTG_000298	CTG_000298_48	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	373.19	6.446302865796118e-111	0.9878
+CTG_003216	CTG_003216_6	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	134.0	3.826952558241608e-38	0.9635
+CTG_002988	CTG_002988_6	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	133.79	4.4255621763712423e-38	0.9514
+CTG_000294	CTG_000294_25	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	124.74	2.509438734324479e-35	0.9696
+CTG_001039	CTG_001039_9	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	122.3	1.389049413546378e-34	0.9696
+CTG_001858	CTG_001858_7	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	120.21	6.002252919927746e-34	0.9757
+CTG_000365	CTG_000365_6	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	115.34	1.821084052533483e-32	0.9757
+CTG_000351	CTG_000351_45	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	106.91	6.710939399506581e-30	0.9726
+CTG_001633	CTG_001633_8	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	100.9	4.511251567363623e-28	0.9574
+CTG_000744	CTG_000744_10	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	88.44	2.7821511055246315e-24	0.9726
+CTG_001076	CTG_001076_19	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	84.49	4.4419356395103954e-23	0.8936
+CTG_000297	CTG_000297_37	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	69.09	2.150633427714881e-18	0.7447
+CTG_001565	CTG_001565_2	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	66.26	1.566767625532908e-17	0.9726
+CTG_001170	CTG_001170_10	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	62.6	2.0259185529318836e-16	0.8511
+CTG_001954	CTG_001954_4	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	57.45	7.469630004856186e-15	0.9757
+CTG_002180	CTG_002180_5	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	47.68	7.023714149507573e-12	0.7812
+CTG_001025	CTG_001025_12	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	44.5	6.517706251470796e-11	0.9605
+CTG_000704	CTG_000704_4	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	44.42	6.90062270220522e-11	0.8389
+CTG_000968	CTG_000968_5	phrog_9953	head and packaging | major head protein	hallmark	major_capsid	43.17	1.6559025264311045e-10	0.9787
+CTG_001658	CTG_001658_7	phrog_9987	lysis | holin	supporting	holin	33.05	2.2917236204048984e-07	0.7536
+CTG_001795	CTG_001795_13	phrog_10250	head and packaging | terminase large subunit	hallmark	terminase_large	84.51	4.483137713627575e-23	0.9737
+CTG_001749	CTG_001749_7	phrog_10250	head and packaging | terminase large subunit	hallmark	terminase_large	43.18	1.9302829919357077e-10	0.886
+CTG_001422	CTG_001422_9	phrog_10457	lysis | endolysin	supporting	endolysin	81.44	2.0938173146286744e-22	0.9789
+CTG_000169	CTG_000169_16	phrog_10457	lysis | endolysin	supporting	endolysin	77.67	3.14021673758879e-21	0.9474
+CTG_002305	CTG_002305_12	phrog_10457	lysis | endolysin	supporting	endolysin	71.38	2.8844559505244655e-19	0.8947
+CTG_000298	CTG_000298_11	phrog_10457	lysis | endolysin	supporting	endolysin	68.82	1.816293360476975e-18	0.8632
+CTG_000866	CTG_000866_12	phrog_10457	lysis | endolysin	supporting	endolysin	65.66	1.755554152448285e-17	0.9684
+CTG_000253	CTG_000253_20	phrog_10457	lysis | endolysin	supporting	endolysin	64.68	3.543566391285497e-17	0.9158
+CTG_001313	CTG_001313_4	phrog_10457	lysis | endolysin	supporting	endolysin	58.35	3.349158899190077e-15	0.8316
+CTG_001769	CTG_001769_14	phrog_10457	lysis | endolysin	supporting	endolysin	57.11	8.175697303988269e-15	0.8842
+CTG_000600	CTG_000600_14	phrog_10457	lysis | endolysin	supporting	endolysin	56.55	1.2180404024693788e-14	0.9895
+CTG_002177	CTG_002177_1	phrog_10457	lysis | endolysin	supporting	endolysin	56.12	1.6596198430135155e-14	0.6632
+CTG_000153	CTG_000153_12	phrog_10457	lysis | endolysin	supporting	endolysin	45.12	4.5076910505189135e-11	0.9684
+CTG_000528	CTG_000528_19	phrog_10457	lysis | endolysin	supporting	endolysin	45.04	4.776943084728558e-11	0.8842
+CTG_002287	CTG_002287_3	phrog_10457	lysis | endolysin	supporting	endolysin	43.16	1.835314539463172e-10	0.6526
+CTG_002548	CTG_002548_15	phrog_10457	lysis | endolysin	supporting	endolysin	39.71	2.188599347454008e-09	0.9474
+CTG_000337	CTG_000337_24	phrog_10475	lysis | endolysin	supporting	endolysin	462.44	1.5410260769716153e-137	0.9914
+CTG_001956	CTG_001956_6	phrog_10508	tail | tail fiber protein	supporting	tail	40.84	9.884411079646658e-10	0.7296
+CTG_002833	CTG_002833_4	phrog_10517	head and packaging | terminase large subunit	hallmark	terminase_large	80.16	7.874083567795977e-22	0.6957
+CTG_000424	CTG_000424_30	phrog_10528	tail | major tail protein	supporting	tail	100.16	5.130321823601327e-28	0.9648
+CTG_001038	CTG_001038_18	phrog_10528	tail | major tail protein	supporting	tail	40.45	1.3514598042916928e-09	0.8732
+CTG_001936	CTG_001936_4	phrog_10528	tail | major tail protein	supporting	tail	39.52	2.6198533710569223e-09	0.831
+CTG_001038	CTG_001038_17	phrog_10528	tail | major tail protein	supporting	tail	38.22	6.617163797911194e-09	0.8662
+CTG_000424	CTG_000424_29	phrog_10528	tail | major tail protein	supporting	tail	34.0	1.3246402278226475e-07	0.9366
+CTG_001936	CTG_001936_5	phrog_10528	tail | major tail protein	supporting	tail	32.07	5.223390193984148e-07	0.838
+CTG_002716	CTG_002716_2	phrog_10581	tail | tail sheath	supporting	tail	614.72	1.6946608382355703e-183	0.5038
+CTG_000853	CTG_000853_6	phrog_10581	tail | tail sheath	supporting	tail	661.91	9.345450202329343e-198	0.9978
+CTG_001060	CTG_001060_3	phrog_10581	tail | tail sheath	supporting	tail	587.85	2.2341274599414446e-175	0.9923
+CTG_002081	CTG_002081_1	phrog_10581	tail | tail sheath	supporting	tail	446.58	1.0943360709476838e-132	0.5945
+CTG_002375	CTG_002375_5	phrog_10613	tail | tail length tape measure protein	supporting	tail	31.57	7.415862181899591e-07	0.5274
+CTG_000341	CTG_000341_16	phrog_10646	tail | baseplate wedge subunit	supporting	tail	1026.05	1.1257225219970922e-307	0.9974
+CTG_000933	CTG_000933_13	phrog_10646	tail | baseplate wedge subunit	supporting	tail	710.36	2.3766837758336085e-212	0.7032
+CTG_000185	CTG_000185_19	phrog_10646	tail | baseplate wedge subunit	supporting	tail	715.54	6.4729598820574864e-214	0.7417
+CTG_001374	CTG_001374_1	phrog_10646	tail | baseplate wedge subunit	supporting	tail	675.71	6.881684119368079e-202	0.7005
+CTG_002602	CTG_002602_1	phrog_10646	tail | baseplate wedge subunit	supporting	tail	702.2	6.907165637159447e-210	0.6532
+CTG_001141	CTG_001141_7	phrog_10657	tail | tail fiber protein	supporting	tail	30.35	1.6848156301260032e-06	0.5116
+CTG_002281	CTG_002281_14	phrog_10775	tail | tail protein	supporting	tail	37.4	1.0980521256161425e-08	0.6962
+CTG_000156	CTG_000156_25	phrog_10775	tail | tail protein	supporting	tail	40.67	1.1059971210526482e-09	0.8987
+CTG_000802	CTG_000802_5	phrog_10775	tail | tail protein	supporting	tail	37.01	1.4460616853733555e-08	0.8776
+CTG_002840	CTG_002840_8	phrog_10963	head and packaging | portal protein	hallmark	portal	212.67	4.505660337765391e-62	0.8569
+CTG_003310	CTG_003310_4	phrog_10963	head and packaging | portal protein	hallmark	portal	210.73	1.7434788858737804e-61	0.8887
+CTG_003162	CTG_003162_3	phrog_10963	head and packaging | portal protein	hallmark	portal	163.75	3.043555439537779e-47	0.7873
+CTG_000411	CTG_000411_13	phrog_10967	lysis | endolysin	supporting	endolysin	81.33	4.718318493292053e-22	0.5301
+CTG_002333	CTG_002333_6	phrog_10967	lysis | endolysin	supporting	endolysin	71.66	4.2074764568397796e-19	0.5827
+CTG_000133	CTG_000133_28	phrog_10967	lysis | endolysin	supporting	endolysin	71.81	3.7927436880643176e-19	0.5263
+CTG_000261	CTG_000261_10	phrog_10967	lysis | endolysin	supporting	endolysin	67.18	9.79153372254594e-18	0.5714
+CTG_001292	CTG_001292_5	phrog_10967	lysis | endolysin	supporting	endolysin	36.72	1.9111988615750355e-08	0.5564
+CTG_000917	CTG_000917_11	phrog_10967	lysis | endolysin	supporting	endolysin	29.95	2.2252725994350936e-06	0.5038
+CTG_000296	CTG_000296_13	phrog_11048	tail | tail sheath	supporting	tail	85.06	2.0575125530719175e-23	0.9618
+CTG_002835	CTG_002835_6	phrog_11117	head and packaging | portal protein	hallmark	portal	116.23	8.670592314622364e-33	0.9508
+CTG_001047	CTG_001047_6	phrog_11117	head and packaging | portal protein	hallmark	portal	62.59	1.9985032075635942e-16	0.6477
+CTG_000341	CTG_000341_21	phrog_11190	head and packaging | virion structural protein	supporting	packaging	165.47	8.5083423544634e-48	0.6467
+CTG_001271	CTG_001271_7	phrog_11190	head and packaging | virion structural protein	supporting	packaging	115.41	1.1738090482347346e-32	0.5485
+CTG_000933	CTG_000933_9	phrog_11190	head and packaging | virion structural protein	supporting	packaging	76.71	5.938928620597428e-21	0.5378
+CTG_000706	CTG_000706_7	phrog_11196	tail | tail sheath	supporting	tail	308.61	4.016344005663136e-91	0.9864
+CTG_000908	CTG_000908_6	phrog_11196	tail | tail sheath	supporting	tail	291.56	5.965721616974851e-86	0.9864
+CTG_001108	CTG_001108_14	phrog_11196	tail | tail sheath	supporting	tail	289.17	3.168447048788491e-85	0.9819
+CTG_001857	CTG_001857_2	phrog_11196	tail | tail sheath	supporting	tail	288.85	3.9740850465101185e-85	0.9864
+CTG_000853	CTG_000853_2	phrog_11196	tail | tail sheath	supporting	tail	246.7	2.456493717081282e-72	0.9841
+CTG_000037	CTG_000037_158	phrog_11196	tail | tail sheath	supporting	tail	35.27	3.503960854442938e-08	0.5034
+CTG_000564	CTG_000564_11	phrog_11262	tail | tail protein	supporting	tail	379.19	1.2714587554703252e-112	0.916
+CTG_000273	CTG_000273_35	phrog_11262	tail | tail protein	supporting	tail	345.16	2.7468104059400885e-102	0.8219
+CTG_000122	CTG_000122_48	phrog_11262	tail | tail protein	supporting	tail	157.7	2.3743878249315464e-45	0.8092
+CTG_000298	CTG_000298_61	phrog_11355	tail | tail fiber protein	supporting	tail	55.76	2.496154207239024e-14	0.7786
+CTG_003384	CTG_003384_4	phrog_11589	head and packaging | major head protein	hallmark	major_capsid	115.31	1.2772869425197394e-32	0.9515
+CTG_001857	CTG_001857_3	phrog_11591	head and packaging | virion structural protein	supporting	packaging	202.27	1.0011613011633342e-58	0.5091
+CTG_000495	CTG_000495_24	phrog_11854	head and packaging | virion structural protein	supporting	packaging	61.79	2.714679462196371e-16	0.875
+CTG_001096	CTG_001096_5	phrog_11854	head and packaging | virion structural protein	supporting	packaging	59.96	1.0166626347956065e-15	0.8636
+CTG_001258	CTG_001258_15	phrog_11854	head and packaging | virion structural protein	supporting	packaging	59.27	1.666278183018555e-15	0.8182
+CTG_000701	CTG_000701_11	phrog_11854	head and packaging | virion structural protein	supporting	packaging	56.79	9.902216041287422e-15	0.9205
+CTG_001245	CTG_001245_4	phrog_12032	tail | short tail fiber protein	supporting	tail	157.39	9.92543965379636e-46	0.8438
+CTG_002539	CTG_002539_4	phrog_12032	tail | short tail fiber protein	supporting	tail	149.38	2.9006333336785453e-43	0.8812
+CTG_002692	CTG_002692_4	phrog_12032	tail | short tail fiber protein	supporting	tail	136.11	3.4933556410516785e-39	0.8438
+CTG_000600	CTG_000600_9	phrog_12032	tail | short tail fiber protein	supporting	tail	129.18	4.758291986013254e-37	0.7812
+CTG_000156	CTG_000156_40	phrog_12032	tail | short tail fiber protein	supporting	tail	125.96	4.648262950077452e-36	0.775
+CTG_000564	CTG_000564_4	phrog_12032	tail | short tail fiber protein	supporting	tail	125.27	7.605880554854424e-36	0.7875
+CTG_000286	CTG_000286_34	phrog_12032	tail | short tail fiber protein	supporting	tail	120.12	2.9175524281644144e-34	0.65
+CTG_001864	CTG_001864_7	phrog_12032	tail | short tail fiber protein	supporting	tail	118.65	8.263890325206036e-34	0.8187
+CTG_002108	CTG_002108_4	phrog_12032	tail | short tail fiber protein	supporting	tail	111.78	1.068912200433075e-31	0.6937
+CTG_000667	CTG_000667_12	phrog_12032	tail | short tail fiber protein	supporting	tail	101.31	1.78534352721232e-28	0.7625
+CTG_002993	CTG_002993_4	phrog_12032	tail | short tail fiber protein	supporting	tail	96.46	5.5417526791591425e-27	0.825
+CTG_001427	CTG_001427_5	phrog_12032	tail | short tail fiber protein	supporting	tail	90.64	3.4261049602697066e-25	0.7625
+CTG_001637	CTG_001637_8	phrog_12032	tail | short tail fiber protein	supporting	tail	74.22	3.839336717079257e-20	0.6188
+CTG_003041	CTG_003041_6	phrog_12032	tail | short tail fiber protein	supporting	tail	72.63	1.1829344058137017e-19	0.7937
+CTG_003271	CTG_003271_6	phrog_12032	tail | short tail fiber protein	supporting	tail	60.6	5.974351532208508e-16	0.6937
+CTG_003197	CTG_003197_3	phrog_12032	tail | short tail fiber protein	supporting	tail	44.71	4.6256799045916625e-11	0.825
+CTG_000703	CTG_000703_21	phrog_12032	tail | short tail fiber protein	supporting	tail	42.88	1.6829361009461496e-10	0.8063
+CTG_001578	CTG_001578_13	phrog_12032	tail | short tail fiber protein	supporting	tail	40.07	1.2371020873965518e-09	0.85
+CTG_000744	CTG_000744_17	phrog_12032	tail | short tail fiber protein	supporting	tail	33.32	1.474514299291881e-07	0.775
+CTG_000298	CTG_000298_40	phrog_12082	head and packaging | portal protein	hallmark	portal	509.68	7.303557471917267e-152	0.6503
+CTG_001873	CTG_001873_6	phrog_12082	head and packaging | portal protein	hallmark	portal	473.71	5.54355636584424e-141	0.642
+CTG_002813	CTG_002813_3	phrog_12082	head and packaging | portal protein	hallmark	portal	565.4	1.0116812741652522e-168	0.9804
+CTG_002044	CTG_002044_13	phrog_12171	head and packaging | terminase	supporting	packaging	128.59	5.3931199768969965e-37	0.8727
+CTG_002578	CTG_002578_5	phrog_12171	head and packaging | terminase	supporting	packaging	121.29	1.0022601716141747e-34	0.9636
+CTG_001135	CTG_001135_2	phrog_12171	head and packaging | terminase	supporting	packaging	95.51	1.0217990644258419e-26	0.8727
+CTG_000498	CTG_000498_3	phrog_12171	head and packaging | terminase	supporting	packaging	91.16	2.288514288848001e-25	0.8364
+CTG_002731	CTG_002731_7	phrog_12171	head and packaging | terminase	supporting	packaging	35.58	4.233749823462688e-08	0.5545
+CTG_000699	CTG_000699_24	phrog_12171	head and packaging | terminase	supporting	packaging	29.7	2.8364055818675204e-06	0.7545
+CTG_000043	CTG_000043_76	phrog_12254	head and packaging | internal head protein	supporting	packaging	60.15	9.620338198857657e-16	0.8763
+CTG_002179	CTG_002179_4	phrog_12254	head and packaging | internal head protein	supporting	packaging	31.56	4.6972368332190886e-07	0.828
+CTG_001016	CTG_001016_12	phrog_12278	tail | tail fiber protein/ lysozyme	supporting	tail	37.93	6.259272873616086e-09	0.6272
+CTG_000699	CTG_000699_11	phrog_12278	tail | tail fiber protein/ lysozyme	supporting	tail	28.71	3.914476556162061e-06	0.7009
+CTG_000961	CTG_000961_19	phrog_12296	tail | tail fiber protein	supporting	tail	69.78	7.030308523507563e-19	0.907
+CTG_000564	CTG_000564_23	phrog_12296	tail | tail fiber protein	supporting	tail	66.17	9.42927492207969e-18	0.907
+CTG_002196	CTG_002196_10	phrog_12296	tail | tail fiber protein	supporting	tail	63.52	6.29097415825855e-17	0.8837
+CTG_003041	CTG_003041_3	phrog_12296	tail | tail fiber protein	supporting	tail	54.36	4.5610554292420623e-14	0.7907
+CTG_003041	CTG_003041_2	phrog_12296	tail | tail fiber protein	supporting	tail	44.59	5.0844533480425784e-11	0.8721
+CTG_000564	CTG_000564_24	phrog_12296	tail | tail fiber protein	supporting	tail	31.04	8.584583363737673e-07	0.7907
+CTG_000699	CTG_000699_11	phrog_12506	tail | tail length tape measure protein	supporting	tail	107.74	2.9303378343896842e-30	0.8257
+CTG_001348	CTG_001348_15	phrog_12506	tail | tail length tape measure protein	supporting	tail	88.99	1.5906719854322197e-24	0.9725
+CTG_001593	CTG_001593_8	phrog_12506	tail | tail length tape measure protein	supporting	tail	68.55	2.841496473600923e-18	0.6835
+CTG_003096	CTG_003096_1	phrog_12506	tail | tail length tape measure protein	supporting	tail	66.71	1.0346628285043365e-17	0.9495
+CTG_001016	CTG_001016_12	phrog_12506	tail | tail length tape measure protein	supporting	tail	47.11	1.0299938456852152e-11	0.9266
+CTG_000692	CTG_000692_12	phrog_12506	tail | tail length tape measure protein	supporting	tail	42.87	2.03411666321306e-10	0.8486
+CTG_000153	CTG_000153_24	phrog_12506	tail | tail length tape measure protein	supporting	tail	43.21	1.5961497257970542e-10	0.8899
+CTG_001127	CTG_001127_12	phrog_12506	tail | tail length tape measure protein	supporting	tail	33.28	1.7425537773770594e-07	0.5505
+CTG_002756	CTG_002756_6	phrog_12609	lysis | endolysin	supporting	endolysin	80.87	5.589861179300343e-22	0.6098
+CTG_001016	CTG_001016_18	phrog_12796	tail | tail fiber protein	supporting	tail	244.0	1.815767637477334e-71	0.5169
+CTG_000137	CTG_000137_34	phrog_12796	tail | tail fiber protein	supporting	tail	164.57	2.2936467774107516e-47	0.9865
+CTG_001013	CTG_001013_7	phrog_12864	head and packaging | head maturation protease	supporting	head maturation	209.96	3.744643926834935e-61	0.8782
+CTG_000699	CTG_000699_22	phrog_12864	head and packaging | head maturation protease	supporting	head maturation	180.02	4.504451339761745e-52	0.6239
+CTG_000692	CTG_000692_27	phrog_12864	head and packaging | head maturation protease	supporting	head maturation	143.97	3.8694604206369506e-41	0.5812
+CTG_001416	CTG_001416_6	phrog_12864	head and packaging | head maturation protease	supporting	head maturation	143.56	5.145472929893412e-41	0.5021
+CTG_001426	CTG_001426_12	phrog_12864	head and packaging | head maturation protease	supporting	head maturation	141.26	2.569561794947917e-40	0.8226
+CTG_001506	CTG_001506_1	phrog_12928	head and packaging | virion structural protein	supporting	packaging	108.51	1.6788927662935146e-30	0.9032
+CTG_002262	CTG_002262_1	phrog_12928	head and packaging | virion structural protein	supporting	packaging	105.8	1.1385377209369765e-29	0.8763
+CTG_000272	CTG_000272_23	phrog_12928	head and packaging | virion structural protein	supporting	packaging	84.13	5.0687157861527666e-23	0.7258
+CTG_003195	CTG_003195_2	phrog_13138	head and packaging | virion structural protein	supporting	packaging	102.47	1.5093104821733516e-28	0.7137
+CTG_000272	CTG_000272_22	phrog_13138	head and packaging | virion structural protein	supporting	packaging	101.06	4.095630727573825e-28	0.9648
+CTG_001506	CTG_001506_2	phrog_13138	head and packaging | virion structural protein	supporting	packaging	89.44	1.4531020490551507e-24	0.652
+CTG_001173	CTG_001173_1	phrog_13163	tail | baseplate wedge subunit	supporting	tail	597.72	1.9582932919757976e-178	0.7992
+CTG_001379	CTG_001379_9	phrog_13438	tail | tail tube protein	supporting	tail	41.59	4.2771895725496936e-10	0.544
+CTG_002081	CTG_002081_3	phrog_13438	tail | tail tube protein	supporting	tail	30.24	1.2028924753378976e-06	0.5962
+CTG_000424	CTG_000424_42	phrog_13480	lysis | endolysin	supporting	endolysin	101.22	2.899112360164276e-28	0.8333
+CTG_000292	CTG_000292_20	phrog_13900	head and packaging | minor head protein	supporting	packaging	90.04	8.178180938757366e-25	0.9167
+CTG_002387	CTG_002387_5	phrog_13900	head and packaging | minor head protein	supporting	packaging	76.35	1.3942691297845363e-20	0.9015
+CTG_001617	CTG_001617_2	phrog_13900	head and packaging | minor head protein	supporting	packaging	75.25	3.053875206876683e-20	0.9394
+CTG_000156	CTG_000156_49	phrog_13900	head and packaging | minor head protein	supporting	packaging	74.34	5.841022655860713e-20	0.9318
+CTG_002786	CTG_002786_4	phrog_13900	head and packaging | minor head protein	supporting	packaging	73.78	8.658501332743347e-20	0.9394
+CTG_002891	CTG_002891_6	phrog_13900	head and packaging | minor head protein	supporting	packaging	46.37	2.574312171809926e-11	0.8712
+CTG_000491	CTG_000491_15	phrog_14467	head and packaging | virion structural protein	supporting	packaging	31.54	5.392350369962992e-07	0.7492
+CTG_003122	CTG_003122_3	phrog_14481	head and packaging | virion structural protein	supporting	packaging	53.24	9.786234955805761e-14	0.7995
+CTG_001928	CTG_001928_7	phrog_14642	lysis | endolysin	supporting	endolysin	43.78	1.0386829617870354e-10	0.5953
+CTG_003212	CTG_003212_9	phrog_14642	lysis | endolysin	supporting	endolysin	37.68	7.672295874103143e-09	0.5349
+CTG_002129	CTG_002129_5	phrog_14802	head and packaging | virion structural protein	supporting	packaging	29.95	2.848852848886604e-06	0.8659
+CTG_000736	CTG_000736_15	phrog_15205	tail | tail assembly protein	supporting	tail	73.18	7.719576602956588e-20	0.5011
+CTG_002835	CTG_002835_6	phrog_15361	head and packaging | portal protein	hallmark	portal	114.31	3.132311795473261e-32	0.7195
+CTG_000311	CTG_000311_11	phrog_15478	tail | tail length tape measure protein	supporting	tail	32.77	1.6360333503674475e-07	0.8553
+CTG_001346	CTG_001346_19	phrog_15528	head and packaging | portal protein	hallmark	portal	281.51	8.021485920273615e-83	0.5592
+CTG_000137	CTG_000137_56	phrog_15528	head and packaging | portal protein	hallmark	portal	224.94	1.0160984350770532e-65	0.5315
+CTG_002578	CTG_002578_2	phrog_15528	head and packaging | portal protein	hallmark	portal	135.8	9.130232970266315e-39	0.5101
+CTG_001335	CTG_001335_5	phrog_15528	head and packaging | portal protein	hallmark	portal	125.22	1.4449079934352823e-35	0.5315
+CTG_001612	CTG_001612_12	phrog_15531	head and packaging | head maturation protease	supporting	head maturation	98.93	2.1406652674205705e-27	0.5278
+CTG_000185	CTG_000185_23	phrog_15542	tail | tail sheath	supporting	tail	32.62	3.143828227436107e-07	0.5636
+CTG_001271	CTG_001271_6	phrog_15542	tail | tail sheath	supporting	tail	32.61	3.1619387686536846e-07	0.5364
+CTG_000348	CTG_000348_26	phrog_15542	tail | tail sheath	supporting	tail	32.01	4.844967583727023e-07	0.7273
+CTG_002702	CTG_002702_2	phrog_15542	tail | tail sheath	supporting	tail	29.77	2.4058875291680997e-06	0.5545
+CTG_001434	CTG_001434_7	phrog_15554	head and packaging | portal protein	hallmark	portal	248.07	7.524758544653792e-73	0.8288
+CTG_000058	CTG_000058_65	phrog_15566	tail | tail protein	supporting	tail	218.3	8.754755067042027e-64	0.5489
+CTG_003124	CTG_003124_1	phrog_15566	tail | tail protein	supporting	tail	163.08	4.692913078108256e-47	0.7192
+CTG_000699	CTG_000699_23	phrog_15615	head and packaging | virion structural protein	supporting	packaging	166.51	2.301474144531582e-48	0.9639
+CTG_002578	CTG_002578_2	phrog_15615	head and packaging | virion structural protein	supporting	packaging	141.91	7.938030501403757e-41	0.9588
+CTG_002653	CTG_002653_3	phrog_15615	head and packaging | virion structural protein	supporting	packaging	141.0	1.5082185101660694e-40	0.9742
+CTG_001335	CTG_001335_5	phrog_15615	head and packaging | virion structural protein	supporting	packaging	29.88	1.729378494185512e-06	0.7526
+CTG_000635	CTG_000635_3	phrog_15928	head and packaging | major head protein	hallmark	major_capsid	136.67	4.545257859562313e-39	0.9676
+CTG_001127	CTG_001127_3	phrog_15928	head and packaging | major head protein	hallmark	major_capsid	131.81	1.412870721027525e-37	0.9676
+CTG_000311	CTG_000311_21	phrog_15928	head and packaging | major head protein	hallmark	major_capsid	50.87	9.536109209400543e-13	0.8216
+CTG_002058	CTG_002058_7	phrog_16710	head and packaging | virion structural protein	supporting	packaging	148.31	1.2394450604496891e-42	0.9744
+CTG_000296	CTG_000296_9	phrog_16855	tail | Gpu-like tail protein	supporting	tail	87.77	3.774854748052755e-24	0.9494
+CTG_001658	CTG_001658_8	phrog_17214	lysis | endolysin	supporting	endolysin	29.28	3.4235816191075648e-06	0.559
+CTG_000990	CTG_000990_17	phrog_17517	tail | tail protein	supporting	tail	56.65	9.713337110228792e-15	0.63
+CTG_000411	CTG_000411_13	phrog_18032	lysis | endolysin	supporting	endolysin	118.54	1.962131317253332e-33	0.5726
+CTG_002333	CTG_002333_6	phrog_18032	lysis | endolysin	supporting	endolysin	113.46	6.98275667523288e-32	0.6734
+CTG_000261	CTG_000261_10	phrog_18032	lysis | endolysin	supporting	endolysin	111.65	2.491152052441508e-31	0.6129
+CTG_000133	CTG_000133_28	phrog_18032	lysis | endolysin	supporting	endolysin	109.67	1.0017715926342163e-30	0.5726
+CTG_000917	CTG_000917_11	phrog_18032	lysis | endolysin	supporting	endolysin	39.4	2.852146113348161e-09	0.5403
+CTG_000003	CTG_000003_55	phrog_18032	lysis | endolysin	supporting	endolysin	30.58	1.40631775578349e-06	0.5403
+CTG_000348	CTG_000348_2	phrog_18299	head and packaging | head maturation protease	supporting	head maturation	52.85	1.5877776510745883e-13	0.6965
+CTG_000279	CTG_000279_9	phrog_18299	head and packaging | head maturation protease	supporting	head maturation	31.49	5.241530158014912e-07	0.5292
+CTG_001810	CTG_001810_1	phrog_18350	tail | tail fiber protein	supporting	tail	37.34	1.1661625630531023e-08	0.5455
+CTG_000748	CTG_000748_11	phrog_18350	tail | tail fiber protein	supporting	tail	36.09	2.7996233208578213e-08	0.6522
+CTG_002288	CTG_002288_1	phrog_18350	tail | tail fiber protein	supporting	tail	28.05	7.94711365206007e-06	0.5296
+CTG_000316	CTG_000316_14	phrog_18470	head and packaging | portal protein	hallmark	portal	184.56	7.958256941165127e-54	0.8491
+CTG_002785	CTG_002785_10	phrog_18470	head and packaging | portal protein	hallmark	portal	31.04	6.62869376554069e-07	0.5776
+CTG_001789	CTG_001789_1	phrog_18557	head and packaging | terminase large subunit	hallmark	terminase_large	35.86	3.288982316779393e-08	0.7955
+CTG_001273	CTG_001273_15	phrog_18557	head and packaging | terminase large subunit	hallmark	terminase_large	29.31	3.634996691775901e-06	0.8409
+CTG_000908	CTG_000908_1	phrog_18673	tail | tail fiber protein	supporting	tail	27.36	9.310692173568262e-06	0.5201
+CTG_000685	CTG_000685_1	phrog_19299	head and packaging | terminase large subunit	hallmark	terminase_large	112.93	7.571733648577531e-32	0.5313
+CTG_000156	CTG_000156_3	phrog_19299	head and packaging | terminase large subunit	hallmark	terminase_large	72.83	1.0260564097765942e-19	0.5071
+CTG_000058	CTG_000058_94	phrog_19299	head and packaging | terminase large subunit	hallmark	terminase_large	68.88	1.5988739420153144e-18	0.5199
+CTG_002696	CTG_002696_3	phrog_19601	tail | baseplate wedge subunit	supporting	tail	39.62	4.6219731252694746e-10	0.6427
+CTG_000422	CTG_000422_24	phrog_19618	tail | tail collar protein	supporting	tail	84.95	2.672152870163291e-23	0.5142
+CTG_000704	CTG_000704_8	phrog_20658	head and packaging | head decoration	supporting	packaging	41.52	5.914207957219173e-10	0.5261
+CTG_001140	CTG_001140_11	phrog_20739	tail | tail length tape measure protein	supporting	tail	67.05	8.213611320872443e-18	0.7292
+CTG_003275	CTG_003275_2	phrog_20787	head and packaging | virion structural protein	supporting	packaging	57.09	7.887924325629581e-15	0.6418
+CTG_001931	CTG_001931_4	phrog_20787	head and packaging | virion structural protein	supporting	packaging	37.8	8.325735343299354e-09	0.6269
+CTG_001422	CTG_001422_10	phrog_20878	tail | tail fiber protein	supporting	tail	37.22	1.1932005513160216e-08	0.5151
+CTG_003214	CTG_003214_4	phrog_21277	head and packaging | terminase large subunit	hallmark	terminase_large	41.37	6.248183993371906e-10	0.8558
+CTG_000736	CTG_000736_2	phrog_21311	head and packaging | terminase large subunit	hallmark	terminase_large	110.47	5.409249177961615e-31	0.867
+CTG_000364	CTG_000364_13	phrog_21357	lysis | endolysin	supporting	endolysin	116.15	7.588655458781107e-33	0.7111
+CTG_001015	CTG_001015_19	phrog_21357	lysis | endolysin	supporting	endolysin	104.48	2.8064759205087285e-29	0.7778
+CTG_002522	CTG_002522_2	phrog_21400	head and packaging | virion structural protein	supporting	packaging	82.14	2.0933479663939068e-22	0.7194
+CTG_002386	CTG_002386_3	phrog_21400	head and packaging | virion structural protein	supporting	packaging	42.53	2.4001315050807956e-10	0.671
+CTG_000043	CTG_000043_69	phrog_21400	head and packaging | virion structural protein	supporting	packaging	37.22	9.921105796065935e-09	0.6032
+CTG_001015	CTG_001015_19	phrog_21825	lysis | endolysin	supporting	endolysin	111.3	2.9991858094555493e-31	0.5952
+CTG_000364	CTG_000364_13	phrog_21825	lysis | endolysin	supporting	endolysin	102.63	1.318988193635363e-28	0.5848
+CTG_001140	CTG_001140_11	phrog_21845	tail | tail length tape measure protein	supporting	tail	36.62	1.112666584282084e-08	0.534
+CTG_003040	CTG_003040_8	phrog_21890	lysis | endolysin	supporting	endolysin	59.73	1.8881483585516206e-15	0.5161
+CTG_000273	CTG_000273_46	phrog_23444	head and packaging | terminase small subunit	supporting	packaging	38.69	4.7252021107186105e-09	0.5079
+CTG_000994	CTG_000994_11	phrog_23444	head and packaging | terminase small subunit	supporting	packaging	37.0	1.5840815098051e-08	0.5476
+CTG_000994	CTG_000994_23	phrog_23444	head and packaging | terminase small subunit	supporting	packaging	37.0	1.5840815098051e-08	0.5476
+CTG_002895	CTG_002895_3	phrog_23444	head and packaging | terminase small subunit	supporting	packaging	36.48	2.283739358842548e-08	0.7143
+CTG_000498	CTG_000498_4	phrog_23444	head and packaging | terminase small subunit	supporting	packaging	30.58	1.5281385747406697e-06	0.5794
+CTG_000057	CTG_000057_15	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	46.07	2.5140366635242513e-11	0.5034
+CTG_000014	CTG_000014_23	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	44.09	1.0134498549198278e-10	0.5201
+CTG_000272	CTG_000272_46	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	41.78	5.092207178611958e-10	0.5201
+CTG_003239	CTG_003239_3	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	38.82	4.066620988384869e-09	0.5134
+CTG_001477	CTG_001477_3	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	38.54	4.965837789312081e-09	0.5201
+CTG_000453	CTG_000453_23	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	38.37	5.593928496929304e-09	0.5201
+CTG_000099	CTG_000099_4	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	35.65	3.7490365674619425e-08	0.5134
+CTG_000617	CTG_000617_4	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	35.25	4.983664562773883e-08	0.5101
+CTG_000569	CTG_000569_20	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	34.27	9.886007436221805e-08	0.5168
+CTG_000067	CTG_000067_37	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	34.32	9.576063547118632e-08	0.5134
+CTG_000979	CTG_000979_4	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	34.07	1.1347366360714174e-07	0.5134
+CTG_000002	CTG_000002_244	phrog_23753	head and packaging | head maturation protease	supporting	head maturation	29.97	2.0225770158131136e-06	0.5168
+CTG_002522	CTG_002522_3	phrog_23804	head and packaging | virion structural protein	supporting	packaging	43.5	1.341194949371225e-10	0.5714
+CTG_002525	CTG_002525_7	phrog_23837	head and packaging | virion structural protein	supporting	packaging	277.66	1.0526668359600667e-81	0.6686
+CTG_000034	CTG_000034_20	phrog_23837	head and packaging | virion structural protein	supporting	packaging	56.38	1.2482741217805064e-14	0.5345
+CTG_000034	CTG_000034_20	phrog_23837	head and packaging | virion structural protein	supporting	packaging	27.63	6.491309580576267e-06	0.5069
+CTG_000034	CTG_000034_20	phrog_23837	head and packaging | virion structural protein	supporting	packaging	70.72	5.644039118236021e-19	0.7179
+CTG_001381	CTG_001381_4	phrog_23837	head and packaging | virion structural protein	supporting	packaging	58.71	2.457122143409053e-15	0.5385
+CTG_001381	CTG_001381_4	phrog_23837	head and packaging | virion structural protein	supporting	packaging	96.59	8.098312766569187e-27	0.6055
+CTG_001381	CTG_001381_4	phrog_23837	head and packaging | virion structural protein	supporting	packaging	28.25	4.192693424376872e-06	0.5542
+CTG_000573	CTG_000573_1	phrog_23837	head and packaging | virion structural protein	supporting	packaging	61.57	3.350691067168276e-16	0.5227
+CTG_000032	CTG_000032_1	phrog_23837	head and packaging | virion structural protein	supporting	packaging	28.78	2.894274487993289e-06	0.5365
+CTG_002539	CTG_002539_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	112.73	6.436068072067635e-32	0.645
+CTG_000156	CTG_000156_40	phrog_24280	tail | tail fiber adhesin	supporting	tail	109.02	8.84546167625248e-31	0.6568
+CTG_000286	CTG_000286_34	phrog_24280	tail | tail fiber adhesin	supporting	tail	108.54	1.2478680754062195e-30	0.6331
+CTG_000564	CTG_000564_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	105.4	1.1474779155131317e-29	0.6864
+CTG_002692	CTG_002692_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	101.99	1.2868962086632065e-28	0.7041
+CTG_002108	CTG_002108_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	99.64	6.741283845618931e-28	0.6627
+CTG_001245	CTG_001245_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	100.04	5.114010459255963e-28	0.7101
+CTG_001864	CTG_001864_7	phrog_24280	tail | tail fiber adhesin	supporting	tail	93.92	3.8807360481075565e-26	0.6213
+CTG_000667	CTG_000667_12	phrog_24280	tail | tail fiber adhesin	supporting	tail	91.86	1.6577515869620012e-25	0.645
+CTG_000600	CTG_000600_9	phrog_24280	tail | tail fiber adhesin	supporting	tail	88.98	1.277158004348377e-24	0.6923
+CTG_001427	CTG_001427_5	phrog_24280	tail | tail fiber adhesin	supporting	tail	84.04	4.213443572450544e-23	0.6509
+CTG_001637	CTG_001637_8	phrog_24280	tail | tail fiber adhesin	supporting	tail	76.35	9.675637483639267e-21	0.5858
+CTG_002993	CTG_002993_4	phrog_24280	tail | tail fiber adhesin	supporting	tail	73.35	8.115986077898747e-20	0.6923
+CTG_003041	CTG_003041_6	phrog_24280	tail | tail fiber adhesin	supporting	tail	54.33	5.6599338245409515e-14	0.645
+CTG_003271	CTG_003271_6	phrog_24280	tail | tail fiber adhesin	supporting	tail	39.91	1.5345590052309378e-09	0.5976
+CTG_003197	CTG_003197_3	phrog_24280	tail | tail fiber adhesin	supporting	tail	38.45	4.299330939482755e-09	0.6864
+CTG_000744	CTG_000744_17	phrog_24280	tail | tail fiber adhesin	supporting	tail	30.7	1.0321328817851248e-06	0.6746
+CTG_000703	CTG_000703_21	phrog_24280	tail | tail fiber adhesin	supporting	tail	29.04	3.339489439773112e-06	0.6213
+CTG_001557	CTG_001557_3	phrog_24361	head and packaging | terminase	supporting	packaging	70.94	5.225022110353024e-19	0.784
+CTG_000065	CTG_000065_82	phrog_24361	head and packaging | terminase	supporting	packaging	54.3	6.858555507278378e-14	0.784
+CTG_001539	CTG_001539_12	phrog_24361	head and packaging | terminase	supporting	packaging	47.83	6.703282719710648e-12	0.8025
+CTG_000191	CTG_000191_8	phrog_24361	head and packaging | terminase	supporting	packaging	45.25	4.17258488080834e-11	0.8148
+CTG_000780	CTG_000780_1	phrog_24361	head and packaging | terminase	supporting	packaging	40.63	1.0965716927435295e-09	0.8148
+CTG_001247	CTG_001247_6	phrog_24361	head and packaging | terminase	supporting	packaging	38.73	4.226316749925294e-09	0.5
+CTG_002129	CTG_002129_9	phrog_24361	head and packaging | terminase	supporting	packaging	38.79	4.051872861125049e-09	0.784
+CTG_001976	CTG_001976_7	phrog_24361	head and packaging | terminase	supporting	packaging	37.67	8.945669042655724e-09	0.7037
+CTG_001039	CTG_001039_16	phrog_24361	head and packaging | terminase	supporting	packaging	34.23	1.0213786112471926e-07	0.5185
+CTG_000911	CTG_000911_7	phrog_24361	head and packaging | terminase	supporting	packaging	33.43	1.8026354112515312e-07	0.784
+CTG_002837	CTG_002837_6	phrog_24361	head and packaging | terminase	supporting	packaging	28.85	4.607316391612788e-06	0.8086
+CTG_001857	CTG_001857_6	phrog_24595	head and packaging | virion structural protein	supporting	packaging	42.61	2.51313424505813e-10	0.7231
+CTG_000822	CTG_000822_9	phrog_24638	tail | baseplate hub subunit and tail lysozyme	supporting	tail	46.73	1.196590333099995e-11	0.526
+CTG_000191	CTG_000191_40	phrog_24638	tail | baseplate hub subunit and tail lysozyme	supporting	tail	45.93	2.104205166302331e-11	0.526
+CTG_000191	CTG_000191_42	phrog_24827	tail | tail protein	supporting	tail	34.25	8.023475810647851e-08	0.5532
+CTG_000294	CTG_000294_32	phrog_24898	tail | tail fiber protein	supporting	tail	299.85	1.4011408626564403e-88	0.903
+CTG_001810	CTG_001810_5	phrog_26246	tail | tail protein	supporting	tail	38.31	4.392505283001899e-09	0.696
+CTG_001927	CTG_001927_1	phrog_26941	tail | tail protein	supporting	tail	27.31	7.281849906864474e-06	0.5025
+CTG_000590	CTG_000590_6	phrog_27398	tail | tail protein	supporting	tail	288.67	5.435156270746408e-85	0.6221
+CTG_000466	CTG_000466_20	phrog_27398	tail | tail protein	supporting	tail	451.18	2.6184902860552257e-134	0.9908
+CTG_000199	CTG_000199_19	phrog_27398	tail | tail protein	supporting	tail	450.02	5.901092536876039e-134	0.9908
+CTG_000881	CTG_000881_6	phrog_27398	tail | tail protein	supporting	tail	448.17	2.138521740063935e-133	0.9908
+CTG_000186	CTG_000186_34	phrog_27398	tail | tail protein	supporting	tail	332.9	2.055323579283266e-98	0.9908
+CTG_002635	CTG_002635_3	phrog_28246	tail | tail assembly protein	supporting	tail	50.96	9.425467926574245e-13	0.8643
+CTG_003269	CTG_003269_2	phrog_28246	tail | tail assembly protein	supporting	tail	43.72	1.6112466974526668e-10	0.8786
+CTG_000736	CTG_000736_15	phrog_28246	tail | tail assembly protein	supporting	tail	44.35	1.0360691589927066e-10	0.8643
+CTG_002373	CTG_002373_3	phrog_28246	tail | tail assembly protein	supporting	tail	40.78	1.3075873809417465e-09	0.8786
+CTG_002719	CTG_002719_4	phrog_28600	head and packaging | major head protein	hallmark	major_capsid	49.83	1.450760589347795e-12	0.5366
+CTG_001076	CTG_001076_18	phrog_29386	head and packaging | virion structural protein	supporting	packaging	54.84	5.0625997441171473e-14	0.6021
+CTG_001043	CTG_001043_20	phrog_30299	tail | tail fiber protein	supporting	tail	61.94	2.553552407437271e-16	0.7176
+CTG_001217	CTG_001217_3	phrog_30509	tail | collagen like minor tail	supporting	tail	32.39	2.5999782191944736e-07	0.5079
+CTG_000065	CTG_000065_85	phrog_31126	head and packaging | terminase small subunit	supporting	packaging	36.62	1.596409404306951e-08	0.5939
+CTG_001905	CTG_001905_1	phrog_31126	head and packaging | terminase small subunit	supporting	packaging	29.22	3.014185506756011e-06	0.5818
+CTG_000194	CTG_000194_21	phrog_32359	head and packaging | terminase large subunit	hallmark	terminase_large	124.49	2.319482824672458e-35	0.8857
+CTG_000051	CTG_000051_56	phrog_32359	head and packaging | terminase large subunit	hallmark	terminase_large	119.52	7.68982701236643e-34	0.8571
+CTG_001016	CTG_001016_12	phrog_34923	tail | tail length tape measure protein	supporting	tail	51.93	2.4042033823149266e-13	0.5463
+CTG_000699	CTG_000699_2	phrog_35518	tail | tail fiber assembly	supporting	tail	62.33	2.699226263701471e-16	0.7055
+CTG_002129	CTG_002129_9	phrog_36964	head and packaging | terminase large subunit	hallmark	terminase_large	385.24	3.051468866695636e-114	0.6303
+CTG_001162	CTG_001162_5	phrog_37990	tail | baseplate wedge subunit	supporting	tail	32.35	3.5122404329143486e-07	0.825
+CTG_000822	CTG_000822_8	phrog_37990	tail | baseplate wedge subunit	supporting	tail	33.41	1.6391300821829934e-07	0.825
+CTG_000191	CTG_000191_39	phrog_37990	tail | baseplate wedge subunit	supporting	tail	29.19	3.417745288412869e-06	0.825
+CTG_002788	CTG_002788_6	phrog_38392	tail | tail sheath	supporting	tail	33.53	1.2452535011080696e-07	0.5836
+CTG_001016	CTG_001016_18	phrog_38625	tail | tail fiber protein	supporting	tail	144.55	2.2293946481114031e-41	0.5149
+CTG_000137	CTG_000137_34	phrog_38625	tail | tail fiber protein	supporting	tail	97.99	3.002860890977625e-27	0.8078

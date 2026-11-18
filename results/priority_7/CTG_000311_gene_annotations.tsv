@@ -1,0 +1,52 @@
+gene_id	contig_id	gene_index	start	end	strand	partial_5prime	partial_3prime	aa_length	best_phrog_id	predicted_function	functional_group	bit_score	domain_evalue	profile_coverage	secondary_conflicting_profiles
+CTG_000311_1	CTG_000311	1	116	556	-1	False	False	146	NA	hypothetical protein	unknown				none
+CTG_000311_2	CTG_000311	2	563	1180	-1	False	False	205	NA	hypothetical protein	unknown				none
+CTG_000311_3	CTG_000311	3	1185	1367	-1	False	False	60	phrog_1933	putative unknown function | unknown	unknown	61.09	3.505370336217198e-16	0.7887	none
+CTG_000311_4	CTG_000311	4	1372	1680	-1	False	False	102	NA	hypothetical protein	unknown				none
+CTG_000311_5	CTG_000311	5	2242	2457	-1	False	False	71	NA	hypothetical protein	unknown				none
+CTG_000311_6	CTG_000311	6	2459	3337	-1	False	False	292	phrog_291	putative lysis | endolysin	lysis	170.76	2.445902663701585e-49	0.5147	phrog_6219
+CTG_000311_7	CTG_000311	7	3451	4497	-1	False	False	348	NA	hypothetical protein	unknown				none
+CTG_000311_8	CTG_000311	8	4502	4825	-1	False	False	107	NA	hypothetical protein	unknown				none
+CTG_000311_9	CTG_000311	9	4864	6048	-1	False	False	394	NA	hypothetical protein	unknown				none
+CTG_000311_10	CTG_000311	10	6052	6813	-1	False	False	253	NA	hypothetical protein	unknown				none
+CTG_000311_11	CTG_000311	11	6819	8582	-1	False	False	587	phrog_3981	putative tail | tail length tape measure protein	tail	71.48	4.0204088985383498e-19	0.8596	phrog_15478
+CTG_000311_12	CTG_000311	12	8787	9167	-1	False	False	126	NA	hypothetical protein	unknown				none
+CTG_000311_13	CTG_000311	13	9230	10432	-1	False	False	400	NA	hypothetical protein	unknown				none
+CTG_000311_14	CTG_000311	14	10445	10603	-1	False	False	52	NA	hypothetical protein	unknown				none
+CTG_000311_15	CTG_000311	15	10622	11056	-1	False	False	144	NA	hypothetical protein	unknown				none
+CTG_000311_16	CTG_000311	16	11053	11427	-1	False	False	124	phrog_5	putative connector | tail completion or Neck1 protein	tail	84.47	5.120455295323622e-23	0.5063	none
+CTG_000311_17	CTG_000311	17	11427	11732	-1	False	False	101	NA	hypothetical protein	unknown				none
+CTG_000311_18	CTG_000311	18	11725	12333	-1	False	False	202	NA	hypothetical protein	unknown				none
+CTG_000311_19	CTG_000311	19	12343	12660	-1	False	False	105	NA	hypothetical protein	unknown				none
+CTG_000311_20	CTG_000311	20	12719	14086	-1	False	False	455	NA	hypothetical protein	unknown				none
+CTG_000311_21	CTG_000311	21	14151	15275	-1	False	False	374	phrog_15928	putative head and packaging | major head protein	head/capsid	50.87	9.536109209400543e-13	0.8216	none
+CTG_000311_22	CTG_000311	22	15286	16404	-1	False	False	372	phrog_7015	putative head and packaging | head maturation protease	head/capsid	28.98	3.6844526725910294e-06	0.5208	none
+CTG_000311_23	CTG_000311	23	16426	18573	-1	False	False	715	phrog_2662	putative head and packaging | portal protein	packaging	436.21	1.3410948714889823e-129	0.9079	phrog_68;phrog_595;phrog_2468;phrog_12;phrog_5929
+CTG_000311_24	CTG_000311	24	18666	20297	-1	False	False	543	NA	hypothetical protein	unknown				none
+CTG_000311_25	CTG_000311	25	20257	21768	-1	False	False	503	phrog_887	putative moron, auxiliary metabolic gene and host takeover | queuine tRNA-ribosyltransferase	unknown	174.88	1.544911654695435e-50	0.8527	none
+CTG_000311_26	CTG_000311	26	21765	22337	-1	False	False	190	NA	hypothetical protein	unknown				none
+CTG_000311_27	CTG_000311	27	22334	23323	-1	False	False	329	NA	hypothetical protein	unknown				none
+CTG_000311_28	CTG_000311	28	23320	23697	-1	False	False	125	phrog_17812	putative unknown function | unknown	unknown	58.41	4.722757850143432e-15	0.9391	none
+CTG_000311_29	CTG_000311	29	23699	24406	-1	False	False	235	phrog_2197	putative other | GTP cyclohydrolase	unknown	232.92	1.1156078179181125e-68	0.94	none
+CTG_000311_30	CTG_000311	30	24414	24560	-1	False	False	48	NA	hypothetical protein	unknown				none
+CTG_000311_31	CTG_000311	31	24557	25198	-1	False	False	213	phrog_2076	putative moron, auxiliary metabolic gene and host takeover | QueE-like  radical SAM domain	unknown	152.2	8.712748355817828e-44	0.9433	none
+CTG_000311_32	CTG_000311	32	25301	25672	-1	False	False	123	NA	hypothetical protein	unknown				none
+CTG_000311_33	CTG_000311	33	25679	25798	-1	False	False	39	NA	hypothetical protein	unknown				none
+CTG_000311_34	CTG_000311	34	25803	26129	-1	False	False	108	NA	hypothetical protein	unknown				none
+CTG_000311_35	CTG_000311	35	26126	26434	-1	False	False	102	NA	hypothetical protein	unknown				none
+CTG_000311_36	CTG_000311	36	26549	26929	-1	False	False	126	NA	hypothetical protein	unknown				none
+CTG_000311_37	CTG_000311	37	26942	27328	-1	False	False	128	NA	hypothetical protein	unknown				none
+CTG_000311_38	CTG_000311	38	27333	27701	-1	False	False	122	NA	hypothetical protein	unknown				none
+CTG_000311_39	CTG_000311	39	27722	28105	-1	False	False	127	NA	hypothetical protein	unknown				none
+CTG_000311_40	CTG_000311	40	28110	28901	-1	False	False	263	NA	hypothetical protein	unknown				none
+CTG_000311_41	CTG_000311	41	29053	29514	-1	False	False	153	phrog_72	putative DNA, RNA and nucleotide metabolism | NinB/ Orf homologous recombination mediator	unknown	64.59	5.848635318237053e-17	0.8758	none
+CTG_000311_42	CTG_000311	42	29501	29725	-1	False	False	74	NA	hypothetical protein	unknown				none
+CTG_000311_43	CTG_000311	43	29731	29994	-1	False	False	87	NA	hypothetical protein	unknown				none
+CTG_000311_44	CTG_000311	44	29991	30296	-1	False	False	101	NA	hypothetical protein	unknown				none
+CTG_000311_45	CTG_000311	45	30301	30534	-1	False	False	77	NA	hypothetical protein	unknown				none
+CTG_000311_46	CTG_000311	46	30541	30984	-1	False	False	147	phrog_44	putative DNA, RNA and nucleotide metabolism | single strand DNA binding protein	unknown	167.95	1.8573583608488234e-48	0.5166	phrog_25370
+CTG_000311_47	CTG_000311	47	31004	31639	-1	False	False	211	phrog_10477	putative DNA, RNA and nucleotide metabolism | exonuclease	replication	57.98	6.8881262894891195e-15	0.9177	none
+CTG_000311_48	CTG_000311	48	31694	32476	-1	False	False	260	phrog_298	putative DNA, RNA and nucleotide metabolism | exonuclease	replication	110.34	5.5511682547679576e-31	0.7577	phrog_3953
+CTG_000311_49	CTG_000311	49	32478	33278	-1	False	False	266	phrog_37405	putative unknown function | unknown	unknown	118.26	2.238200899061273e-33	0.6697	none
+CTG_000311_50	CTG_000311	50	33366	33614	-1	False	False	82	NA	hypothetical protein	unknown				none
+CTG_000311_51	CTG_000311	51	33622	34176	-1	False	True	184	NA	hypothetical protein	unknown				none

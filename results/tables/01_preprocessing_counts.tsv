@@ -1,0 +1,2 @@
+mode	total_raw_records	excluded_corrupt_or_duplicate	archived_short_lt5kb	retained_ge5kb	priority_ge10kb
+sample	221228	30	217810	3388	1502

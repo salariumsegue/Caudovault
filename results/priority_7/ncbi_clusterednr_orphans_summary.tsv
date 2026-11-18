@@ -1,0 +1,12 @@
+query_id	contig_id	aa_length	top_hit_accession	top_hit_description	top_hit_organism	query_cover_pct	pct_identity	evalue	bit_score	biological_interpretation
+CTG_000145_9	CTG_000145	128	MEN9490968.1	Klebsiella phage	Pseudomonadota bacterium	65	61.45	2e-32	121	DUF6378 / nucleotide-modification-associated domain 1; widespread in uncultured Caudoviricetes
+CTG_000145_31	CTG_000145	616	HEY1644814.1	hypothetical protein	Saccharimonadales bacterium (SeqCode)	95	58.07	0.0	724	Terminase large subunit homolog; clusters with Saccharimonadales, Bacteroidia, and Sulfuriferula MAG prophages
+CTG_000145_34	CTG_000145	150	HEX5324606.1	hypothetical protein	Capsulimonadaceae bacterium	76	69.30	5e-35	128	Structural/scaffolding protein; Acidobacteriota/Capsulimonadaceae MAG prophage homologs
+CTG_000145_37	CTG_000145	645	HEY1645263.1	hypothetical protein	Saccharimonadales bacterium (SeqCode)	99	46.27	0.0	544	Portal protein; matches Saccharimonadales, Occallatibacter, and Sulfuriferula MAG prophages
+CTG_000145_42	CTG_000145	320	HEY1645038.1	Mu-like prophage major head subunit gpT family protein	Saccharimonadales bacterium (SeqCode)	100	66.88	7e-155	446	Mu-like gpT major capsid protein; confirms membership in an uncultured Mu-like environmental prophage clade
+CTG_000311_16	CTG_000311	124	HBI50266.1	hypothetical protein	Candidatus Moraniibacteriota bacterium	100	55.65	1e-45	154	HK97-gp10 family neck/tail completion protein; syntenic with Moraniibacteriota MAG prophage
+CTG_000311_18	CTG_000311	202	XOB41795.1	MAG: hypothetical protein ACKKMS_00125	Candidatus Nealsoniibacteriota bacterium	94	33.51	2e-26	110	Head-tail connector protein; matches Nealsoniibacteriota and Moraniibacteriota (HBI50268.1, 33.0%)
+CTG_000311_21	CTG_000311	374	HBI50275.1	phage major capsid protein	Candidatus Moraniibacteriota bacterium	100	42.82	2e-87	279	HK97-family major capsid protein; matches Moraniibacteriota and Parcubacteria (MFA5777622.1, 42.37%)
+CTG_000311_22	CTG_000311	372	MFA5777623.1	HK97 family phage prohead protease	Parcubacteria group bacterium	66	53.21	5e-48	175	HK97 prohead protease; matches Parcubacteria and Moraniibacteriota (HBI50276.1, 54.55%)
+CTG_000311_23	CTG_000311	715	MFA5777624.1	phage portal protein	Parcubacteria group bacterium	100	52.35	0.0	775	HK97-family portal protein; matches Parcubacteria and Moraniibacteriota (HBI50277.1, 52.54%)
+CTG_000311_24	CTG_000311	543	MHY2402454.1	hypothetical protein	Candidatus Altimarinota bacterium	85	49.35	1e-149	447	Terminase large subunit; matches Altimarinota, Promethearchaeota, and Armatimonadota MAGs

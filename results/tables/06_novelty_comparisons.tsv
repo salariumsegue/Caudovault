@@ -1,0 +1,94 @@
+contig_id	closest_reference_accession	closest_reference_db	closest_reference_aliases	sourmash_jaccard_k21	sourmash_jaccard_k31	method	aligned_identity_pct	nonredundant_aligned_bases_query	query_aligned_fraction	ref_aligned_fraction	genome_length_ratio	approx_wgs_pct	novelty_interpretation	sourmash_shared_hashes
+CTG_000043	NC_029119	RefSeq_Phage	RefSeq_Phage:NC_029119	0.0005	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.6957	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000051	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000058	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000065	NC_031057	RefSeq_Phage	RefSeq_Phage:NC_031057	0.0	0.0004	exact_31mer_anchor_fallback	100.0	31.0	0.0004	0.0002	0.4149	0.02	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000111	NC_041892	RefSeq_Phage	RefSeq_Phage:NC_041892	0.001	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.5813	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000122	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000129	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000137	NC_031120	RefSeq_Phage	RefSeq_Phage:NC_031120	0.0003	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.2197	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000145	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000153	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000156	NC_023595	RefSeq_Phage	RefSeq_Phage:NC_023595	0.0011	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.8491	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000169	NC_022762	RefSeq_Phage	RefSeq_Phage:NC_022762	0.0013	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.7254	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000191	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000194	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000253	NC_023701	RefSeq_Phage	RefSeq_Phage:NC_023701	0.0009	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.5552	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000273	NC_049436	RefSeq_Phage	RefSeq_Phage:NC_049436	0.0009	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.4955	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000281	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000286	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000296	NC_061432	RefSeq_Phage	RefSeq_Phage:NC_061432	0.0012	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.7689	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000298	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000311	NC_070936	RefSeq_Phage	RefSeq_Phage:NC_070936	0.0003	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.1349	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000316	NC_031909	RefSeq_Phage	RefSeq_Phage:NC_031909	0.0006	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.252	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000337	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000348	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000349	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000363	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000364	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000424	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000431	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000498	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000564	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000573	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000581	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000600	NC_022968	RefSeq_Phage	RefSeq_Phage:NC_022968	0.0006	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.1483	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000623	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000635	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000647	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000648	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000672	NC_019544	RefSeq_Phage	RefSeq_Phage:NC_019544	0.0015	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.4153	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000692	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000699	NC_054664	RefSeq_Phage	RefSeq_Phage:NC_054664	0.0014	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.4047	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000703	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000708	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000710	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000725	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000736	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000767	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000780	NC_020855	RefSeq_Phage	RefSeq_Phage:NC_020855	0.0005	0.0	exact_31mer_anchor_fallback	100.0	32.0	0.0018	0.0002	0.0943	0.03	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000816	NC_026606	RefSeq_Phage	RefSeq_Phage:NC_026606	0.0012	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.2435	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_000826	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000853	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_000961	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001013	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001016	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001038	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001043	NC_021559	RefSeq_Phage	RefSeq_Phage:NC_021559	0.0005	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.0781	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_001095	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001110	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001127	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001164	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001251	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001301	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001323	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001335	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001348	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001416	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001426	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001434	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001539	NC_020845	RefSeq_Phage	RefSeq_Phage:NC_020845	0.0005	0.0	exact_31mer_anchor_fallback	100.0	46.0	0.0047	0.0003	0.0541	0.05	no_close_match_in_frozen_references_provisional_candidate	
+CTG_001623	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001795	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001836	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001873	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001884	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_001942	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002003	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002010	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002065	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002075	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002123	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002155	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002181	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002183	NC_070773	RefSeq_Phage	RefSeq_Phage:NC_070773	0.0019	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.1618	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_002419	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002496	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002578	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002653	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002657	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_002731	NC_055877	RefSeq_Phage	RefSeq_Phage:NC_055877	0.001	0.0	exact_31mer_anchor_fallback	0.0	0.0	0.0	0.0	0.064	0.0	no_close_match_in_frozen_references_provisional_candidate	
+CTG_002833	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_003146	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_003214	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0
+CTG_003216	none	none	none										no_sketch_or_anchor_match_in_references_provisional_candidate	0.0

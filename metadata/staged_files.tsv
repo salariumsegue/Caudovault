@@ -1,0 +1,4 @@
+file	bytes	sha256	downloaded_utc
+data/raw/assembly.fasta.gz	78280503	02a0412a0bf02d6599a67823de0a5f2f6ab0d297c197cf11cd5cfc04c334c5bf	2026-11-17T21:38:26Z
+data/references/pharokka/pharokka_db.tar.gz	735068575	3a0b2300e74425077a6c15cc24c2694990d248846cb8e74f0f2f7747181550a5	2026-11-17T21:38:30Z
+data/references/refseq/refseq_phages.fna.gz	116464647	68089f8276f0d2efc6e49b0b4addc14f255e6ae91159b8eeb71a8bab0e8436fa	2026-11-17T21:38:31Z
