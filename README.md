@@ -3,8 +3,7 @@
 Offline-ready Python pipeline that screens assembled metagenomic contigs (>=5 kb, priority >=10 kb) for candidate
 tailed bacteriophages, checks terminal-repeat closure, and compares candidates to frozen reference snapshots.
 
-Keep this project on local disk, not in iCloud Drive — iCloud can evict files mid-run and will sync every
-intermediate file.
+
 
 ## Setup
 ```bash
