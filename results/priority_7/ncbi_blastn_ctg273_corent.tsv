@@ -1,0 +1,7 @@
+contig_id	rid	database	program	query_len_bp	top_hit_accession	top_hit_description	max_query_cover_pct	top_identity_pct	top_evalue	conclusion
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	CP049682.1	Polynucleobacter paneuropaeus strain AP-RePozz9-10-D2 chromosome	5	63.71	2e-53	Confirmed novel across core_nt (max 5% query cover, 62.8%-75.1% nt identity; well below 85% cov / 95% ANI)
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	BK031899.1	MAG TPA_asm: Bacteriophage sp. isolate ctgiU3, partial genome	4	64.58	6e-47	Top viral hit in core_nt (4% cover)
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	PV330005.1	Bordetella phage vB_BbrP_003, complete genome	5	62.83	1e-23	5% cover, 62.83% identity
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	NC_005357.1	Bordetella phage BPP-1, complete genome	3	65.16	2e-21	3% cover, 65.16% identity (matches ViPTree v4.2 top hit)
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	OR221805.1	MAG: Caudoviricetes sp. isolate MSP1209 genomic sequence	1	73.09	3e-31	1% cover, 73.09% identity
+CTG_000273	FVPFG1V3014	core_nt	blastn	37043	LR796145.1	uncultured Caudovirales phage genome assembly	1	75.12	9e-26	1% cover, 75.12% identity
