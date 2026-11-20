@@ -1,5 +1,7 @@
 # Freshwater tailed-phage candidate screen
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24408019.svg)](https://doi.org/10.5281/zenodo.24408019)
+
 Offline-ready Python pipeline that screens assembled metagenomic contigs (>=5 kb, priority >=10 kb) for candidate
 tailed bacteriophages, checks terminal-repeat closure, and compares candidates to frozen reference snapshots.
 
